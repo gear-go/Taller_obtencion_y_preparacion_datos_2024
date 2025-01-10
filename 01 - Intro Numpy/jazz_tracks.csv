@@ -1,0 +1,977 @@
+artist_id,track_id,track_name,album_name,release_date,popularity,duration_ms,preview_url,spotify_url
+5FgkTUuCNKDlilidPvZqOq,6DWIm1TfM9WiCNQeLbbAsd,The Entertainer,Fingerbreaker: Classics Of Ragtime And Early Jazz Piano,1999-01-01,47,233600,,https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd
+5FgkTUuCNKDlilidPvZqOq,5isqktHl4sn3tmbVgiH9BV,The Entertainer - The Sting/Soundtrack Version/Orchestra Version,Music Therapy,2021-03-12,19,183360,,https://open.spotify.com/track/5isqktHl4sn3tmbVgiH9BV
+5FgkTUuCNKDlilidPvZqOq,4AE032Y0x1WPOi5CsmggnU,Maple Leaf Rag,"Joplin: Piano Rags, Vol. 1",2004-07-28,42,189906,,https://open.spotify.com/track/4AE032Y0x1WPOi5CsmggnU
+5FgkTUuCNKDlilidPvZqOq,62UCBLV4ZmkNo6RQ30iuF0,Stoptime Rag,"Joplin: Piano Rags, Vol. 2",2007-05-29,32,168586,,https://open.spotify.com/track/62UCBLV4ZmkNo6RQ30iuF0
+5FgkTUuCNKDlilidPvZqOq,1HAflFvM0fNSOi7h97tccy,Elite Syncopations (arr. I. Perlman for violin and piano),"Gershwin, G.: Porgy and Bess Suite / 3 Preludes / Antheil, G.: Violin Sonata No. 2 / Copland, A.: 2 Pieces (Trusler, Marshall) (Blues)",2006-01-01,31,184720,,https://open.spotify.com/track/1HAflFvM0fNSOi7h97tccy
+5FgkTUuCNKDlilidPvZqOq,5cO1oGqX8S2w96CwISPlLE,Maple Leaf Rag,Scott Joplin Piano Rags,2005-11-01,30,200106,,https://open.spotify.com/track/5cO1oGqX8S2w96CwISPlLE
+5FgkTUuCNKDlilidPvZqOq,19EpWpKyjYxPiZSomHxvln,Maple Leaf Rag,Piano Book (Deluxe Edition),2019-03-29,25,207746,,https://open.spotify.com/track/19EpWpKyjYxPiZSomHxvln
+5FgkTUuCNKDlilidPvZqOq,5MI9eNLuAgEZzK5GqZACRK,Pine Apple Rag,"Joplin: Piano Rags, Vol. 1",2004-07-28,28,222586,,https://open.spotify.com/track/5MI9eNLuAgEZzK5GqZACRK
+5FgkTUuCNKDlilidPvZqOq,4YJw1jG9PC056RT1SdvyDH,The Ragtime Dance (arr. I. Perlman for violin and piano),"Gershwin, G.: Porgy and Bess Suite / 3 Preludes / Antheil, G.: Violin Sonata No. 2 / Copland, A.: 2 Pieces (Trusler, Marshall) (Blues)",2006-01-01,28,204466,,https://open.spotify.com/track/4YJw1jG9PC056RT1SdvyDH
+5FgkTUuCNKDlilidPvZqOq,0bKewqEAZeQkFqWd3XW3CK,The Ragtime Dance,Scott Joplin Piano Rags,2005-11-01,27,198293,,https://open.spotify.com/track/0bKewqEAZeQkFqWd3XW3CK
+3jv6pAyHB1AdqsddS21c4O,5WijbWR9U3fWmftYv1i4eF,Buddy Bolden Stomp,Back and Forth the King's Path,2015-12-04,15,234475,,https://open.spotify.com/track/5WijbWR9U3fWmftYv1i4eF
+3jv6pAyHB1AdqsddS21c4O,0XSEn0imZsP5NWEwEUJxS2,Makin' Runs,Back and Forth the King's Path,2015-12-04,14,250880,,https://open.spotify.com/track/0XSEn0imZsP5NWEwEUJxS2
+3jv6pAyHB1AdqsddS21c4O,0zgxTsS8xOgP5fFgR1Zsjo,Make Me a Pallet on Your Floor (Atlanta Blues),Back and Forth the King's Path,2015-12-04,11,214909,,https://open.spotify.com/track/0zgxTsS8xOgP5fFgR1Zsjo
+3jv6pAyHB1AdqsddS21c4O,0Ak8pLFu4QquavYJxjzAqv,High Society Rag,Back and Forth the King's Path,2015-12-04,10,252421,,https://open.spotify.com/track/0Ak8pLFu4QquavYJxjzAqv
+3jv6pAyHB1AdqsddS21c4O,168RlAZxepj5m4LONLt4Aj,Jelly Roll Blues,Back and Forth the King's Path,2015-12-04,9,338677,,https://open.spotify.com/track/168RlAZxepj5m4LONLt4Aj
+3jv6pAyHB1AdqsddS21c4O,4cOA36gXjkPvLSYg0f2e5H,Buddy Bolden Blues,Back and Forth the King's Path,2015-12-04,7,291291,,https://open.spotify.com/track/4cOA36gXjkPvLSYg0f2e5H
+3jv6pAyHB1AdqsddS21c4O,0LKJBmjyDsbfL5uUTYGo7s,Basin Street Blues,Back and Forth the King's Path,2015-12-04,6,408581,,https://open.spotify.com/track/0LKJBmjyDsbfL5uUTYGo7s
+3jv6pAyHB1AdqsddS21c4O,09Qv6hiqAW8P3qAEJm8YiO,Buddy's Habits,Back and Forth the King's Path,2015-12-04,5,278674,,https://open.spotify.com/track/09Qv6hiqAW8P3qAEJm8YiO
+3jv6pAyHB1AdqsddS21c4O,55gAwVmzUgkaQ6n2F7rqH4,Down by the Riverside,Back and Forth the King's Path,2015-12-04,4,183248,,https://open.spotify.com/track/55gAwVmzUgkaQ6n2F7rqH4
+3jv6pAyHB1AdqsddS21c4O,69RKFLSymmWU1o3gEJANyD,My Bucket Got an Hole in it,Back and Forth the King's Path,2015-12-04,4,350406,,https://open.spotify.com/track/69RKFLSymmWU1o3gEJANyD
+7fvNIXXszS6FTHROnZVsK4,6ZRsVuvtvim8tY5H3gWBxG,The Bucket's Got a Hole in It,The Complete Columbia Session 1946,2007,26,150986,,https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG
+7fvNIXXszS6FTHROnZVsK4,1dzWkVqSJemdUBZyPf7Lzb,Muskrat Ramble,Kid Ory Selected Favorites,2006-06-20,1,154000,,https://open.spotify.com/track/1dzWkVqSJemdUBZyPf7Lzb
+7fvNIXXszS6FTHROnZVsK4,4ZLIHujcza8qLpgsVnHPnM,Joshua Fit the Battle of Jericho - Remastered,Golden Selection (Remastered),2021-08-13,19,178253,,https://open.spotify.com/track/4ZLIHujcza8qLpgsVnHPnM
+7fvNIXXszS6FTHROnZVsK4,4QG3OOfalKh8aKIPSeUAoG,"Eh, La Bas",Sounds Of New Orleans Vol. 9,1990,21,288653,,https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG
+7fvNIXXszS6FTHROnZVsK4,6PtBRHj6npjpRagizEHmnk,I'm a Mighty Tight Woman,"Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929)",2012-11-01,5,171400,,https://open.spotify.com/track/6PtBRHj6npjpRagizEHmnk
+7fvNIXXszS6FTHROnZVsK4,3ly7C5fLhc4U3GSEzHiLaO,Savoy Blues,"Essential Classics, Vol. 105: Kid Ory",2023-10-13,17,177199,,https://open.spotify.com/track/3ly7C5fLhc4U3GSEzHiLaO
+7fvNIXXszS6FTHROnZVsK4,1VRiETWcLQyYMbz8eHhDI5,Gut Bucket Blues,Kid Ory Selected Favorites,2006-06-20,0,168500,,https://open.spotify.com/track/1VRiETWcLQyYMbz8eHhDI5
+7fvNIXXszS6FTHROnZVsK4,2DkxkFGvB8G6kIPFoUXl9u,Mad Dog,The King of Jazz Story - All Original Recordings - Remastered,2013-08-09,2,172068,,https://open.spotify.com/track/2DkxkFGvB8G6kIPFoUXl9u
+7fvNIXXszS6FTHROnZVsK4,7pCu5Se9NPtTa2F9iBVfh2,Muskrat Ramble,Kid Ory & His Creole Jazz Band 1922 - 1947,2005-03-22,16,172382,,https://open.spotify.com/track/7pCu5Se9NPtTa2F9iBVfh2
+7fvNIXXszS6FTHROnZVsK4,50YdQGWIMWnhassJPjzG0N,Sweet Little Papa,"Essential Classics, Vol. 105: Kid Ory",2023-10-13,16,169018,,https://open.spotify.com/track/50YdQGWIMWnhassJPjzG0N
+112yP6AwAT6QG34fiGGpmh,4xR1tOO9p4cnDNmIEttfaZ,Livery Stable Blues,1917-36,1992,27,187093,,https://open.spotify.com/track/4xR1tOO9p4cnDNmIEttfaZ
+112yP6AwAT6QG34fiGGpmh,4lpABAEz6pviy9jbCRyEhU,Tiger Rag,1917-36,1992,23,166893,,https://open.spotify.com/track/4lpABAEz6pviy9jbCRyEhU
+112yP6AwAT6QG34fiGGpmh,7kgKDLJ2e9UzHK5TQDJALp,Tiger Rag - 1992 Remastered,The 75th Anniversary,1992-03-10,11,187840,,https://open.spotify.com/track/7kgKDLJ2e9UzHK5TQDJALp
+112yP6AwAT6QG34fiGGpmh,1M2hIfzxoy5icRntsiSGeb,Clarinet Marmalade,Presenting The Original Dixieland Jazz Band,1916-12-24,12,156640,,https://open.spotify.com/track/1M2hIfzxoy5icRntsiSGeb
+112yP6AwAT6QG34fiGGpmh,6yQtyBuClgS5abvVeo9pdU,Palesteena,Original Dixieland Jazz Band,2000-01-01,10,168959,,https://open.spotify.com/track/6yQtyBuClgS5abvVeo9pdU
+112yP6AwAT6QG34fiGGpmh,25YgvLm7QL9SUwiNghQJ0Q,Tiger Rag 3,Presenting The Original Dixieland Jazz Band,1916-12-24,11,156025,,https://open.spotify.com/track/25YgvLm7QL9SUwiNghQJ0Q
+112yP6AwAT6QG34fiGGpmh,1OgFB7PkildqrFJ3yVvFlB,St. Louis Blues,1917-36,1992,16,191733,,https://open.spotify.com/track/1OgFB7PkildqrFJ3yVvFlB
+112yP6AwAT6QG34fiGGpmh,2Oos0KgleLckvaEcWuha4U,Bow Wow Blues (My Mama Treats Me Like A Dog),1917-36,1992,14,193533,,https://open.spotify.com/track/2Oos0KgleLckvaEcWuha4U
+112yP6AwAT6QG34fiGGpmh,0SmMtMdCjbzWJNdmXJCy2o,Ostrich Walk,Presenting The Original Dixieland Jazz Band,1916-12-24,11,140960,,https://open.spotify.com/track/0SmMtMdCjbzWJNdmXJCy2o
+112yP6AwAT6QG34fiGGpmh,6HCMcdSfQn9QvWCzV37uaf,Dixie Jass Band One-Step,"The First Jazz Recordings, 1917-1921",1998,8,160266,,https://open.spotify.com/track/6HCMcdSfQn9QvWCzV37uaf
+1iSzpYFWquQjjeTFQPLjMp,1ovv2yiV7hA1pSxjIksHu0,Memphis Blues,Lieut. Jim Europe's Anthology,2022-12-09,2,180120,,https://open.spotify.com/track/1ovv2yiV7hA1pSxjIksHu0
+1iSzpYFWquQjjeTFQPLjMp,7wvdAYKJeBZnoT5ZHlSijE,The Dancing Deacon,"Early Syncopated Dance Music - Cakewalks, Two-Steps, Trots and Glides",1978-01-01,1,196040,,https://open.spotify.com/track/7wvdAYKJeBZnoT5ZHlSijE
+1iSzpYFWquQjjeTFQPLjMp,09Yve989XWHIS0BUKaS4xP,On Patrol in No Man's Land,Lieut. Jim Europe's Anthology,2022-12-09,0,142344,,https://open.spotify.com/track/09Yve989XWHIS0BUKaS4xP
+1iSzpYFWquQjjeTFQPLjMp,2LMKDzVGwpSSnYhhOUa9PP,Clarinet Marmalade,Lieut. Jim Europe's Anthology,2022-12-09,0,173688,,https://open.spotify.com/track/2LMKDzVGwpSSnYhhOUa9PP
+1iSzpYFWquQjjeTFQPLjMp,52tU4Ydh4MzyBQ3nmtwjIh,Plantation Echoes,Lieut. Jim Europe's Anthology,2022-12-09,0,173568,,https://open.spotify.com/track/52tU4Ydh4MzyBQ3nmtwjIh
+1iSzpYFWquQjjeTFQPLjMp,4kln6rYP3isYuwN0O20k0R,St. Louis Blues,Lieut. Jim Europe's Anthology,2022-12-09,0,186528,,https://open.spotify.com/track/4kln6rYP3isYuwN0O20k0R
+1iSzpYFWquQjjeTFQPLjMp,2QYOW5y2e7q4whCT35NTnb,Ja Da,Lieut. Jim Europe's Anthology,2022-12-09,0,180000,,https://open.spotify.com/track/2QYOW5y2e7q4whCT35NTnb
+1iSzpYFWquQjjeTFQPLjMp,7pm079Y9P7LB8RC6s9twah,Jazzola,Lieut. Jim Europe's Anthology,2022-12-09,0,175272,,https://open.spotify.com/track/7pm079Y9P7LB8RC6s9twah
+1iSzpYFWquQjjeTFQPLjMp,4tIkfTSJm7D209rNuN2IDD,How Ya Gonna Keep Em Down on the Farm,How Ya Gonna Keep Em Down on the Farm,1919-06-11,0,187798,,https://open.spotify.com/track/4tIkfTSJm7D209rNuN2IDD
+1iSzpYFWquQjjeTFQPLjMp,025jQtsnmWRQQSCpjrEYxv,Darktown Strutters' Ball,Lieut. Jim Europe's Anthology,2022-12-09,0,172896,,https://open.spotify.com/track/025jQtsnmWRQQSCpjrEYxv
+19eLuQmk9aCobbVDHc6eek,29U7stRjqHU6rMiS8BfaI9,What A Wonderful World,What A Wonderful World,1968-01-01,76,139226,,https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9
+19eLuQmk9aCobbVDHc6eek,33GkcZ89Aj254FaJoFwCl9,Cool Yule,Louis Wishes You a Cool Yule,2022-10-28,67,176699,,https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9
+19eLuQmk9aCobbVDHc6eek,5OLmn2zkijgVleNhMRjYQp,I've Got My Love To Keep Me Warm,Ella And Louis Again,1957-02-25,59,189040,,https://open.spotify.com/track/5OLmn2zkijgVleNhMRjYQp
+19eLuQmk9aCobbVDHc6eek,0zDVclPMSsjeyvbnqhWOmt,La vie en rose - Single Version,Satchmo Serenades,1952-04-01,69,203760,,https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt
+19eLuQmk9aCobbVDHc6eek,3HuJDcOWx0gE9Yng2uWY7K,Dream A Little Dream Of Me,What A Wonderful World,1968-01-01,65,196840,,https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K
+19eLuQmk9aCobbVDHc6eek,4Kh0X8pMk2yIFf4jnGXrTZ,"'Zat You, Santa Claus? - Single Version",Louis Wishes You a Cool Yule,2022-10-28,57,169092,,https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ
+19eLuQmk9aCobbVDHc6eek,5TNpCThzzXHEipXGKgNG8T,Cheek To Cheek,Ella and Louis,1956-10-01,61,353266,,https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T
+19eLuQmk9aCobbVDHc6eek,280jC1bGyGtZq3VXsSk6hH,Christmas In New Orleans,Louis Wishes You a Cool Yule,2022-10-28,62,175001,,https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH
+19eLuQmk9aCobbVDHc6eek,2TfyqvQaE39nfWcVm34IBL,Winter Wonderland,"Louis ""Satchmo"" Armstrong & Friends",1989-01-01,55,182106,,https://open.spotify.com/track/2TfyqvQaE39nfWcVm34IBL
+19eLuQmk9aCobbVDHc6eek,63kd4m3VFxcJjPVVtbVNAu,"Hello, Dolly!","Hello, Dolly! (Remastered)",1964-10-25,62,147000,,https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu
+24PJRbYtu3Cq5CuF24c1QZ,1mWA7EZ5MEVD7GJg57wPpB,Speakeasy Blues,Papa Joe,1926-12-24,28,171573,,https://open.spotify.com/track/1mWA7EZ5MEVD7GJg57wPpB
+24PJRbYtu3Cq5CuF24c1QZ,6rqrN2bLrxW5ZB7OmWUwQe,Don't You Think I Love You,Papa Joe,1926-12-24,24,165093,,https://open.spotify.com/track/6rqrN2bLrxW5ZB7OmWUwQe
+24PJRbYtu3Cq5CuF24c1QZ,34xltl5k5VCJWwBv7xRv9U,Mahogany Hall Stomp,King of the Blues,1953-11-01,24,159312,,https://open.spotify.com/track/34xltl5k5VCJWwBv7xRv9U
+24PJRbYtu3Cq5CuF24c1QZ,2ejfSFxWLzXn0eMSmH0fMc,A Sheridan Square,King Oliver Plays the Blues,1959-03-24,23,202292,,https://open.spotify.com/track/2ejfSFxWLzXn0eMSmH0fMc
+24PJRbYtu3Cq5CuF24c1QZ,7aHtuJ7EB2bAPjNjaqZ23h,Canal Street Blues,Top 75 Classics - The Very Best of King Oliver,2014-03-21,3,151480,,https://open.spotify.com/track/7aHtuJ7EB2bAPjNjaqZ23h
+24PJRbYtu3Cq5CuF24c1QZ,3FBBaCXX3tNFqTJ1jqriPd,Out of Nowhere,Back O'Town,1956-07-18,21,180395,,https://open.spotify.com/track/3FBBaCXX3tNFqTJ1jqriPd
+24PJRbYtu3Cq5CuF24c1QZ,4depv9tqv9UKi4oEl1C7WK,Rhythm Club Stomp,King Oliver Plays the Blues,1959-03-24,22,179699,,https://open.spotify.com/track/4depv9tqv9UKi4oEl1C7WK
+24PJRbYtu3Cq5CuF24c1QZ,2OW0vRGhMUFaU99Pt8AXed,Snake Rag - Remastered,The Legend of King Oliver (Remastered),2020-03-20,12,192854,,https://open.spotify.com/track/2OW0vRGhMUFaU99Pt8AXed
+24PJRbYtu3Cq5CuF24c1QZ,5kj7mcORRFpUIglrvgw3bx,Alligator Hop,Top 75 Classics - The Very Best of King Oliver,2014-03-21,0,145466,,https://open.spotify.com/track/5kj7mcORRFpUIglrvgw3bx
+24PJRbYtu3Cq5CuF24c1QZ,03hVp1z8nc8QOxCs6iFffx,Chimes Blues,Papa Joe,1926-12-24,18,171453,,https://open.spotify.com/track/03hVp1z8nc8QOxCs6iFffx
+4XepUkisa56DUeA3gbjDQD,2aJAX1CdLTde85RwXWX9UU,Sweet Jazz Music,Number Three,1955-10-09,30,106463,,https://open.spotify.com/track/2aJAX1CdLTde85RwXWX9UU
+4XepUkisa56DUeA3gbjDQD,03AJFnihWPcf9VbPTNvh4b,Georgia Swing,The Pearls,2008-09-01,22,149640,,https://open.spotify.com/track/03AJFnihWPcf9VbPTNvh4b
+4XepUkisa56DUeA3gbjDQD,0BSmm3x2fXczZuML8c8IlT,King Porter Stomp,Jelly Roll Morton 1923/24,1992-01-01,29,156866,,https://open.spotify.com/track/0BSmm3x2fXczZuML8c8IlT
+4XepUkisa56DUeA3gbjDQD,1aSEXfmjaaCigbzLLtZlAm,Black Bottom Stomp - 2002 Remastered,Jazz King Of New Orleans,2002-03-05,28,192426,,https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm
+4XepUkisa56DUeA3gbjDQD,2pdYhyZASHUmCQGlGAhbQ8,Wolverine Blues,High Society,1922-12-24,12,205450,,https://open.spotify.com/track/2pdYhyZASHUmCQGlGAhbQ8
+4XepUkisa56DUeA3gbjDQD,6P3dYz8xQaZEJZhRvICoAq,Doctor Jazz,High Society,1922-12-24,15,208253,,https://open.spotify.com/track/6P3dYz8xQaZEJZhRvICoAq
+4XepUkisa56DUeA3gbjDQD,2WGJLHi0T90Nk5QP1w7QrW,New Orleans Bump (Monrovia),Greatest Jazz Hits,2013-12-01,20,214134,,https://open.spotify.com/track/2WGJLHi0T90Nk5QP1w7QrW
+4XepUkisa56DUeA3gbjDQD,26P33sl8X21QQwIRepPO5q,I Thought I Heard Buddy Bolden Say,High Society,1922-12-24,12,193826,,https://open.spotify.com/track/26P33sl8X21QQwIRepPO5q
+4XepUkisa56DUeA3gbjDQD,3Wg4BD7xrsRjKWhN7OIYxd,Kansas City Stomp,Fingerbreaker: Classics Of Ragtime And Early Jazz Piano,1999-01-01,21,165133,,https://open.spotify.com/track/3Wg4BD7xrsRjKWhN7OIYxd
+4XepUkisa56DUeA3gbjDQD,7xzRLS1crTGiCyoSi9njZo,Maple Leaf Rag,The Pearls,2008-09-01,20,162640,,https://open.spotify.com/track/7xzRLS1crTGiCyoSi9njZo
+1RsmXc1ZqW3WBs9iwxiSwk,5FWn20xrAQ1IdbA8Dml6pj,Si tu vois ma mère - Slow,Les Années Bechet,1997-05-06,53,193573,,https://open.spotify.com/track/5FWn20xrAQ1IdbA8Dml6pj
+1RsmXc1ZqW3WBs9iwxiSwk,3RlJx8xwZEyToSuGrygilr,Summertime,Jazz Classics,1993-01-01,42,251906,,https://open.spotify.com/track/3RlJx8xwZEyToSuGrygilr
+1RsmXc1ZqW3WBs9iwxiSwk,2ALXKyI9lB1HoIwJh7I2v0,Petite Fleur,Les Années Bechet,1997-05-06,44,198106,,https://open.spotify.com/track/2ALXKyI9lB1HoIwJh7I2v0
+1RsmXc1ZqW3WBs9iwxiSwk,1MnZ4GnKNSqCPX96GdMt3v,Lazy River,Ragtime Jazz,1973-03-13,42,253203,,https://open.spotify.com/track/1MnZ4GnKNSqCPX96GdMt3v
+1RsmXc1ZqW3WBs9iwxiSwk,4sHMm4xzOe9cz68cf9I25k,All Of Me,The Fabulous Sidney Bechet,2000-01-01,41,248066,,https://open.spotify.com/track/4sHMm4xzOe9cz68cf9I25k
+1RsmXc1ZqW3WBs9iwxiSwk,6mhzK4YvxzG2MQseaazRGt,Joshua Fit De Battle of Jericho,Runnin' Wild,1998-01-01,38,201826,,https://open.spotify.com/track/6mhzK4YvxzG2MQseaazRGt
+1RsmXc1ZqW3WBs9iwxiSwk,26zJinKqbORQyrDyMFLQhS,Blues My Naughty Sweetie Gives To Me,The Fabulous Sidney Bechet,2000-01-01,37,343040,,https://open.spotify.com/track/26zJinKqbORQyrDyMFLQhS
+1RsmXc1ZqW3WBs9iwxiSwk,1EWPMNHfdVNJwBpG9BcxXB,Blue Horizon,Jazz Classics,1993-01-01,26,264933,,https://open.spotify.com/track/1EWPMNHfdVNJwBpG9BcxXB
+1RsmXc1ZqW3WBs9iwxiSwk,4RANOjG2ty5PzN7yAwd8JH,Stormy Weather,Les Années Bechet,1997-05-06,30,159573,,https://open.spotify.com/track/4RANOjG2ty5PzN7yAwd8JH
+1RsmXc1ZqW3WBs9iwxiSwk,3PUtYKdfuWKpg3lhQR7CnY,Lazy River,Classic Sides 1940 (CD D),2007-01-01,28,256507,,https://open.spotify.com/track/3PUtYKdfuWKpg3lhQR7CnY
+1ygXiRxKSfb927vhBH1ruH,0tGs8feVlnuw2HiEITqVZI,Slave To The Blues,Ma Rainey,1992-01-01,32,157906,,https://open.spotify.com/track/0tGs8feVlnuw2HiEITqVZI
+1ygXiRxKSfb927vhBH1ruH,7KZ6eGK7OuLXUzTVGdc7cL,Runaway Blues,Ma Rainey,1992-01-01,28,146226,,https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL
+1ygXiRxKSfb927vhBH1ruH,2YxkOPNASq5ZnsCiVd5U9x,Booze and Blues,Gone Daddy Blues,1923-12-23,10,191613,,https://open.spotify.com/track/2YxkOPNASq5ZnsCiVd5U9x
+1ygXiRxKSfb927vhBH1ruH,1YsMANmQtAPlyXAVSY5c8R,"""Ma"" Rainey's Black Bottom",Gone Daddy Blues,1923-12-23,11,191493,,https://open.spotify.com/track/1YsMANmQtAPlyXAVSY5c8R
+1ygXiRxKSfb927vhBH1ruH,1KYYYu00FNvI6FhC12mbMF,Prove It On Me Blues,Gone Daddy Blues,1923-12-23,4,165093,,https://open.spotify.com/track/1KYYYu00FNvI6FhC12mbMF
+1ygXiRxKSfb927vhBH1ruH,0XgKLbFxVt0LT3CnsxgWVg,Stack O'Lee Blues - Alternate Take,Gone Daddy Blues,1923-12-23,7,175733,,https://open.spotify.com/track/0XgKLbFxVt0LT3CnsxgWVg
+1ygXiRxKSfb927vhBH1ruH,1AyJdWbh3z3xCfYwIPIW1G,Dead Drunk Blues,Gone Daddy Blues,1923-12-23,6,172973,,https://open.spotify.com/track/1AyJdWbh3z3xCfYwIPIW1G
+1ygXiRxKSfb927vhBH1ruH,7dkifKCsBAUeZmjI7yklM5,See See Rider Blues,Gone Daddy Blues,1923-12-23,8,195493,,https://open.spotify.com/track/7dkifKCsBAUeZmjI7yklM5
+1ygXiRxKSfb927vhBH1ruH,7BwLKYp2BERZtLANo61v1U,Prove It On Me Blues - Alternate Take,Gone Daddy Blues,1923-12-23,8,161373,,https://open.spotify.com/track/7BwLKYp2BERZtLANo61v1U
+1ygXiRxKSfb927vhBH1ruH,62EoPZVylvGUYIAIlJj94i,Sweet Rough Man,Ma Rainey,1992-01-01,11,185733,,https://open.spotify.com/track/62EoPZVylvGUYIAIlJj94i
+5ESobCkc6JI4tIMxQttqeg,3ru8IZrBxuFFHOFKEvvpFP,Nobody Knows You When You're Down and Out - 78rpm Version,The Essential Bessie Smith,1997,36,176133,,https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP
+5ESobCkc6JI4tIMxQttqeg,4cONZSyuyS2Ovt3CDCobkh,At the Christmas Ball - 78rpm Version,The Essential Bessie Smith,1997,28,203600,,https://open.spotify.com/track/4cONZSyuyS2Ovt3CDCobkh
+5ESobCkc6JI4tIMxQttqeg,17THAwZLC5xgi25y3S3sHQ,Devil's Gonna Git You,"The Complete Recordings, Vol. 4",1993-04-26,29,190026,,https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ
+5ESobCkc6JI4tIMxQttqeg,2il8ICaZ6X9eQ8GiobqqcJ,'Tain't Nobody's Bizness If I Do,The Collection,1989-02-28,22,207826,,https://open.spotify.com/track/2il8ICaZ6X9eQ8GiobqqcJ
+5ESobCkc6JI4tIMxQttqeg,5JUhjSyjxtO4uEguZfyf26,Downhearted Blues,The Collection,1989-02-28,19,204800,,https://open.spotify.com/track/5JUhjSyjxtO4uEguZfyf26
+5ESobCkc6JI4tIMxQttqeg,0VxpwPvCkAXfZkOuvg6zHJ,Baby Won't You Please Come Home,The Essential Bessie Smith,1997,23,175226,,https://open.spotify.com/track/0VxpwPvCkAXfZkOuvg6zHJ
+5ESobCkc6JI4tIMxQttqeg,6T3ksjC4K8IPqw1hvH5SKJ,St. Louis Blues,Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934,1995-04-09,24,189600,,https://open.spotify.com/track/6T3ksjC4K8IPqw1hvH5SKJ
+5ESobCkc6JI4tIMxQttqeg,4g8n2xeOM9YeYmT79IIx99,Need a Little Sugar in My Bowl,The Essential Bessie Smith,1997,19,166893,,https://open.spotify.com/track/4g8n2xeOM9YeYmT79IIx99
+5ESobCkc6JI4tIMxQttqeg,0OMXoMlMuh6TXqtunbKtf8,I'm Wild About That Thing - 78 rpm Version,"The Complete Recordings, Vol. 4",1993-04-26,22,167493,,https://open.spotify.com/track/0OMXoMlMuh6TXqtunbKtf8
+5ESobCkc6JI4tIMxQttqeg,4uu1F4n3svGBToDxcnjC0V,St. Louis Blues (with Louis Armstrong),The Collection,1989-02-28,16,189066,,https://open.spotify.com/track/4uu1F4n3svGBToDxcnjC0V
+7fvNIXXszS6FTHROnZVsK4,6ZRsVuvtvim8tY5H3gWBxG,The Bucket's Got a Hole in It,The Complete Columbia Session 1946,2007,26,150986,,https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG
+7fvNIXXszS6FTHROnZVsK4,1dzWkVqSJemdUBZyPf7Lzb,Muskrat Ramble,Kid Ory Selected Favorites,2006-06-20,1,154000,,https://open.spotify.com/track/1dzWkVqSJemdUBZyPf7Lzb
+7fvNIXXszS6FTHROnZVsK4,4ZLIHujcza8qLpgsVnHPnM,Joshua Fit the Battle of Jericho - Remastered,Golden Selection (Remastered),2021-08-13,19,178253,,https://open.spotify.com/track/4ZLIHujcza8qLpgsVnHPnM
+7fvNIXXszS6FTHROnZVsK4,4QG3OOfalKh8aKIPSeUAoG,"Eh, La Bas",Sounds Of New Orleans Vol. 9,1990,21,288653,,https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG
+7fvNIXXszS6FTHROnZVsK4,6PtBRHj6npjpRagizEHmnk,I'm a Mighty Tight Woman,"Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929)",2012-11-01,5,171400,,https://open.spotify.com/track/6PtBRHj6npjpRagizEHmnk
+7fvNIXXszS6FTHROnZVsK4,3ly7C5fLhc4U3GSEzHiLaO,Savoy Blues,"Essential Classics, Vol. 105: Kid Ory",2023-10-13,17,177199,,https://open.spotify.com/track/3ly7C5fLhc4U3GSEzHiLaO
+7fvNIXXszS6FTHROnZVsK4,1VRiETWcLQyYMbz8eHhDI5,Gut Bucket Blues,Kid Ory Selected Favorites,2006-06-20,0,168500,,https://open.spotify.com/track/1VRiETWcLQyYMbz8eHhDI5
+7fvNIXXszS6FTHROnZVsK4,2DkxkFGvB8G6kIPFoUXl9u,Mad Dog,The King of Jazz Story - All Original Recordings - Remastered,2013-08-09,2,172068,,https://open.spotify.com/track/2DkxkFGvB8G6kIPFoUXl9u
+7fvNIXXszS6FTHROnZVsK4,7pCu5Se9NPtTa2F9iBVfh2,Muskrat Ramble,Kid Ory & His Creole Jazz Band 1922 - 1947,2005-03-22,16,172382,,https://open.spotify.com/track/7pCu5Se9NPtTa2F9iBVfh2
+7fvNIXXszS6FTHROnZVsK4,50YdQGWIMWnhassJPjzG0N,Sweet Little Papa,"Essential Classics, Vol. 105: Kid Ory",2023-10-13,16,169018,,https://open.spotify.com/track/50YdQGWIMWnhassJPjzG0N
+5Epg9knob31gEXJGg9V5Sp,1SrtP6uhdZqUroUnOSX0ME,Potato Head Blues,Wild Man Blues,2023-03-20,30,181760,,https://open.spotify.com/track/1SrtP6uhdZqUroUnOSX0ME
+5Epg9knob31gEXJGg9V5Sp,79r2B2PCe5y2fiKA0Nfjpk,Melancholy,Black Legends Of Jazz,1994-11-08,31,158240,,https://open.spotify.com/track/79r2B2PCe5y2fiKA0Nfjpk
+5Epg9knob31gEXJGg9V5Sp,0CUBTGZZF9fjoXlHVmOkgb,Wild Man Blues,Mad Dog,1926-12-17,24,191891,,https://open.spotify.com/track/0CUBTGZZF9fjoXlHVmOkgb
+5Epg9knob31gEXJGg9V5Sp,2YRAVd2Ye7ixAD9dcbL0wz,Wolverine Blues,"Clarinet Wobble, Vol. 3",2005,3,207826,,https://open.spotify.com/track/2YRAVd2Ye7ixAD9dcbL0wz
+5Epg9knob31gEXJGg9V5Sp,7A5uynAkC6pPrGdH7qvl5s,Melancholy - 21/01/1938,New Orleans Stomp (Live Recording),1991-10-27,28,163040,,https://open.spotify.com/track/7A5uynAkC6pPrGdH7qvl5s
+5Epg9knob31gEXJGg9V5Sp,7BDbQ6wrKBppYIm9UJjtZZ,"Come On And Stomp, Stomp, Stomp",Mad Dog,1926-12-17,20,175680,,https://open.spotify.com/track/7BDbQ6wrKBppYIm9UJjtZZ
+5Epg9knob31gEXJGg9V5Sp,2RNAAJypLVd8uGiT2gT7AX,I'm Goin' Huntin',Mad Dog,1926-12-17,20,179600,,https://open.spotify.com/track/2RNAAJypLVd8uGiT2gT7AX
+5Epg9knob31gEXJGg9V5Sp,4vPo59BbUoVcNRw6YZ86kX,Little Bits,Mad Dog,1926-12-17,15,179213,,https://open.spotify.com/track/4vPo59BbUoVcNRw6YZ86kX
+5Epg9knob31gEXJGg9V5Sp,7CpUSq76BDJvQ2oJDpXzwB,Wild Man Blues,Wild Man Blues,2023-03-20,18,194925,,https://open.spotify.com/track/7CpUSq76BDJvQ2oJDpXzwB
+5Epg9knob31gEXJGg9V5Sp,6PtBRHj6npjpRagizEHmnk,I'm a Mighty Tight Woman,"Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929)",2012-11-01,5,171400,,https://open.spotify.com/track/6PtBRHj6npjpRagizEHmnk
+4F7Q5NV6h5TSwCainz8S5A,0E8q2Fx2XuzXCO2NSAppkR,In A Sentimental Mood,Duke Ellington & John Coltrane,1963-02,64,255226,,https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR
+4F7Q5NV6h5TSwCainz8S5A,4rmCI9VWrwrJTJ8XQ80BMN,My Little Brown Book,Duke Ellington & John Coltrane,1963-02,58,319733,,https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN
+4F7Q5NV6h5TSwCainz8S5A,2OyMysbUPsAV7W3ga8Lqr0,Sugar Rum Cherry (Dance of the Sugar-Plum Fairy),Three Suites,1990,52,185186,,https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0
+4F7Q5NV6h5TSwCainz8S5A,49LbQuFaJ7Itj8PWfr0xHR,In a Sentimental Mood,"Milestones of Jazz Legends - Oscar Peterson & The Greatest Singers, Vol. 5",2019-08-02,28,167773,,https://open.spotify.com/track/49LbQuFaJ7Itj8PWfr0xHR
+4F7Q5NV6h5TSwCainz8S5A,26rJZsPc58Tz6Gqo3Vgauk,I'm Beginning To See The Light,D-Day 80,2024-06-05,27,162733,,https://open.spotify.com/track/26rJZsPc58Tz6Gqo3Vgauk
+4F7Q5NV6h5TSwCainz8S5A,6KBsivP3Of4z2x6uNMAyE3,"Take the ""A"" Train",Piano In The Background (Expanded Edition),1961-05-15,45,331800,,https://open.spotify.com/track/6KBsivP3Of4z2x6uNMAyE3
+4F7Q5NV6h5TSwCainz8S5A,6X0ol8ijGFA4AbIqVlYfVB,"Take the ""A"" Train",Ken Burns Jazz-Duke Ellington,2000-10-30,38,171973,,https://open.spotify.com/track/6X0ol8ijGFA4AbIqVlYfVB
+4F7Q5NV6h5TSwCainz8S5A,4M5Mnz9ORqaMMUAgKtv3bI,It Don't Mean a Thing (If It Ain't Got That Swing),The Great Reunion,1963,43,240040,,https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI
+4F7Q5NV6h5TSwCainz8S5A,1qHrF4XOI6Pliy7atNjLds,Isfahan,Far East Suite,1967,44,245880,,https://open.spotify.com/track/1qHrF4XOI6Pliy7atNjLds
+4F7Q5NV6h5TSwCainz8S5A,6aQjtWVOYLhaatELyPBt12,The Feeling Of Jazz,Duke Ellington & John Coltrane,1963-02,44,329986,,https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12
+2jFZlvIea42ZvcCw4OeEdA,5b7OgznPJJr1vHNYGyvxau,Fly Me To The Moon (In Other Words),Sinatra/Basie: The Complete Reprise Studio Recordings,1962-12-10,71,147000,,https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau
+2jFZlvIea42ZvcCw4OeEdA,0gCUGnwXiNOHV3KsUxRHuC,Blue Lester,Giants Of Jazz: Guitar,2004-01-27,24,204226,,https://open.spotify.com/track/0gCUGnwXiNOHV3KsUxRHuC
+2jFZlvIea42ZvcCw4OeEdA,6RjGsdwR9180sKxT6oow4B,Good Morning Blues,Christmas Songs,2010-11-26,9,195548,,https://open.spotify.com/track/6RjGsdwR9180sKxT6oow4B
+2jFZlvIea42ZvcCw4OeEdA,3HXdy2r9RzawSwqQCwkjnP,The Best Is Yet To Come,Sinatra/Basie: The Complete Reprise Studio Recordings,1962-12-10,45,173226,,https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP
+2jFZlvIea42ZvcCw4OeEdA,4JvJYTZkgm6yUUl4H8sk4C,Pennies From Heaven,Sinatra/Basie: The Complete Reprise Studio Recordings,1962-12-10,48,207200,,https://open.spotify.com/track/4JvJYTZkgm6yUUl4H8sk4C
+2jFZlvIea42ZvcCw4OeEdA,3ZqUgiXhgZLvFVANODTACs,On The Sunny Side Of The Street,100 Songs For A Centennial,2017-04-21,29,185773,,https://open.spotify.com/track/3ZqUgiXhgZLvFVANODTACs
+2jFZlvIea42ZvcCw4OeEdA,3Y0LpU5kqQ3vSZvwcGjl1M,Splanky,The Atomic Mr Basie,1958,46,217373,,https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M
+2jFZlvIea42ZvcCw4OeEdA,2rNTDvroUXAmJZrlHHNcw9,"Alright, Okay, You Win",The Complete Clef & Verve Fifties Studio Recordings,2005-06-27,35,185706,,https://open.spotify.com/track/2rNTDvroUXAmJZrlHHNcw9
+2jFZlvIea42ZvcCw4OeEdA,3oRx6kr2B2sLQWwKM3f7Ks,"Li'l Darlin' - Live At The Tropicana Hotel, Las Vegas/1969",Standing Ovation,1969-01-01,40,292306,,https://open.spotify.com/track/3oRx6kr2B2sLQWwKM3f7Ks
+2jFZlvIea42ZvcCw4OeEdA,0a545c4gOsyYupVvliDOy0,More (Theme From Mondo Cane),Sinatra/Basie: The Complete Reprise Studio Recordings,1962-12-10,42,181480,,https://open.spotify.com/track/0a545c4gOsyYupVvliDOy0
+1pBuKaLHJlIlqYxQQaflve,7g36G7ILTsPplmz3NkTB8z,Moonglow,"Essential Classics, Vol. 24: Teddy Wilson",2023-10-06,43,202999,,https://open.spotify.com/track/7g36G7ILTsPplmz3NkTB8z
+1pBuKaLHJlIlqYxQQaflve,6uzEKJ8Trsm9yYvbuKu8JH,Winter Weather (feat. Peggy Lee) - 78rpm Version,Benny Goodman Featuring Peggy Lee,1993-06-01,54,179533,,https://open.spotify.com/track/6uzEKJ8Trsm9yYvbuKu8JH
+1pBuKaLHJlIlqYxQQaflve,1xUJ1mdLAysxNBtO9w3J2g,Stompin At The Savoy,B. G. In Hi Fi,1990-01-01,54,195533,,https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g
+1pBuKaLHJlIlqYxQQaflve,61znp1Iy11bdJ2YAbwaqw7,"Sing, Sing, Sing",Ken Burns Jazz-Benny Goodman,1928,46,520133,,https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7
+1pBuKaLHJlIlqYxQQaflve,7I168JM2wKoUj1ZZ9gqVaN,Chicago,Late Night Benny Goodman,2024-02-03,44,179840,,https://open.spotify.com/track/7I168JM2wKoUj1ZZ9gqVaN
+1pBuKaLHJlIlqYxQQaflve,3cio4LvYTxtgPo2FY4C7Ce,If I Had You,You Will Meet a Tall Dark Stranger (Original Motion Picture Soundrack),2010-09-20,30,182826,,https://open.spotify.com/track/3cio4LvYTxtgPo2FY4C7Ce
+1pBuKaLHJlIlqYxQQaflve,2AFLjcssAvJq62eeHZ0Q4q,Where Or When,Small Groups: 1941-1945,1989-03-28,44,200600,,https://open.spotify.com/track/2AFLjcssAvJq62eeHZ0Q4q
+1pBuKaLHJlIlqYxQQaflve,66m0HAzq6VtZmdrdpuZQ9k,On The Sunny Side Of The Street,Small Groups: 1941-1945,1989-03-28,28,190533,,https://open.spotify.com/track/66m0HAzq6VtZmdrdpuZQ9k
+1pBuKaLHJlIlqYxQQaflve,2GB5IFkYe55f1ZRPSs5Eje,Santa Claus Came in the Spring,The Birth Of Swing,1991-10-22,33,192306,,https://open.spotify.com/track/2GB5IFkYe55f1ZRPSs5Eje
+1pBuKaLHJlIlqYxQQaflve,0gNtxeFh10Pqdnc84h90EG,Don't Be That Way,"Sing, Sing, Sing",1987-09-01,30,198373,,https://open.spotify.com/track/0gNtxeFh10Pqdnc84h90EG
+2ovJLSejirvJybNers2YG6,0BsqNKCUq2HpFxuo62Oi9e,Sugar,Fletcher Henderson & His Orchestra Vol 2,1926-01-01,22,175016,,https://open.spotify.com/track/0BsqNKCUq2HpFxuo62Oi9e
+2ovJLSejirvJybNers2YG6,6LQUyKvytl0BhLbA5RY2XU,Sing You Sinners,First Impressions,1921-12-17,29,159280,,https://open.spotify.com/track/6LQUyKvytl0BhLbA5RY2XU
+2ovJLSejirvJybNers2YG6,69hGNx6ZkUnAc7iLsCTtWs,At the Christmas Ball,"Smith, Bessie: Preachin' the Blues (1925-1927)",2004-07-28,3,210666,,https://open.spotify.com/track/69hGNx6ZkUnAc7iLsCTtWs
+2ovJLSejirvJybNers2YG6,6vhdW9tVRCnRKGfNSmnkWP,Rug Cutter's Swing,Greatest Hits,2009-08-18,22,187533,,https://open.spotify.com/track/6vhdW9tVRCnRKGfNSmnkWP
+2ovJLSejirvJybNers2YG6,1pgHHr6dO5BFKggWMEYfLr,Hot And Anxious,The Definitive,2000-11-07,24,199373,,https://open.spotify.com/track/1pgHHr6dO5BFKggWMEYfLr
+2ovJLSejirvJybNers2YG6,55Wp33HuuKSRpdS9GPs919,Wrappin' It Up,Classics,2010-10-24,10,166739,,https://open.spotify.com/track/55Wp33HuuKSRpdS9GPs919
+2ovJLSejirvJybNers2YG6,2sJui2hAG9oIilZZzSQ5X7,Blue Lou,First Impressions,1921-12-17,22,190106,,https://open.spotify.com/track/2sJui2hAG9oIilZZzSQ5X7
+2ovJLSejirvJybNers2YG6,1pbfCGqNxVHaa9eoib2ogy,Shanghai Shuffle,First Impressions,1921-12-17,20,178480,,https://open.spotify.com/track/1pbfCGqNxVHaa9eoib2ogy
+2ovJLSejirvJybNers2YG6,59uGmwqrztk4PDSdUuvM5Q,Fidgety Feet,First Impressions,1921-12-17,21,173013,,https://open.spotify.com/track/59uGmwqrztk4PDSdUuvM5Q
+2ovJLSejirvJybNers2YG6,08w24icKv5AHENd93vw2ln,Careless Love,"Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929)",2012-11-01,4,206760,,https://open.spotify.com/track/08w24icKv5AHENd93vw2ln
+03cwCzIWQ8BRmXjGPDAL04,1tHEG0p4dxBkIQZF9MhOVs,Zah zuh zah,"America, Vol. 6: Early Jazz - The Birth of Swing",2014-01-20,23,209160,,https://open.spotify.com/track/1tHEG0p4dxBkIQZF9MhOVs
+03cwCzIWQ8BRmXjGPDAL04,5Bw7Nf4mJAOQMtb2Ir9uJX,Everybody Eats When They Come To My House,Hi De Ho Man,1974-03-02,39,167266,,https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX
+03cwCzIWQ8BRmXjGPDAL04,2JOJBxwRHWYcdXiOxZmoFv,Minnie the Moocher (Theme Song),Best Of The Big Bands,1989,39,194133,,https://open.spotify.com/track/2JOJBxwRHWYcdXiOxZmoFv
+03cwCzIWQ8BRmXjGPDAL04,0oc9nj1coTLePE4AuTEVyc,St. James' Infirmary,The Early Years 1930-1934 - CD A,2001,33,185266,,https://open.spotify.com/track/0oc9nj1coTLePE4AuTEVyc
+03cwCzIWQ8BRmXjGPDAL04,2mtwzzP1UsijURCuDBIptp,Minnie the Moocher (Alternate Take),Presenting Cab Calloway,1931-05-12,26,195213,,https://open.spotify.com/track/2mtwzzP1UsijURCuDBIptp
+03cwCzIWQ8BRmXjGPDAL04,3wPiJPl2X2IvzgKqj22baD,Jumpin Jive,Hi De Ho Man,1974-03-02,32,169666,,https://open.spotify.com/track/3wPiJPl2X2IvzgKqj22baD
+03cwCzIWQ8BRmXjGPDAL04,75KTx0hIldbW0mfIlXA5VH,Minnie The Moocher,The Early Years 1930-1934 - CD A,2001,15,194213,,https://open.spotify.com/track/75KTx0hIldbW0mfIlXA5VH
+03cwCzIWQ8BRmXjGPDAL04,0XudDOmAKd1O3yV7bFDLox,The Jumpin' Jive,Best Of The Big Bands,1989,29,167360,,https://open.spotify.com/track/0XudDOmAKd1O3yV7bFDLox
+03cwCzIWQ8BRmXjGPDAL04,34LTPimLjIG8Cumg0ZeScS,The Ghost Of Smokey Joe,Halloween Classics: Songs That Scared The Bloomers Off Your Great-Grandma,2007-10-09,29,164280,,https://open.spotify.com/track/34LTPimLjIG8Cumg0ZeScS
+03cwCzIWQ8BRmXjGPDAL04,5rX4q49W5mub2x99DIEu7q,Reefer Man,"Chronological Calloway, Vol 1 (1932-33)",2024-02-02,19,180822,,https://open.spotify.com/track/5rX4q49W5mub2x99DIEu7q
+5wam12nGWDBIrLDV78TNSF,5Mt5Q5J5mDFIKs4r2HRQsT,Frenesi,Begin The Beguine,1987-09-01,49,186506,,https://open.spotify.com/track/5Mt5Q5J5mDFIKs4r2HRQsT
+5wam12nGWDBIrLDV78TNSF,5OxesorQA2Gu1r0bGRTkX0,Moonglow,Begin The Beguine,1987-09-01,49,213333,,https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0
+5wam12nGWDBIrLDV78TNSF,0YJAz1QqMNrPhJ2vhHupcZ,Begin the Beguine,Begin The Beguine,1987-09-01,47,196160,,https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ
+5wam12nGWDBIrLDV78TNSF,52QqyuqnNuYtlSWqxubc8s,There's Frost On The Moon,In The Beginning,1992-04-25,32,180640,,https://open.spotify.com/track/52QqyuqnNuYtlSWqxubc8s
+5wam12nGWDBIrLDV78TNSF,0rgrTA1Tbpz6K7CZpGBJHs,Stardust,Begin The Beguine,1987-09-01,42,214666,,https://open.spotify.com/track/0rgrTA1Tbpz6K7CZpGBJHs
+5wam12nGWDBIrLDV78TNSF,7fHZYrMfkuIx8SBrkZGMcX,It Had To Be You,The Essential Artie Shaw,2005-06-28,37,148906,,https://open.spotify.com/track/7fHZYrMfkuIx8SBrkZGMcX
+5wam12nGWDBIrLDV78TNSF,6y8ptSvYTlhjzhnZKmEf5z,"Softly, As In A Morning Sunrise",The Essential Artie Shaw,2005-06-28,37,192240,,https://open.spotify.com/track/6y8ptSvYTlhjzhnZKmEf5z
+5wam12nGWDBIrLDV78TNSF,4Z7k1Hgf5ol7O8oQBouzeZ,I Can't Believe That You're In Love With Me,The Essential Artie Shaw,2005-06-28,36,187733,,https://open.spotify.com/track/4Z7k1Hgf5ol7O8oQBouzeZ
+5wam12nGWDBIrLDV78TNSF,5T0I4hotWZGEQnQYqD4gwr,Deep In A Dream,The Essential Artie Shaw,2005-06-28,35,195346,,https://open.spotify.com/track/5T0I4hotWZGEQnQYqD4gwr
+5wam12nGWDBIrLDV78TNSF,3XNVIq8NFQIYCagYl764Ae,Nightmare,Begin The Beguine,1987-09-01,29,169960,,https://open.spotify.com/track/3XNVIq8NFQIYCagYl764Ae
+2aAHdB5HweT3mFcRzm0swc,54h1RKrrFJDsNOfhwmqu9o,In the Mood - Live,The Glenn Miller Carnegie Hall Concert (Live),1939,59,209573,,https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o
+2aAHdB5HweT3mFcRzm0swc,5quBme70LuheSh4N7NnZ7Q,Moonlight Serenade,The Essential Glenn Miller,1972-09-30,53,202186,,https://open.spotify.com/track/5quBme70LuheSh4N7NnZ7Q
+2aAHdB5HweT3mFcRzm0swc,4m05XqmfZb8ILRv90rNw16,A String of Pearls,The Essential Glenn Miller,1972-09-30,41,193200,,https://open.spotify.com/track/4m05XqmfZb8ILRv90rNw16
+2aAHdB5HweT3mFcRzm0swc,0KeSmGmcyyOhwUCe0i64uH,Chattanooga Choo Choo,The Essential Glenn Miller,1972-09-30,40,206213,,https://open.spotify.com/track/0KeSmGmcyyOhwUCe0i64uH
+2aAHdB5HweT3mFcRzm0swc,3IQszsgf4pVaETe1oDiSKs,Don't Sit Under The Apple Tree (With Anyone Else But Me),The Essential Glenn Miller,1972-09-30,34,190160,,https://open.spotify.com/track/3IQszsgf4pVaETe1oDiSKs
+2aAHdB5HweT3mFcRzm0swc,7ois1WbkgFLBqMinZzHYrG,American Patrol,The Essential Glenn Miller,1972-09-30,35,196520,,https://open.spotify.com/track/7ois1WbkgFLBqMinZzHYrG
+2aAHdB5HweT3mFcRzm0swc,0H5dnOYw1mgdk7yhqpoVJh,Pennsylvania 6-5000,Pure Gold,1980-04-09,41,192240,,https://open.spotify.com/track/0H5dnOYw1mgdk7yhqpoVJh
+2aAHdB5HweT3mFcRzm0swc,2eaKGydOVPvd3trMPYFnS9,Moonlight Serenade,25 Sucesos: Baile de Saudade,2014-05-01,26,218600,,https://open.spotify.com/track/2eaKGydOVPvd3trMPYFnS9
+2aAHdB5HweT3mFcRzm0swc,6ufOgXeD2PmO1cnuxrCJbX,Sunrise Serenade,Pure Gold,1980-04-09,36,203960,,https://open.spotify.com/track/6ufOgXeD2PmO1cnuxrCJbX
+2aAHdB5HweT3mFcRzm0swc,1XUEPrcHsUQFPfUBKCm20s,Moonlight Cocktail - Remastered,The Essential Glenn Miller,1972-09-30,34,195640,,https://open.spotify.com/track/1XUEPrcHsUQFPfUBKCm20s
+2PjgZkwAEk7UTin4jP6HLP,7g36G7ILTsPplmz3NkTB8z,Moonglow,"Essential Classics, Vol. 24: Teddy Wilson",2023-10-06,43,202999,,https://open.spotify.com/track/7g36G7ILTsPplmz3NkTB8z
+2PjgZkwAEk7UTin4jP6HLP,71ZgxJIApKmssV44AD1Zva,A Taste Of Honey,You Better Know It!!!,1964-01-01,52,164373,,https://open.spotify.com/track/71ZgxJIApKmssV44AD1Zva
+2PjgZkwAEk7UTin4jP6HLP,03MYXczT3SF2QYCdZYVUpJ,Boogie Woogie Santa Claus,Merry Christmas,2005-09-27,51,162746,,https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ
+2PjgZkwAEk7UTin4jP6HLP,6HbU2JY9VmQib0pTYl3se8,Swingle Jingle,You Better Know It!!!,1964-01-01,45,173013,,https://open.spotify.com/track/6HbU2JY9VmQib0pTYl3se8
+2PjgZkwAEk7UTin4jP6HLP,7LeKjqGhrGUf819GA5v08z,How High The Moon - 3rd Take,The War Years (1941-1947),1994-09-13,12,193933,,https://open.spotify.com/track/7LeKjqGhrGUf819GA5v08z
+2PjgZkwAEk7UTin4jP6HLP,4z1E9GltZHciLum0ybby9h,Louise,Hamp & Getz,1955-01-01,43,407800,,https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h
+2PjgZkwAEk7UTin4jP6HLP,2A0L5d4R6yil35FSp5YwD6,Merry Christmas Baby,Merry Christmas Baby (1950-1951),2011-01-01,6,204840,,https://open.spotify.com/track/2A0L5d4R6yil35FSp5YwD6
+2PjgZkwAEk7UTin4jP6HLP,29BTMxdj9j48TPdlWeeMki,Hot Mallets,The Essential Lionel Hampton,2014-03-07,23,134466,,https://open.spotify.com/track/29BTMxdj9j48TPdlWeeMki
+2PjgZkwAEk7UTin4jP6HLP,6qUFE8I57BbisxlobesnwU,Exactly Like You,After You've Gone:The Original Benny Goodman Trio And Quartet,1987-09-01,36,198400,,https://open.spotify.com/track/6qUFE8I57BbisxlobesnwU
+2PjgZkwAEk7UTin4jP6HLP,4OZzIwEb5dbflWsphUCvFf,Lavender Coffin,Hamp The Legendary Decca Recordings Of Lionel Hampton,1996-03-12,24,165466,,https://open.spotify.com/track/4OZzIwEb5dbflWsphUCvFf
+0JM134st8VY7Ld9T2wQiH0,2xm9ihELo6xwrRKrBbPql9,Body and Soul,Body & Soul,1996-05-21,51,182360,,https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9
+0JM134st8VY7Ld9T2wQiH0,6PKCEB5JzjCizpz9hUQcpX,It Never Entered My Mind,Coleman Hawkins Encounters Ben Webster (Expanded Edition),1959-11-01,49,346920,,https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX
+0JM134st8VY7Ld9T2wQiH0,5eJ90rBnkUv7PqxgTExfvd,You'd Be So Nice To Come Home To,Coleman Hawkins Encounters Ben Webster (Expanded Edition),1959-11-01,45,255626,,https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd
+0JM134st8VY7Ld9T2wQiH0,50ijZUy4vc2q9Pm12q5F7K,Cocktails For Two,Verve Jazz Masters 34: Coleman Hawkins,1994-01-01,44,159773,,https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K
+0JM134st8VY7Ld9T2wQiH0,4F0sSQCicLl5tme407ubvS,Until The Real Thing Comes Along,Soul,1958-01-01,45,282666,,https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS
+0JM134st8VY7Ld9T2wQiH0,5EudeHV7lSPc0n0J8C6yhq,Tangerine,Coleman Hawkins Encounters Ben Webster (Expanded Edition),1959-11-01,44,320800,,https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq
+0JM134st8VY7Ld9T2wQiH0,4gC95tJcg0TWAz3LJ2dZpN,Greensleeves,Soul,1958-01-01,43,194000,,https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN
+0JM134st8VY7Ld9T2wQiH0,1wqrfKgBPtCHITqSwwXcxf,I'm Looking Over A Four Leaf Clover (Jazz Samba),Desafinado,1997-01-01,43,173160,,https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf
+0JM134st8VY7Ld9T2wQiH0,1vk8IJceUSsnEycyXnLHr4,Sunday Mornin',Soul,1958-01-01,41,390173,,https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4
+0JM134st8VY7Ld9T2wQiH0,6OZ210lsvCsoIqjBZcGYvm,Out of Nowhere,All Star Sessions,2001-05-24,41,200253,,https://open.spotify.com/track/6OZ210lsvCsoIqjBZcGYvm
+05E3NBxNMdnrPtxF9oraJm,6oSm3mBWFxJHEnjE2IqhmA,There Will Never Be Another You,The President Plays With The Oscar Peterson Trio,1959-06-02,60,205666,,https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA
+05E3NBxNMdnrPtxF9oraJm,7AHF3V7qRPhZV7gzJLZ3CL,These Foolish Things - Remastered 1995,The Complete Aladdin Recordings Of Lester Young,1995-01-01,53,190933,,https://open.spotify.com/track/7AHF3V7qRPhZV7gzJLZ3CL
+05E3NBxNMdnrPtxF9oraJm,0kC4Rrdb4B4hAgt3PMoARe,I Can't Get Started,The President Plays With The Oscar Peterson Trio,1959-06-02,52,217760,,https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe
+05E3NBxNMdnrPtxF9oraJm,7wlWVDaD3IGAWySnJ5ybRY,These Foolish Things,Blue Lester: The Immortal Lester Young,1956-01-01,52,179440,,https://open.spotify.com/track/7wlWVDaD3IGAWySnJ5ybRY
+05E3NBxNMdnrPtxF9oraJm,5gHPj9g3L9e2cu81LZUc5F,Stardust,The President Plays With The Oscar Peterson Trio,1959-06-02,51,212600,,https://open.spotify.com/track/5gHPj9g3L9e2cu81LZUc5F
+05E3NBxNMdnrPtxF9oraJm,427fYkFx1Arn2qGQeGVGNT,Blue Lester,Blue Lester: The Immortal Lester Young,1956-01-01,51,205373,,https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT
+05E3NBxNMdnrPtxF9oraJm,2vGJACJBCVyEHk6lCcqiSO,Almost Like Being In Love,The President Plays With The Oscar Peterson Trio,1959-06-02,44,211066,,https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO
+05E3NBxNMdnrPtxF9oraJm,07l1kkIQkfNlCmVwMC4GD0,These Foolish Things,The President Plays With The Oscar Peterson Trio,1959-06-02,35,204333,,https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0
+05E3NBxNMdnrPtxF9oraJm,0x5aRZLmW64quXgFJ0IYvu,I'm Confessin' (That I Love Your) - Remastered 1995,The Complete Aladdin Recordings Of Lester Young,1995-01-01,38,151533,,https://open.spotify.com/track/0x5aRZLmW64quXgFJ0IYvu
+05E3NBxNMdnrPtxF9oraJm,42glcnGSZYpv5kg9izfAuP,On The Sunny Side Of The Street,The President Plays With The Oscar Peterson Trio,1959-06-02,37,203933,,https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP
+5Z1XZyEFY0dewG8faEIiEx,0NDjQezJaEC1KX9TfwEfzf,Minor Swing,Djangologie Vol6 / 1937,1970,48,196626,,https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf
+5Z1XZyEFY0dewG8faEIiEx,3ctsORVoVEDUxLpQAL0zOC,Brazil,Django Reinhardt: Legendary Recordings,2014-03-01,47,168720,,https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC
+5Z1XZyEFY0dewG8faEIiEx,52yEkn1b6BiOZad3x7x6PP,I'll See You in My Dreams,Djangologie Vol9 / 1939 - 1940,1970,45,153333,,https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP
+5Z1XZyEFY0dewG8faEIiEx,7D0Vzk7rZ6ncTFZj3AqT84,Django's Tiger,Djangologie Vol15 / 1946 - 1947,1970,38,158013,,https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84
+5Z1XZyEFY0dewG8faEIiEx,1iqYqVkzPJAQ6Kgc0Kn2I5,Beyond The Sea (La Mer),Djangology 49,1990-02-13,40,256000,,https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5
+5Z1XZyEFY0dewG8faEIiEx,6OZ210lsvCsoIqjBZcGYvm,Out of Nowhere,All Star Sessions,2001-05-24,41,200253,,https://open.spotify.com/track/6OZ210lsvCsoIqjBZcGYvm
+5Z1XZyEFY0dewG8faEIiEx,2QFCJtE1iCVWLM4KoceiHG,"Improvisation on Tchaikowsky's ""Pathétique"" Andante",The Indispensible Django Reinhardt (1949-1950),1979-12-30,28,222266,,https://open.spotify.com/track/2QFCJtE1iCVWLM4KoceiHG
+5Z1XZyEFY0dewG8faEIiEx,10Hiskp06jZeXKjiYbkuj7,Honeysuckle Rose,Djangologie Vol.4 / 1937,1970,37,166826,,https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7
+5Z1XZyEFY0dewG8faEIiEx,5m3Gs5SU94QNkkK9DGaY1U,Beyond The Sea (La Mer),The Indispensible Django Reinhardt (1949-1950),1979-12-30,33,259306,,https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U
+5Z1XZyEFY0dewG8faEIiEx,4YqKVhVjjSDllNzZfDAxnw,All of Me,Django Reinhardt: Legendary Recordings,2014-03-01,35,167573,,https://open.spotify.com/track/4YqKVhVjjSDllNzZfDAxnw
+5V0MlUE1Bft0mbLlND7FJz,65irrLqfCMRiO3p87P4C0D,Frosty The Snowman,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,80,131733,,https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D
+5V0MlUE1Bft0mbLlND7FJz,4ukUoXLuFzMixyZyabSGc4,Sleigh Ride,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,79,175986,,https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4
+5V0MlUE1Bft0mbLlND7FJz,5OLmn2zkijgVleNhMRjYQp,I've Got My Love To Keep Me Warm,Ella And Louis Again,1957-02-25,59,189040,,https://open.spotify.com/track/5OLmn2zkijgVleNhMRjYQp
+5V0MlUE1Bft0mbLlND7FJz,0KBvapFwuz8gPKu6Gw23WN,Dream A Little Dream Of Me,Ella: The Legendary Decca Recordings,1995-08-29,50,187693,,https://open.spotify.com/track/0KBvapFwuz8gPKu6Gw23WN
+5V0MlUE1Bft0mbLlND7FJz,1ta7346unwX9mJOqbSB9wD,Have Yourself A Merry Little Christmas,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,68,175840,,https://open.spotify.com/track/1ta7346unwX9mJOqbSB9wD
+5V0MlUE1Bft0mbLlND7FJz,19NdiithlwC8EfytiHVk7a,What Are You Doing New Year's Eve?,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,69,212106,,https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a
+5V0MlUE1Bft0mbLlND7FJz,5TNpCThzzXHEipXGKgNG8T,Cheek To Cheek,Ella and Louis,1956-10-01,61,353266,,https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T
+5V0MlUE1Bft0mbLlND7FJz,23odYnrpoTNoBUYQMtpB72,Let It Snow! Let It Snow! Let It Snow!,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,62,162360,,https://open.spotify.com/track/23odYnrpoTNoBUYQMtpB72
+5V0MlUE1Bft0mbLlND7FJz,6UpuOy5AFhLa1W3V7gl6J2,Rudolph The Red-Nosed Reindeer,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,64,171773,,https://open.spotify.com/track/6UpuOy5AFhLa1W3V7gl6J2
+5V0MlUE1Bft0mbLlND7FJz,0z8aYfRIIvNibAccZRYu8x,Winter Wonderland,Ella Wishes You A Swinging Christmas (Expanded Edition),1960-01-01,63,135333,,https://open.spotify.com/track/0z8aYfRIIvNibAccZRYu8x
+1YzCsTRb22dQkh9lghPIrp,4smkJW6uzoHxGReZqqwHS5,I'll Be Seeing You,Billie Holiday,1957-01-01,66,211533,,https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5
+1YzCsTRb22dQkh9lghPIrp,1pZn8AX1WulW8IO338hE5D,Blue Moon,Solitude,1956-01-01,65,207826,,https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D
+1YzCsTRb22dQkh9lghPIrp,30QD4VRP9yEneOh0eGTrtJ,Solitude,Solitude,1956-01-01,64,207600,,https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ
+1YzCsTRb22dQkh9lghPIrp,1LGqJ3nvxpVXDWpEzq4DJD,All of Me,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),1933,60,181440,,https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD
+1YzCsTRb22dQkh9lghPIrp,34zhjduFdQFhkRUJ230h9T,April In Paris,All Or Nothing At All,1958-01-01,56,185586,,https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T
+1YzCsTRb22dQkh9lghPIrp,3d3aPk50dBMA2YbA7lC92r,Easy Living (with Teddy Wilson & His Orchestra),Lady Day: The Complete Billie Holiday On Columbia (1933-1944),1933,49,182400,,https://open.spotify.com/track/3d3aPk50dBMA2YbA7lC92r
+1YzCsTRb22dQkh9lghPIrp,3lO4Z6BSp773vcovgYurHg,As Time Goes By,The Complete Commodore Recordings,1997-01-28,55,194573,,https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg
+1YzCsTRb22dQkh9lghPIrp,6o5RbQYhmF4yRRw7ZArxGL,Autumn In New York,Recital,1956-01-01,54,224333,,https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL
+1YzCsTRb22dQkh9lghPIrp,4mQz22nF9cyWqwuErTqc6V,Crazy He Calls Me,Lover Man,1958-01-01,53,185280,,https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V
+1YzCsTRb22dQkh9lghPIrp,1CTex49P0iWwzUGsMNjgaV,Strange Fruit,Billie Holiday,1957-01-01,53,192866,,https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV
+4Ww5mwS7BWYjoZTUIrMHfC,6SdnOecNGBzDgAvNVjJ59w,All The Things You Are,Bird After Dark,2002-08-27,36,169533,,https://open.spotify.com/track/6SdnOecNGBzDgAvNVjJ59w
+4Ww5mwS7BWYjoZTUIrMHfC,6cU4urQRUieTBH08yKHAqj,Summertime,April In Paris: The Genius Of Charlie Parker #2,1957-08-08,53,167121,,https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj
+4Ww5mwS7BWYjoZTUIrMHfC,0ydV6cr81WZihgiMOxPpHG,White Christmas,White Christmas,1994,32,297200,,https://open.spotify.com/track/0ydV6cr81WZihgiMOxPpHG
+4Ww5mwS7BWYjoZTUIrMHfC,5BBocBQkdXh4TnIbu90CnW,Laird Baird,Round Midnight and Other Hits,2022-06-07,28,167346,,https://open.spotify.com/track/5BBocBQkdXh4TnIbu90CnW
+4Ww5mwS7BWYjoZTUIrMHfC,1ZW76KMJy8DUwl3WDUm7HO,My Little Suede Shoes,Bird: The Complete Charlie Parker On Verve,1990-10-25,30,183466,,https://open.spotify.com/track/1ZW76KMJy8DUwl3WDUm7HO
+4Ww5mwS7BWYjoZTUIrMHfC,6mSf7TjVnNQIAF0IDNR5Yp,Samba de uma Nota So - Digitally Remastered,"Genius of Jazz - Stan Getz, Vol. 3",2018-06-23,24,369511,,https://open.spotify.com/track/6mSf7TjVnNQIAF0IDNR5Yp
+4Ww5mwS7BWYjoZTUIrMHfC,7Iyp4lH5IYqIESIcTsUnhY,Now's the Time,BD Music & Cabu Present Charlie Parker,2006-10-10,24,182666,,https://open.spotify.com/track/7Iyp4lH5IYqIESIcTsUnhY
+4Ww5mwS7BWYjoZTUIrMHfC,1qYNJUM4BeTZHwe0uQ9D1w,Out Of Nowhere,Jazz Masters,1999-01-01,43,248373,,https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w
+4Ww5mwS7BWYjoZTUIrMHfC,0d6m2xfXqMyEKOeRvfL7Ot,Koko - Original Take 2,The Charlie Parker Story,1956-01-01,42,173733,,https://open.spotify.com/track/0d6m2xfXqMyEKOeRvfL7Ot
+4Ww5mwS7BWYjoZTUIrMHfC,4szMJBXAahLQ3yhLZhKOUE,Just Friends,April In Paris: The Genius Of Charlie Parker #2,1957-08-08,41,211871,,https://open.spotify.com/track/4szMJBXAahLQ3yhLZhKOUE
+5RzjqfPS0Bu4bUMkyNNDpn,6LPqphk2rbt2i63bR2o247,All The Things You Are,Odyssey: 1945-1952,2002-05-21,49,169506,,https://open.spotify.com/track/6LPqphk2rbt2i63bR2o247
+5RzjqfPS0Bu4bUMkyNNDpn,38R2EViAkYOFG8ZkG3GLtW,On The Sunny Side Of The Street,Dizzy 100,2017-09-29,47,342891,,https://open.spotify.com/track/38R2EViAkYOFG8ZkG3GLtW
+5RzjqfPS0Bu4bUMkyNNDpn,1JQBgKwNWclS1MTjdrF2m6,Bang Bang,The Melody Lingers On,1966-01-01,38,184293,,https://open.spotify.com/track/1JQBgKwNWclS1MTjdrF2m6
+5RzjqfPS0Bu4bUMkyNNDpn,5fxJzPPvuvdhHypgme9cVX,A Night In Tunisia,Birks Works: The Verve Big-Band Sessions,1995-08-22,41,334333,,https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX
+5RzjqfPS0Bu4bUMkyNNDpn,1xXydFs62EqOXFMPizVhn4,Salt Peanuts,Groovin' High,1955-01-01,41,196640,,https://open.spotify.com/track/1xXydFs62EqOXFMPizVhn4
+5RzjqfPS0Bu4bUMkyNNDpn,4ttUzFCVnlOmopuzM4oEUJ,Groovin' High,Groovin' High,1955-01-01,38,163906,,https://open.spotify.com/track/4ttUzFCVnlOmopuzM4oEUJ
+5RzjqfPS0Bu4bUMkyNNDpn,2nH9vhGDkvhsx1BS6d7uec,Manteca,The Greatest of Dizzy Gillespie,1961-01-01,28,186013,,https://open.spotify.com/track/2nH9vhGDkvhsx1BS6d7uec
+5RzjqfPS0Bu4bUMkyNNDpn,7xZLIErdMaUV0GmtsRclS5,Leap Frog - Take 11 / Take 6 / Master Take,Bird And Diz (Expanded Edition),1952-07-01,36,157306,,https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5
+5RzjqfPS0Bu4bUMkyNNDpn,6HRUw67PN9Q8q4y2FDQOU6,Hot Mallets - 2002 Remastered,Bebop Professor (Bluebird's Best Series),2002-05-21,22,134973,,https://open.spotify.com/track/6HRUw67PN9Q8q4y2FDQOU6
+5RzjqfPS0Bu4bUMkyNNDpn,42wbar3MwSjbRwAn7vYDeR,Relaxing With Lee - Take 2 / Incomplete,Bird And Diz (Expanded Edition),1952-07-01,36,73440,,https://open.spotify.com/track/42wbar3MwSjbRwAn7vYDeR
+4PDpGtF16XpqvXxsrFwQnN,1wl5b2lw3YagQtZiYZbQWP,'Round Midnight,"Genius Of Modern Music (Vol.1, Expanded Edition)",1951,52,193840,,https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP
+4PDpGtF16XpqvXxsrFwQnN,6kLp24Op7cOu8iQkU46sBv,I'm Confessin' (That I Love You),Solo Monk (Expanded Edition),1964,47,157026,,https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv
+4PDpGtF16XpqvXxsrFwQnN,6YYu8qFzcY1ZyzzsJIQM12,"Straight, No Chaser","Straight, No Chaser",1967,47,688133,,https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12
+4PDpGtF16XpqvXxsrFwQnN,2C3rh8eX5vltOmwrz9I78n,Blue Monk - Rudy Van Gelder Remaster,Thelonious Monk,1954,43,456360,,https://open.spotify.com/track/2C3rh8eX5vltOmwrz9I78n
+4PDpGtF16XpqvXxsrFwQnN,1BMirA3vwj2NLamWkJsVYq,"Ruby, My Dear",Thelonious Monk with John Coltrane (OJC Remaster),1961,44,381520,,https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq
+4PDpGtF16XpqvXxsrFwQnN,0488kXJ1YnLMrrM1ssJnev,Monk's Dream - Take 8,Monk's Dream,1963,42,385466,,https://open.spotify.com/track/0488kXJ1YnLMrrM1ssJnev
+4PDpGtF16XpqvXxsrFwQnN,1PjvmeUrBN4mHw6LVTvkuz,"Ruby, My Dear","Genius Of Modern Music (Vol.1, Expanded Edition)",1951,39,190466,,https://open.spotify.com/track/1PjvmeUrBN4mHw6LVTvkuz
+4PDpGtF16XpqvXxsrFwQnN,1XS5vGKquDNjxU6gLQcKd2,Dinah (Take 2),Solo Monk (Expanded Edition),1964,38,148933,,https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2
+4PDpGtF16XpqvXxsrFwQnN,7xZLIErdMaUV0GmtsRclS5,Leap Frog - Take 11 / Take 6 / Master Take,Bird And Diz (Expanded Edition),1952-07-01,36,157306,,https://open.spotify.com/track/7xZLIErdMaUV0GmtsRclS5
+4PDpGtF16XpqvXxsrFwQnN,42wbar3MwSjbRwAn7vYDeR,Relaxing With Lee - Take 2 / Incomplete,Bird And Diz (Expanded Edition),1952-07-01,36,73440,,https://open.spotify.com/track/42wbar3MwSjbRwAn7vYDeR
+570vCzcespB48HIQyTbDO6,5Q2PlU3jI4z7dYWJvpW4x9,Polka Dots And Moonbeams,The Amazing Bud Powell (Vol. 2),1954-01-01,38,246000,,https://open.spotify.com/track/5Q2PlU3jI4z7dYWJvpW4x9
+570vCzcespB48HIQyTbDO6,3g6t47lf7r5Y6M7XRkAhMh,You Go To My Head - Remastered 1998/Rudy Van Gelder Edition,The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition),1952-04-01,40,195413,,https://open.spotify.com/track/3g6t47lf7r5Y6M7XRkAhMh
+570vCzcespB48HIQyTbDO6,79Gfjb6BSSnL3pyNSbIQBf,Blues In The Closet,Compact Jazz,1993-01-01,17,180400,,https://open.spotify.com/track/79Gfjb6BSSnL3pyNSbIQBf
+570vCzcespB48HIQyTbDO6,7JWsnxzGX5kKOgSBkpNHcC,Cheryl,Mad Bebop,2004-03-09,14,179933,,https://open.spotify.com/track/7JWsnxzGX5kKOgSBkpNHcC
+570vCzcespB48HIQyTbDO6,5SocjOFFwNyWGLwAzPfLFh,Un Poco Loco - Remastered 1998/Rudy Van Gelder Edition,The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition),1952-04-01,28,286386,,https://open.spotify.com/track/5SocjOFFwNyWGLwAzPfLFh
+570vCzcespB48HIQyTbDO6,7pNfEYVT7Sfs9PDPIuzusc,Cleopatra's Dream - Remastered 2003/Rudy Van Gelder Edition,The Very Best,2005-01-01,25,263426,,https://open.spotify.com/track/7pNfEYVT7Sfs9PDPIuzusc
+570vCzcespB48HIQyTbDO6,2gOjc3ETrYNE8r4d1xg8yQ,Celia,The Complete Bud Powell On Verve,1994-09-27,28,177666,,https://open.spotify.com/track/2gOjc3ETrYNE8r4d1xg8yQ
+570vCzcespB48HIQyTbDO6,15MweqLFdYPmx22vP9iZ24,A Night in Tunisia,BD Music & Louis Joos Present Bud Powell,2004-03-25,13,259706,,https://open.spotify.com/track/15MweqLFdYPmx22vP9iZ24
+570vCzcespB48HIQyTbDO6,2xQLaX3QWBs2c3kQ04WYSz,Bouncin' With Bud - Remastered 1998/Rudy Van Gelder Edition,The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition),1952-04-01,25,184533,,https://open.spotify.com/track/2xQLaX3QWBs2c3kQ04WYSz
+570vCzcespB48HIQyTbDO6,3QNtG1aqO8Pe2QZaTwrO9m,I’ve Got You Under My Skin - Live At Massey Hall / 1953,Hot House: The Complete Jazz At Massey Hall Recordings (Live At Massey Hall / 1953),2023-11-17,27,175342,,https://open.spotify.com/track/3QNtG1aqO8Pe2QZaTwrO9m
+6jrlNnS5B830kpi40j3S6g,36p85UsLUKksrkhkLnteHQ,Smooch,The Complete Prestige 10-Inch LP Collection,2016-06-03,15,184163,,https://open.spotify.com/track/36p85UsLUKksrkhkLnteHQ
+6jrlNnS5B830kpi40j3S6g,1XDu8fswDwDmAjt3bUOPuW,Donna Lee,Creating The Beat,2007-08-21,12,155933,,https://open.spotify.com/track/1XDu8fswDwDmAjt3bUOPuW
+6jrlNnS5B830kpi40j3S6g,68MQIp4DRA8NY9hPa97KsY,When Lights Are Low,The Complete Prestige 10-Inch LP Collection,2016-06-03,12,207447,,https://open.spotify.com/track/68MQIp4DRA8NY9hPa97KsY
+6jrlNnS5B830kpi40j3S6g,3kbMtL0bjJTTkgVGguCiwA,Embraceable You,Clifford Brown With Strings,1998-01-01,23,180666,,https://open.spotify.com/track/3kbMtL0bjJTTkgVGguCiwA
+6jrlNnS5B830kpi40j3S6g,6xfNZK0l5GNBXgaet5ITkz,I Don't Stand A Ghost Of A Chance With You,Brown And Roach Incorporated,1954-01-01,34,442533,,https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz
+6jrlNnS5B830kpi40j3S6g,3y7ANjEoF3HQCQt4IBu2R3,Lonesome Lover,It's Time,1962,30,421600,,https://open.spotify.com/track/3y7ANjEoF3HQCQt4IBu2R3
+6jrlNnS5B830kpi40j3S6g,1x5DoIlsuk8v2qVlK2TPOD,Miles Ahead,The Complete Prestige 10-Inch LP Collection,2016-06-03,10,270878,,https://open.spotify.com/track/1x5DoIlsuk8v2qVlK2TPOD
+6jrlNnS5B830kpi40j3S6g,4lq0BTWdYLocNL7wDKxWpQ,Namely You,Never Alone,1951-05-12,5,286533,,https://open.spotify.com/track/4lq0BTWdYLocNL7wDKxWpQ
+6jrlNnS5B830kpi40j3S6g,2VaOoXFfdlrHyhORSq9H1v,Stompin' At The Savoy,Brown And Roach Incorporated,1954-01-01,29,387000,,https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v
+6jrlNnS5B830kpi40j3S6g,3gvQD27MucPhSDt2aYldtC,Equipoise,Members Don't Get Weary,1968,28,381066,,https://open.spotify.com/track/3gvQD27MucPhSDt2aYldtC
+0kbYTNQb4Pb1rPbbaF0pT4,0aWMVrwxPNYkKmFthzmpRi,Blue in Green (feat. John Coltrane & Bill Evans),Kind Of Blue (Legacy Edition),1959-08-17,63,337733,,https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi
+0kbYTNQb4Pb1rPbbaF0pT4,4vLYewWIvqHfKtJDk8c8tq,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),1959-08-17,59,562640,,https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq
+0kbYTNQb4Pb1rPbbaF0pT4,3I1LsXYKMeWbdgJgADH8yY,"Générique - Bande originale du film ""Ascenseur pour l'échafaud""",Ascenseur pour l'échafaud,1958-01-29,56,168512,,https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY
+0kbYTNQb4Pb1rPbbaF0pT4,2x91iJc0UkFcjRMEZ2CoWB,"Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",Kind Of Blue (Legacy Edition),1959-08-17,49,586400,,https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB
+0kbYTNQb4Pb1rPbbaF0pT4,6AUn7hXlXsNW6Qf5i39JyZ,It Never Entered My Mind - From The Album Workin' With The Miles Davis Quintet,INTEGRAL MILES DAVIS 1951-1956,2024-04-19,37,323680,,https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ
+0kbYTNQb4Pb1rPbbaF0pT4,6zbHM6vwsLgUe9t2luekJj,My Funny Valentine - Remastered,The Only One and Fantastic... Miles Davis (Remastered),2017-08-13,35,357947,,https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj
+0kbYTNQb4Pb1rPbbaF0pT4,5dK0BW1ND7yx6C9jnXI9JP,Autumn Leaves,Miles Davis Jazz Monument,2021-10-13,30,658746,,https://open.spotify.com/track/5dK0BW1ND7yx6C9jnXI9JP
+0kbYTNQb4Pb1rPbbaF0pT4,5o3DSHw1ORhM3lWxqGRvEf,"All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),1959-08-17,48,692746,,https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf
+0kbYTNQb4Pb1rPbbaF0pT4,1xicvSO4CJ2ymqYgpk7DFh,"Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",Milestones,1958-04,53,342066,,https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh
+0kbYTNQb4Pb1rPbbaF0pT4,5vb7At47uO0yPGfmYnAHuw,"'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",'Round About Midnight,1957-03-18,53,355333,,https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw
+3NUsiT2JSyaWAnWaXxDzhQ,50j9ieEXeOFUcNIk2SUf7T,Watermelon Man,At the Cocktail Lounge,2022-11-11,23,428016,,https://open.spotify.com/track/50j9ieEXeOFUcNIk2SUf7T
+3NUsiT2JSyaWAnWaXxDzhQ,58ylMBq2yqYdHyevarkNWa,I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition / Remastered 1999,Go! (The Rudy Van Gelder Edition),1962,46,322000,,https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa
+3NUsiT2JSyaWAnWaXxDzhQ,4EaNQXQIuiBlQe5fe5fae6,I'm A Fool To Want You,Clubhouse,1979-01-01,39,402573,,https://open.spotify.com/track/4EaNQXQIuiBlQe5fe5fae6
+3NUsiT2JSyaWAnWaXxDzhQ,0sRAziWSeUedBSKjapsy9F,The Shadow of Your Smile,A Day in Copenhagen,1969-04-21,46,297875,,https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F
+3NUsiT2JSyaWAnWaXxDzhQ,6MMBKIV0uXB0nFuQ2L4eSq,Alone and I,"Milestones of a Jazz Legend - Dexter Gordon, Vol. 9",2019-06-21,14,388840,,https://open.spotify.com/track/6MMBKIV0uXB0nFuQ2L4eSq
+3NUsiT2JSyaWAnWaXxDzhQ,1ZAJSDOejLqTsKZ5LSvCOv,Cry Me A River,Dexter Blows Hot & Cool,1956-01-01,41,222763,,https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv
+3NUsiT2JSyaWAnWaXxDzhQ,5KQ6uddno2Hht84gJDHsPF,A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster,Our Man In Paris (Rudy Van Gelder Edition),1963,41,495373,,https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF
+3NUsiT2JSyaWAnWaXxDzhQ,4Dfj6ZQohHWz8TKpG0vf8p,Ernie's Tune,Dexter Calling (Remastered / Rudy Van Gelder Edition),1962-01-01,34,256573,,https://open.spotify.com/track/4Dfj6ZQohHWz8TKpG0vf8p
+3NUsiT2JSyaWAnWaXxDzhQ,6MYPZkd5rhb9SIWQElyGsM,Le Coiffeur - Remastered,Gettin' Around,1966-08-01,41,421266,,https://open.spotify.com/track/6MYPZkd5rhb9SIWQElyGsM
+3NUsiT2JSyaWAnWaXxDzhQ,64HscCpjSKPg16VsESIp26,White Christmas - 1987 Version,Bennett/Berlin,1987-11-10,40,185026,,https://open.spotify.com/track/64HscCpjSKPg16VsESIp26
+6QQuESLtKhAOcLW2TeWC2t,2rS7da27yUaXKJ66s5IuJ8,Moanin',An Hour With Art Blakey: A Collection Of His Best Hits,2000-01-01,21,575766,,https://open.spotify.com/track/2rS7da27yUaXKJ66s5IuJ8
+6QQuESLtKhAOcLW2TeWC2t,4v67wvqT38wcKxwXb9hdQG,Round Midnight,Monk Meets Blakey,2007-09-15,14,193840,,https://open.spotify.com/track/4v67wvqT38wcKxwXb9hdQG
+6QQuESLtKhAOcLW2TeWC2t,28MHE5n4O1MjhebLkRZ7Hm,Dancing in the Dark,"Lounge Jazz, Vol. 2",2017-12-08,11,247853,,https://open.spotify.com/track/28MHE5n4O1MjhebLkRZ7Hm
+6QQuESLtKhAOcLW2TeWC2t,2bdFcnubC701djDrY5YUDE,Along Came Betty,Art Blakey And The Jazz Messengers,2000-01-01,15,371980,,https://open.spotify.com/track/2bdFcnubC701djDrY5YUDE
+6QQuESLtKhAOcLW2TeWC2t,3KTwHZJX9ENbYbEnCzQa6g,Ruby My Dear,Monk Meets Blakey,2007-09-15,10,190466,,https://open.spotify.com/track/3KTwHZJX9ENbYbEnCzQa6g
+6QQuESLtKhAOcLW2TeWC2t,757q0FWMZhODENvzE0DDT3,Dat Dere - Remastered,Anthology: The Jazz King Drummer (Remastered),2021-06-18,9,530378,,https://open.spotify.com/track/757q0FWMZhODENvzE0DDT3
+6QQuESLtKhAOcLW2TeWC2t,6PuOYQZ8mZvvdExeT6uq96,Come Rain Or Come Shine,Moanin',2000-01-01,9,345813,,https://open.spotify.com/track/6PuOYQZ8mZvvdExeT6uq96
+6QQuESLtKhAOcLW2TeWC2t,47OOQfboqdKBpc8J4tAOoc,Are You Real,Art Blakey And The Jazz Messengers,2000-01-01,10,289493,,https://open.spotify.com/track/47OOQfboqdKBpc8J4tAOoc
+6QQuESLtKhAOcLW2TeWC2t,0lEk4FPY9Co070Ms6KvDRo,Blue Haze,The Complete Prestige 10-Inch LP Collection,2016-06-03,17,368733,,https://open.spotify.com/track/0lEk4FPY9Co070Ms6KvDRo
+6QQuESLtKhAOcLW2TeWC2t,1RnYYG6Ss7afaiObNxWduk,Stella By Starlight,"Blue Notes III, Vol. 1",2021-07-23,5,148386,,https://open.spotify.com/track/1RnYYG6Ss7afaiObNxWduk
+1VEzN9lxvG6KPR3QQGsebR,3glQOWRCAQIrCnQhWBEFSL,In A Sentimental Mood,Sonny Rollins With The Modern Jazz Quartet,1953,49,197893,,https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL
+1VEzN9lxvG6KPR3QQGsebR,38R2EViAkYOFG8ZkG3GLtW,On The Sunny Side Of The Street,Dizzy 100,2017-09-29,47,342891,,https://open.spotify.com/track/38R2EViAkYOFG8ZkG3GLtW
+1VEzN9lxvG6KPR3QQGsebR,0zQE77yszbyv61M4NboU2u,St. Thomas,Saxophone Colossus,1957-04,43,406266,,https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u
+1VEzN9lxvG6KPR3QQGsebR,7DUGRxCf9NFJffb5Eei8Ar,God Bless the Child,The Bridge,1962,45,447560,,https://open.spotify.com/track/7DUGRxCf9NFJffb5Eei8Ar
+1VEzN9lxvG6KPR3QQGsebR,4XGlLrZpKy9RYT6IEK4Iqo,Paul's Pal,My Reverie,2008-07-01,21,313200,,https://open.spotify.com/track/4XGlLrZpKy9RYT6IEK4Iqo
+1VEzN9lxvG6KPR3QQGsebR,3EvT0m0eRWFtdXA89M2sk8,Where Are You - Remastered,The Bridge,1962,43,310666,,https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8
+1VEzN9lxvG6KPR3QQGsebR,11vaRXRIFXJTRr3BuzNbk5,"He's Younger Than You Are - From ""Alfie"" Score",Alfie,1966,41,313440,,https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5
+1VEzN9lxvG6KPR3QQGsebR,6W25U2EbDixQbLbqpjz0TT,Solitude,Way Out West (OJC Remaster),1957,41,471173,,https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT
+1VEzN9lxvG6KPR3QQGsebR,0PN30oFTKKtFhzsxfMTfA4,Tenor Madness,Scoops,2007,15,736280,,https://open.spotify.com/track/0PN30oFTKKtFhzsxfMTfA4
+1VEzN9lxvG6KPR3QQGsebR,4F8h9jXJBeuSRQSlo6owwL,You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC,Saxophone Colossus,1957-04,36,387480,,https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL
+1HJHwWck1EY096ea2iPAHO,36JrVLF5GsloPt5gPTCttx,Lullaby of Birdland - 2019 Digitally Remastered,Sarah Vaughan-With Clifford Brown,2019-09-06,16,241640,,https://open.spotify.com/track/36JrVLF5GsloPt5gPTCttx
+1HJHwWck1EY096ea2iPAHO,1qjDnTSQBQJyGVMLsScMSV,Embraceable You - 2019 Digitally Remastered,Sarah Vaughan-With Clifford Brown,2019-09-06,13,290773,,https://open.spotify.com/track/1qjDnTSQBQJyGVMLsScMSV
+1HJHwWck1EY096ea2iPAHO,2oMaXY0yiWhAEWD7SutXh2,Joy Spring,Clifford Brown And Max Roach,1954-12-01,47,410666,,https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2
+1HJHwWck1EY096ea2iPAHO,0S85zakgQAEnjrNPug9sqh,Smoke Gets In Your Eyes,Jazz 'Round Midnight: Clifford Brown,1993-02-23,38,196466,,https://open.spotify.com/track/0S85zakgQAEnjrNPug9sqh
+1HJHwWck1EY096ea2iPAHO,0sQ9ee2jJNTQgjy55Pse5H,Joy Spring,The Best Of Clifford Brown,1998-01-01,41,198800,,https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H
+1HJHwWck1EY096ea2iPAHO,4tZduOskalleCs3ykCpTVs,He's My Guy - 2019 Digitally Remastered,Sarah Vaughan-With Clifford Brown,2019-09-06,12,253560,,https://open.spotify.com/track/4tZduOskalleCs3ykCpTVs
+1HJHwWck1EY096ea2iPAHO,33lbUv6A25SmoOXOUFmu4O,It's Crazy - 2019 Digitally Remastered,Sarah Vaughan-With Clifford Brown,2019-09-06,10,296560,,https://open.spotify.com/track/33lbUv6A25SmoOXOUFmu4O
+1HJHwWck1EY096ea2iPAHO,7iOTBeLm5qR9N23fjQy8Kl,Sandu,Study In Brown,1955-01-01,39,297040,,https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl
+1HJHwWck1EY096ea2iPAHO,2ZKOdVoKYBn7u76Rkr4m3V,You'd Be So Nice To Come Home To,Clifford Brown & The Ladies of Jazz. Complete Recordings,2022-12-01,13,261306,,https://open.spotify.com/track/2ZKOdVoKYBn7u76Rkr4m3V
+1HJHwWck1EY096ea2iPAHO,5yiImOvhyoK3QXUHVWcUUl,Easy Living,Memorial Album (Remastered / Rudy Van Gelder Edition),2001-01-01,34,224053,,https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl
+1bgyxtWjZwA5PQlDsvs9b8,1f0Wfl3eLCLKv72SdkpviC,Misty,Vaughan And Violins,1958-05-06,53,182640,,https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC
+1bgyxtWjZwA5PQlDsvs9b8,5z161QQZMgQxSILnv3QoJk,Lullaby Of Birdland,Sarah Vaughan,1954-12-01,51,240866,,https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk
+1bgyxtWjZwA5PQlDsvs9b8,5m3XMzewNg9EADweC7j7Nn,Embraceable You,Sarah Vaughan,1954-12-01,48,291173,,https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn
+1bgyxtWjZwA5PQlDsvs9b8,0wz0YKAdAYi2GEjZ1NFyjh,Tenderly,He's My Guy,1944-12-13,37,153226,,https://open.spotify.com/track/0wz0YKAdAYi2GEjZ1NFyjh
+1bgyxtWjZwA5PQlDsvs9b8,43zIzwzVqI51alZlyKbKi4,Broken Hearted Melody,The Magic Of Sarah Vaughan,1959-01-01,47,146360,,https://open.spotify.com/track/43zIzwzVqI51alZlyKbKi4
+1bgyxtWjZwA5PQlDsvs9b8,56IQUfsUskt9VHe6YM6kue,Black Coffee,After Hours,1955-04-12,48,200440,,https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue
+1bgyxtWjZwA5PQlDsvs9b8,2ZVo4KkwzAWImTGirpOt6P,Words Can't Describe,Swingin' Easy,1957-03-01,44,275600,,https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P
+1bgyxtWjZwA5PQlDsvs9b8,2RMWeHehGXRAZBddha19Br,Snowbound - 1998 Remaster,Jazz Profile: Sarah Vaughan,1998-03-12,42,188800,,https://open.spotify.com/track/2RMWeHehGXRAZBddha19Br
+1bgyxtWjZwA5PQlDsvs9b8,4LSplRZj1Xk5JUCARpUV8j,Come Rain or Come Shine,Sarah Vaughan In Hi-Fi,1949,42,203000,,https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j
+1bgyxtWjZwA5PQlDsvs9b8,29NRxWMbx6J6IOoE8BBl5F,Whatever Lola Wants - Gotan Project Remix,Verve Remixed 2,2003-01-01,42,280373,,https://open.spotify.com/track/29NRxWMbx6J6IOoE8BBl5F
+0kbYTNQb4Pb1rPbbaF0pT4,0aWMVrwxPNYkKmFthzmpRi,Blue in Green (feat. John Coltrane & Bill Evans),Kind Of Blue (Legacy Edition),1959-08-17,63,337733,,https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi
+0kbYTNQb4Pb1rPbbaF0pT4,4vLYewWIvqHfKtJDk8c8tq,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),1959-08-17,59,562640,,https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq
+0kbYTNQb4Pb1rPbbaF0pT4,3I1LsXYKMeWbdgJgADH8yY,"Générique - Bande originale du film ""Ascenseur pour l'échafaud""",Ascenseur pour l'échafaud,1958-01-29,56,168512,,https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY
+0kbYTNQb4Pb1rPbbaF0pT4,2x91iJc0UkFcjRMEZ2CoWB,"Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",Kind Of Blue (Legacy Edition),1959-08-17,49,586400,,https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB
+0kbYTNQb4Pb1rPbbaF0pT4,6AUn7hXlXsNW6Qf5i39JyZ,It Never Entered My Mind - From The Album Workin' With The Miles Davis Quintet,INTEGRAL MILES DAVIS 1951-1956,2024-04-19,37,323680,,https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ
+0kbYTNQb4Pb1rPbbaF0pT4,6zbHM6vwsLgUe9t2luekJj,My Funny Valentine - Remastered,The Only One and Fantastic... Miles Davis (Remastered),2017-08-13,35,357947,,https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj
+0kbYTNQb4Pb1rPbbaF0pT4,5dK0BW1ND7yx6C9jnXI9JP,Autumn Leaves,Miles Davis Jazz Monument,2021-10-13,30,658746,,https://open.spotify.com/track/5dK0BW1ND7yx6C9jnXI9JP
+0kbYTNQb4Pb1rPbbaF0pT4,5o3DSHw1ORhM3lWxqGRvEf,"All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Kind Of Blue (Legacy Edition),1959-08-17,48,692746,,https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf
+0kbYTNQb4Pb1rPbbaF0pT4,1xicvSO4CJ2ymqYgpk7DFh,"Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",Milestones,1958-04,53,342066,,https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh
+0kbYTNQb4Pb1rPbbaF0pT4,5vb7At47uO0yPGfmYnAHuw,"'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",'Round About Midnight,1957-03-18,53,355333,,https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw
+2hGh5VOeeqimQFxqXvfCUf,3nmpWBz32DTzh4N9jaqhcA,Blue In Green,100 Masterpieces,2011-10-31,40,323451,,https://open.spotify.com/track/3nmpWBz32DTzh4N9jaqhcA
+2hGh5VOeeqimQFxqXvfCUf,0E8q2Fx2XuzXCO2NSAppkR,In A Sentimental Mood,Duke Ellington & John Coltrane,1963-02,64,255226,,https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR
+2hGh5VOeeqimQFxqXvfCUf,6J18r0R7rQFuZ4hiRW4P4W,So What,Essentials Jazz : The Ultimate Best of Jazz,2024-12-09,33,561065,,https://open.spotify.com/track/6J18r0R7rQFuZ4hiRW4P4W
+2hGh5VOeeqimQFxqXvfCUf,0uPkCpuoERqrkBL06Art50,My One And Only Love,John Coltrane And Johnny Hartman,1963-01-01,61,295240,,https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50
+2hGh5VOeeqimQFxqXvfCUf,4rmCI9VWrwrJTJ8XQ80BMN,My Little Brown Book,Duke Ellington & John Coltrane,1963-02,58,319733,,https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN
+2hGh5VOeeqimQFxqXvfCUf,7AdG3B3MOM2vp1SGHwIbiE,Freddie Freeloader,"The Columbia Years, Vol. 4",2013-01-02,32,588044,,https://open.spotify.com/track/7AdG3B3MOM2vp1SGHwIbiE
+2hGh5VOeeqimQFxqXvfCUf,5cAwEKmadsW4nCYe9QUvgU,Naima - Mono,Giant Steps (Mono),1960,55,265049,,https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU
+2hGh5VOeeqimQFxqXvfCUf,1XYjLEMA3Wywka73AtdFuO,Nancy (with the Laughing Face),Sax with Cocktails,2016-01-15,30,194613,,https://open.spotify.com/track/1XYjLEMA3Wywka73AtdFuO
+2hGh5VOeeqimQFxqXvfCUf,2JOEPbuwVf0nafGnMSVEhH,My Favorite Things,My Favorite Things (Deluxe Edition),1961,53,824133,,https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH
+2hGh5VOeeqimQFxqXvfCUf,6ZgaUtMlUzUf7SqbUUnfbu,Blue Train - Remastered 2003/Rudy Van Gelder Edition,Blue Train (Expanded Edition),1958,46,644013,,https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu
+5v74mT11KGJqadf9sLw4dA,6J18r0R7rQFuZ4hiRW4P4W,So What,Essentials Jazz : The Ultimate Best of Jazz,2024-12-09,33,561065,,https://open.spotify.com/track/6J18r0R7rQFuZ4hiRW4P4W
+5v74mT11KGJqadf9sLw4dA,0X5DcGkbxCXSadgj01ZXd7,Autumn Leaves,Somethin' Else (Rudy Van Gelder Edition),1958,53,659520,,https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7
+5v74mT11KGJqadf9sLw4dA,1jf3wYtynxiPOdhqAp3cUN,The Masquerade Is Over,Nancy Wilson/Cannonball Adderley,1962,51,258106,,https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN
+5v74mT11KGJqadf9sLw4dA,6NF8MZ2trxckVBr82pyyPt,"Mercy, Mercy, Mercy",Jazz Profile: Cannonball Adderley,1997-01-01,48,313200,,https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt
+5v74mT11KGJqadf9sLw4dA,5DDx7lVobjWfLyvRDtW7BX,Dancing In The Dark,Somethin' Else (Rudy Van Gelder Edition),1958,49,247200,,https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX
+5v74mT11KGJqadf9sLw4dA,4f0D7T8yswXUJ62AKLoMtS,One For Daddy-O,Somethin' Else (Rudy Van Gelder Edition),1958,46,505453,,https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS
+5v74mT11KGJqadf9sLw4dA,4ur0Fd4coSwWtP8MWpkjR9,Save Your Love For Me,Nancy Wilson/Cannonball Adderley,1962,45,164866,,https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9
+5v74mT11KGJqadf9sLw4dA,4FOGyx7W1G3rp8Wb3D0oMF,Never Will I Marry,Late Night Cannonball Adderley,2024-02-21,24,139200,,https://open.spotify.com/track/4FOGyx7W1G3rp8Wb3D0oMF
+5v74mT11KGJqadf9sLw4dA,6w7WXCEaDvfM5FdRoi1j5k,Goodbye,Know What I Mean?,1961,40,373973,,https://open.spotify.com/track/6w7WXCEaDvfM5FdRoi1j5k
+5v74mT11KGJqadf9sLw4dA,6T1MvJkRzxs65dTYLyu9rK,Who Cares? - Take 5,Know What I Mean?,1961,38,355626,,https://open.spotify.com/track/6T1MvJkRzxs65dTYLyu9rK
+4jXfFzeP66Zy67HM2mvIIF,3nmpWBz32DTzh4N9jaqhcA,Blue In Green,100 Masterpieces,2011-10-31,40,323451,,https://open.spotify.com/track/3nmpWBz32DTzh4N9jaqhcA
+4jXfFzeP66Zy67HM2mvIIF,6J18r0R7rQFuZ4hiRW4P4W,So What,Essentials Jazz : The Ultimate Best of Jazz,2024-12-09,33,561065,,https://open.spotify.com/track/6J18r0R7rQFuZ4hiRW4P4W
+4jXfFzeP66Zy67HM2mvIIF,3f9KhpRN6mMYoVnpuozgHD,Gary's Theme - Remastered 2003,You Must Believe In Spring (Remastered Version),1981-02-02,58,257693,,https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD
+4jXfFzeP66Zy67HM2mvIIF,1cpANF6zMBoFoxkoIjZHjv,Skating In Central Park,Undercurrent,1962,56,324200,,https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv
+4jXfFzeP66Zy67HM2mvIIF,5JfaOWtjZp3blXwvExWtjl,Santa Claus Is Coming To Town,Trio 64,1964,55,264360,,https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl
+4jXfFzeP66Zy67HM2mvIIF,17JFuthxvI81rurPfLImOZ,My Foolish Heart - Live At The Village Vanguard / 1961,Everybody Still Digs Bill Evans,2021-06-25,37,297306,,https://open.spotify.com/track/17JFuthxvI81rurPfLImOZ
+4jXfFzeP66Zy67HM2mvIIF,3eoxYLq02OHwut7V6mfRF5,All Blues,100 Masterpieces,2011-10-31,29,689013,,https://open.spotify.com/track/3eoxYLq02OHwut7V6mfRF5
+4jXfFzeP66Zy67HM2mvIIF,1XCBWtTJZuHbwa6GLUutjo,But Beautiful,Stan Getz & Bill Evans,1973-03-01,54,280840,,https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo
+4jXfFzeP66Zy67HM2mvIIF,3H1z8AsAOVIL63AbVH1x0P,Waltz For Debby - Live At The Village Vanguard / 1961,Everybody Still Digs Bill Evans,2021-06-25,32,417506,,https://open.spotify.com/track/3H1z8AsAOVIL63AbVH1x0P
+4jXfFzeP66Zy67HM2mvIIF,0Hn0afvvqn71E6b7pohmAu,Flamenco Sketches,Connoisseur Jazz Cuts: Volume 5,2011-10-14,25,567240,,https://open.spotify.com/track/0Hn0afvvqn71E6b7pohmAu
+4iRZAbYvBqnxrbs6K25aJ7,1YQWosTIljIvxAgHWTp7KP,Take Five,Time Out,1959-12-14,67,324133,,https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP
+4iRZAbYvBqnxrbs6K25aJ7,7CrNF9zL7tIQ2269DVxzST,Blue Rondo à la Turk,Time Out,1959-12-14,48,403640,,https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST
+4iRZAbYvBqnxrbs6K25aJ7,2VUo8O3ymKRYNgj97ZG2kM,Unsquare Dance,Time Further Out,1961,50,119866,,https://open.spotify.com/track/2VUo8O3ymKRYNgj97ZG2kM
+4iRZAbYvBqnxrbs6K25aJ7,0ivpUENLpheuPoa6VuY1ax,Strange Meadow Lark,Time Out,1959-03-24,44,442226,,https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax
+4iRZAbYvBqnxrbs6K25aJ7,3XfaSRXfGuWT1rrn9lWx30,Kathy's Waltz,Time Out,1959-12-14,46,287840,,https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30
+4iRZAbYvBqnxrbs6K25aJ7,3k5O0RKO6zEqu9JJ7JqxDX,Three to Get Ready,Time Out,1959-12-14,42,323866,,https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX
+4iRZAbYvBqnxrbs6K25aJ7,7ApoQAZIblqnGXhdt3ggp8,Koto Song,Jazz Impressions Of Japan,1964,41,181266,,https://open.spotify.com/track/7ApoQAZIblqnGXhdt3ggp8
+4iRZAbYvBqnxrbs6K25aJ7,4tstmaQXDUzbOBeZMBImcK,Take Five,Essentials Jazz : The Ultimate Best of Jazz,2024-12-09,18,134095,,https://open.spotify.com/track/4tstmaQXDUzbOBeZMBImcK
+4iRZAbYvBqnxrbs6K25aJ7,0r3ZObqOhirTkBCr8f4L9q,Everybody's Jumpin',Time Out,1959-12-14,40,262733,,https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q
+4iRZAbYvBqnxrbs6K25aJ7,4dQmO0TSFuCdmsdkFtZigJ,Maria,Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town',1987-02-03,40,195026,,https://open.spotify.com/track/4dQmO0TSFuCdmsdkFtZigJ
+3rxeQlsv0Sc2nyYaZ5W71T,0F845nujLVqCb0XMZCh5Pc,I Fall In Love Too Easily,Chet Baker Sings,1956,65,201440,,https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc
+3rxeQlsv0Sc2nyYaZ5W71T,4l9hml2UCnxoNI3yCdL1BW,My Funny Valentine,Chet Baker Sings,1956,62,141133,,https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW
+3rxeQlsv0Sc2nyYaZ5W71T,3pfbQmD5xGH9Tcc7GqGfSL,But Not For Me - Vocal Version,Chet Baker Sings,1956,59,184466,,https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL
+3rxeQlsv0Sc2nyYaZ5W71T,06UkYE0SZ3Y8zGRFOuWGAe,It's Always You - Vocal Version,Chet Baker Sings,1956,58,215466,,https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe
+3rxeQlsv0Sc2nyYaZ5W71T,1QlTNF43OyKK9BorIRsJ8o,Autumn Leaves,Jazz Moods - Cool,1974,51,422640,,https://open.spotify.com/track/1QlTNF43OyKK9BorIRsJ8o
+3rxeQlsv0Sc2nyYaZ5W71T,4gFlHAye7To29Fs4UszQUH,I Get Along Without You Very Well (Except Sometimes) - Vocal Version,Chet Baker Sings,1956,57,179640,,https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH
+3rxeQlsv0Sc2nyYaZ5W71T,4m6OC8u2rC6LMFtFWsME7d,Time After Time - Vocal Version,Chet Baker Sings,1956,57,166760,,https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d
+3rxeQlsv0Sc2nyYaZ5W71T,2zPANzQTt5Nbkg0eBPb7HI,There Will Never Be Another You - Vocal Version,Chet Baker Sings,1956,55,180626,,https://open.spotify.com/track/2zPANzQTt5Nbkg0eBPb7HI
+3rxeQlsv0Sc2nyYaZ5W71T,2d64G7VaZdHQuAquz5HQNu,That Old Feeling,Chet Baker Sings,1956,54,183893,,https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu
+3rxeQlsv0Sc2nyYaZ5W71T,0UZFhlhUMrYyzzyOHkylM3,Let's Get Lost,Chet Baker Sings And Plays (Remastered 2004),1955-01-01,52,223706,,https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3
+6tzN9Ew9w6JB0UQr8culs1,17OHsQ5RBrU6b9lTaPP0vh,Prelude In E Minor,Night Lights (Expanded Edition),1963-01-01,56,256533,,https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh
+6tzN9Ew9w6JB0UQr8culs1,5eVERkVvJKBgV2FziCoLDE,Night Lights,Night Lights (Expanded Edition),1963-01-01,51,298000,,https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE
+6tzN9Ew9w6JB0UQr8culs1,358K63AaaKKNFryT2zJ2Ib,Tell Me When,Night Lights (Expanded Edition),1963-01-01,49,249533,,https://open.spotify.com/track/358K63AaaKKNFryT2zJ2Ib
+6tzN9Ew9w6JB0UQr8culs1,6GQ6rapsknPIutGbpv0DTR,"Morning Of The Carnival - From ""Black Orpheus""",Night Lights (Expanded Edition),1963-01-01,48,330546,,https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR
+6tzN9Ew9w6JB0UQr8culs1,3kaqke7JPH3noG3BFjx6W5,Night Lights - 1965 Version,Night Lights (Expanded Edition),1963-01-01,48,175533,,https://open.spotify.com/track/3kaqke7JPH3noG3BFjx6W5
+6tzN9Ew9w6JB0UQr8culs1,4c9u4ruTL1xWv2YcnS8AjN,In The Wee Small Hours Of The Morning,Night Lights (Expanded Edition),1963-01-01,48,339533,,https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN
+6tzN9Ew9w6JB0UQr8culs1,2m8vNmDGz5GCGLxJfWIsJI,Everything Happens To Me,Presenting The Gerry Mulligan Sextet,1955-01-01,39,323373,,https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI
+6tzN9Ew9w6JB0UQr8culs1,4hmaSLjhKrPzvCxaXL8ZJp,La Plus Que Lente,The San Diego Concert 1954 & Complete Studio Sessions 1955-1956,2011-05-01,29,209760,,https://open.spotify.com/track/4hmaSLjhKrPzvCxaXL8ZJp
+6tzN9Ew9w6JB0UQr8culs1,2Rh2RQOFkjqdyIFVzgdmfH,Festival Minor,Night Lights (Expanded Edition),1963-01-01,33,410533,,https://open.spotify.com/track/2Rh2RQOFkjqdyIFVzgdmfH
+6tzN9Ew9w6JB0UQr8culs1,4CHqQw14LfHMRT4Wc893wp,The Lady Is A Tramp,Presenting The Gerry Mulligan Sextet,1955-01-01,26,312840,,https://open.spotify.com/track/4CHqQw14LfHMRT4Wc893wp
+5ZATfKurLqflrBhv2FLht5,1CDBaGlisZlOJzvx88lL8A,Song For My Father,Song For My Father,1999-01-01,53,438280,,https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A
+5ZATfKurLqflrBhv2FLht5,23VGdNEZzKVCpIazC3ZHK6,Lonely Woman - Remastered 1999/Rudy Van Gelder Edition,Song For My Father,1999-01-01,42,422933,,https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6
+5ZATfKurLqflrBhv2FLht5,6QzARXbdztTRu42kQigY96,Home Cookin' - Remastered 1999/Rudy Van Gelder Edition,The Stylings Of Silver (The Rudy Van Gelder Edition),2002-01-01,39,388160,,https://open.spotify.com/track/6QzARXbdztTRu42kQigY96
+5ZATfKurLqflrBhv2FLht5,1duGF26RKaTntfsJ0cTkzj,Serenade To A Soul Sister - Remastered,Serenade To A Soul Sister,2004-01-01,39,379000,,https://open.spotify.com/track/1duGF26RKaTntfsJ0cTkzj
+5ZATfKurLqflrBhv2FLht5,0lEk4FPY9Co070Ms6KvDRo,Blue Haze,The Complete Prestige 10-Inch LP Collection,2016-06-03,17,368733,,https://open.spotify.com/track/0lEk4FPY9Co070Ms6KvDRo
+5ZATfKurLqflrBhv2FLht5,3213dsixhwk0e8s9CfBzT3,Opus De Funk - Remastered 1998/Rudy Van Gelder Edition,Horace Silver Trio (Remastered / Rudy Van Gelder Edition),1989-01-01,31,209173,,https://open.spotify.com/track/3213dsixhwk0e8s9CfBzT3
+5ZATfKurLqflrBhv2FLht5,7HjUmooZ5Mk8HcDkuWyD50,Room 608 - Remastered,Horace Silver And The Jazz Messengers,2004-01-01,33,322586,,https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50
+5ZATfKurLqflrBhv2FLht5,5XjjmKaKGBgPuwOgm1Ux1j,Peace,Blowin' The Blues Away,1999-01-01,33,362280,,https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j
+5ZATfKurLqflrBhv2FLht5,0F2Y35GnwAZxQ5C7RNv0dI,Four,The Complete Prestige 10-Inch LP Collection,2016-06-03,16,243130,,https://open.spotify.com/track/0F2Y35GnwAZxQ5C7RNv0dI
+5ZATfKurLqflrBhv2FLht5,7eVweGFmaK2ZW9FvAW7O0v,The Cape Verdean Blues - Rudy Van Gelder 24Bit Mastering; 2003 Remastered Version,Back Down To The Tropics,2006-10-13,8,299333,,https://open.spotify.com/track/7eVweGFmaK2ZW9FvAW7O0v
+4L9xEztn5PKQIO5WnI5W3u,4hXKZRLi4SwWrij1fPTO8A,Cool Struttin',"Blue Notes III, Vol. 6",2021-07-23,11,562933,,https://open.spotify.com/track/4hXKZRLi4SwWrij1fPTO8A
+4L9xEztn5PKQIO5WnI5W3u,5eFFsShr8vchESCk8HGxvn,"Goodbye, Old Girl",Art,1960-09-20,41,274333,,https://open.spotify.com/track/5eFFsShr8vchESCk8HGxvn
+4L9xEztn5PKQIO5WnI5W3u,2OqRnfC8QqRdcUfVGtidcr,When Your Lover Has Gone - Instrumental,2 Trumpets,1956-01-01,40,310666,,https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr
+4L9xEztn5PKQIO5WnI5W3u,3X3p3u03P8eFL8WTH0oaaU,Fair Weather - Remastered,Modern Art,1958,40,344066,,https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU
+4L9xEztn5PKQIO5WnI5W3u,4wSaXDjMaOuqCZaPrjg8rn,I Remember Clifford,The Touch,2018-09-12,12,192813,,https://open.spotify.com/track/4wSaXDjMaOuqCZaPrjg8rn
+4L9xEztn5PKQIO5WnI5W3u,3410BOLt7ZrWxZaQHeqTmZ,I'm A Fool To Want,Art,1960-09-20,38,333493,,https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ
+4L9xEztn5PKQIO5WnI5W3u,1Y4P2XZniFFbN5IskLw1OS,Five Spot After Dark,"The Complete Jazztet Sessions, Vol. 1",2021-04-16,7,200720,,https://open.spotify.com/track/1Y4P2XZniFFbN5IskLw1OS
+4L9xEztn5PKQIO5WnI5W3u,3QhMsYNZzqMJqrELtUrYhH,The Day After,Out Of The Past,1996,8,147506,,https://open.spotify.com/track/3QhMsYNZzqMJqrELtUrYhH
+4L9xEztn5PKQIO5WnI5W3u,4ZNjgZ0sGfSbYQ47FtcBw0,The Cool One,"The Complete Jazztet Sessions, Vol. 1",2021-04-16,3,184280,,https://open.spotify.com/track/4ZNjgZ0sGfSbYQ47FtcBw0
+4L9xEztn5PKQIO5WnI5W3u,2LDbWslj08Tj9hHc0DetLJ,It Ain't Necessarily So,The Touch,2018-09-12,5,269666,,https://open.spotify.com/track/2LDbWslj08Tj9hHc0DetLJ
+38C3okxv3fyyOIQUVPCdGX,6MXrGG7nff0FXBQJa5UF9P,Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster,Candy (Remastered),1957,50,339333,,https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P
+38C3okxv3fyyOIQUVPCdGX,6KawDsALZTY6FA8CE1NLZK,I Remember Clifford - Rudy Van Gelder Edition / Remastered 2007,Volume 3,1957-04-01,48,429040,,https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK
+38C3okxv3fyyOIQUVPCdGX,0jGh2myWgeSSuj0bXeYZn0,The Sidewinder,Blue Break Beats,1998-01-01,35,626466,,https://open.spotify.com/track/0jGh2myWgeSSuj0bXeYZn0
+38C3okxv3fyyOIQUVPCdGX,5Vwv04kuzOG41a1v8RgZ8O,All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster,Candy (Remastered),1957,40,447173,,https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O
+38C3okxv3fyyOIQUVPCdGX,5rQTh8OF3mfjgu0NJkSTOk,Ceora,Cornbread,1965,40,383400,,https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk
+38C3okxv3fyyOIQUVPCdGX,4NmKPXHwoW2GTWUwisRZwf,Ca-Lee-So,Delightfulee,1966-01-01,22,333306,,https://open.spotify.com/track/4NmKPXHwoW2GTWUwisRZwf
+38C3okxv3fyyOIQUVPCdGX,7evUA1KCKUv2cAxRU0hVDI,Melancholee - Remastered 2000/Rudy Van Gelder Edition,Search For The New Land (Rudy Van Gelder Edition/2000 Remastered),2007-01-01,34,374906,,https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI
+38C3okxv3fyyOIQUVPCdGX,4BPd4Z916ZXnm8oXNqHxZg,Ill Wind,Cornbread,1965,32,479560,,https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg
+38C3okxv3fyyOIQUVPCdGX,7iPjzOaZiNXp0I8vOCcVZV,Cornbread,Cornbread,1965,29,543133,,https://open.spotify.com/track/7iPjzOaZiNXp0I8vOCcVZV
+38C3okxv3fyyOIQUVPCdGX,0UgG6ZQ46DjB6V55pWZLfw,Edda,The Rumproller,1965-01-01,30,439773,,https://open.spotify.com/track/0UgG6ZQ46DjB6V55pWZLfw
+5ncBRFyyylFng7kQJaRXN0,624O1HDxA6RtgiLsDvwAMS,It's All Right,Never Alone,1951-05-12,11,170053,,https://open.spotify.com/track/624O1HDxA6RtgiLsDvwAMS
+5ncBRFyyylFng7kQJaRXN0,2UaI54w2AQya4Ff167iy4z,Someday My Prince Will Come,Never Alone,1951-05-12,13,542413,,https://open.spotify.com/track/2UaI54w2AQya4Ff167iy4z
+5ncBRFyyylFng7kQJaRXN0,2odjRjgMxFxEzJAuoa9Eeo,Old Folks,Never Alone,1951-05-12,6,314160,,https://open.spotify.com/track/2odjRjgMxFxEzJAuoa9Eeo
+5ncBRFyyylFng7kQJaRXN0,25xKcOdeNJm5vWhlnrpFZu,Portrait of Jenny,Never Alone,1951-05-12,8,275520,,https://open.spotify.com/track/25xKcOdeNJm5vWhlnrpFZu
+5ncBRFyyylFng7kQJaRXN0,5gVAbzMuWKvKWLBmLX41QC,I Thought About You,Never Alone,1951-05-12,6,292093,,https://open.spotify.com/track/5gVAbzMuWKvKWLBmLX41QC
+5ncBRFyyylFng7kQJaRXN0,6BnDMyRz4KY8g9SoWlUfjq,Softly As In A Morning Sunrise,Kelly Blue (Keepnews Collection),1959,37,393000,,https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq
+5ncBRFyyylFng7kQJaRXN0,5j9C4UvsB9E5do2R0juLHb,Make The Man Love Me,Wynton Kelly!,1961-01-01,36,219280,,https://open.spotify.com/track/5j9C4UvsB9E5do2R0juLHb
+5ncBRFyyylFng7kQJaRXN0,3Z5ZGkUbu4Az6D6VhEuFvD,The Fall of Love,Never Alone,1951-05-12,6,125204,,https://open.spotify.com/track/3Z5ZGkUbu4Az6D6VhEuFvD
+5ncBRFyyylFng7kQJaRXN0,49dHKnAdEu93ne6K4CNsrE,Crazy He Calls Me,"New Faces - New Sounds, Wynton Kelly Piano Interpretations",1951-07-28,34,195693,,https://open.spotify.com/track/49dHKnAdEu93ne6K4CNsrE
+5ncBRFyyylFng7kQJaRXN0,6sq2n7GBZHX3Z7MtdwYrlI,On Green Dolphin Street,Kelly Blue (Keepnews Collection),1959,33,284400,,https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI
+0BqALs1lInR9TTOulUADH7,0kUYnVS6z9YhL22l9pDDcB,Dolphin Dance,The Awakening,1970,47,309200,,https://open.spotify.com/track/0kUYnVS6z9YhL22l9pDDcB
+0BqALs1lInR9TTOulUADH7,4MIPpjKWw1lLVwS6tLhis1,I Love Music,The Awakening,1970,42,442440,,https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1
+0BqALs1lInR9TTOulUADH7,4qnvL2jtPBFzQ3W3u8JphU,Volga Boatman,Count 'Em 88,1956-11-14,42,232506,,https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU
+0BqALs1lInR9TTOulUADH7,1tbzRQCZUoKYMCxzK0Jx5p,Stolen Moments,The Awakening,1970,42,392026,,https://open.spotify.com/track/1tbzRQCZUoKYMCxzK0Jx5p
+0BqALs1lInR9TTOulUADH7,2glALemt4eHbVuhJPr1QuN,Snowfall,Cross Country Tour: 1958-1961,1998-04-07,39,151173,,https://open.spotify.com/track/2glALemt4eHbVuhJPr1QuN
+0BqALs1lInR9TTOulUADH7,3ZMicZ5vyeuI3eq8Ixan4X,Poinciana,Chamber Jazz Volume 2,2009-07-30,9,273531,,https://open.spotify.com/track/3ZMicZ5vyeuI3eq8Ixan4X
+0BqALs1lInR9TTOulUADH7,3D4DYV8JdQu4DzcfJChkvq,Ahmad's Blues,Chamber Jazz Volume 1,2009-07-30,7,174400,,https://open.spotify.com/track/3D4DYV8JdQu4DzcfJChkvq
+0BqALs1lInR9TTOulUADH7,5iWKFIAbqS8btb6jquMusM,"But Not For Me - Live At The Pershing, Chicago, 1958",Ahmad Jamal At The Pershing: But Not For Me,1958-01-01,37,212600,,https://open.spotify.com/track/5iWKFIAbqS8btb6jquMusM
+0BqALs1lInR9TTOulUADH7,4QC4XLTPHiSdexDsKO5Vi7,The Awakening,The Awakening,1970,38,381893,,https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7
+0BqALs1lInR9TTOulUADH7,19CKYnx17KtyWRtmCa5tMf,"Poinciana - Live At The Pershing, Chicago, 1958",Ahmad Jamal At The Pershing: But Not For Me,1958-01-01,34,488640,,https://open.spotify.com/track/19CKYnx17KtyWRtmCa5tMf
+2hGh5VOeeqimQFxqXvfCUf,3nmpWBz32DTzh4N9jaqhcA,Blue In Green,100 Masterpieces,2011-10-31,40,323451,,https://open.spotify.com/track/3nmpWBz32DTzh4N9jaqhcA
+2hGh5VOeeqimQFxqXvfCUf,0E8q2Fx2XuzXCO2NSAppkR,In A Sentimental Mood,Duke Ellington & John Coltrane,1963-02,64,255226,,https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR
+2hGh5VOeeqimQFxqXvfCUf,6J18r0R7rQFuZ4hiRW4P4W,So What,Essentials Jazz : The Ultimate Best of Jazz,2024-12-09,33,561065,,https://open.spotify.com/track/6J18r0R7rQFuZ4hiRW4P4W
+2hGh5VOeeqimQFxqXvfCUf,0uPkCpuoERqrkBL06Art50,My One And Only Love,John Coltrane And Johnny Hartman,1963-01-01,61,295240,,https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50
+2hGh5VOeeqimQFxqXvfCUf,4rmCI9VWrwrJTJ8XQ80BMN,My Little Brown Book,Duke Ellington & John Coltrane,1963-02,58,319733,,https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN
+2hGh5VOeeqimQFxqXvfCUf,7AdG3B3MOM2vp1SGHwIbiE,Freddie Freeloader,"The Columbia Years, Vol. 4",2013-01-02,32,588044,,https://open.spotify.com/track/7AdG3B3MOM2vp1SGHwIbiE
+2hGh5VOeeqimQFxqXvfCUf,5cAwEKmadsW4nCYe9QUvgU,Naima - Mono,Giant Steps (Mono),1960,55,265049,,https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU
+2hGh5VOeeqimQFxqXvfCUf,1XYjLEMA3Wywka73AtdFuO,Nancy (with the Laughing Face),Sax with Cocktails,2016-01-15,30,194613,,https://open.spotify.com/track/1XYjLEMA3Wywka73AtdFuO
+2hGh5VOeeqimQFxqXvfCUf,2JOEPbuwVf0nafGnMSVEhH,My Favorite Things,My Favorite Things (Deluxe Edition),1961,53,824133,,https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH
+2hGh5VOeeqimQFxqXvfCUf,6ZgaUtMlUzUf7SqbUUnfbu,Blue Train - Remastered 2003/Rudy Van Gelder Edition,Blue Train (Expanded Edition),1958,46,644013,,https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu
+47odibUtrN3lnWx0p0pk2P,23aDP04QX8MAHA99FLaPtN,Lonely Woman,The Shape Of Jazz To Come,1959,35,302199,,https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN
+47odibUtrN3lnWx0p0pk2P,4TrzjMsOnd1KWkWrsDRB3u,Peace,The Shape Of Jazz To Come,1959,31,544826,,https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u
+47odibUtrN3lnWx0p0pk2P,4LmLxaTfPM1yrtqpX86rLx,When Will The Blues Leave?,Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters),1958,29,300706,,https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx
+47odibUtrN3lnWx0p0pk2P,4m4CTIkJedguy5kK4tLPC0,Eventually,The Shape Of Jazz To Come,1959,28,263466,,https://open.spotify.com/track/4m4CTIkJedguy5kK4tLPC0
+47odibUtrN3lnWx0p0pk2P,7ql89p8OTrMIGBn1YPLxN3,Tomorrow Is The Question! - Instrumental,Tomorrow Is The Question!,1959-01-16,28,190626,,https://open.spotify.com/track/7ql89p8OTrMIGBn1YPLxN3
+47odibUtrN3lnWx0p0pk2P,3ASbn4OVbcg1tnSjmdyREe,Broad Way Blues,New York Is Now!,1968,26,523760,,https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe
+47odibUtrN3lnWx0p0pk2P,59OezEtep4hCy0n62Z3js5,Focus on Sanity,The Shape Of Jazz To Come,1959,24,411733,,https://open.spotify.com/track/59OezEtep4hCy0n62Z3js5
+47odibUtrN3lnWx0p0pk2P,20cLrU1NlLJlOhPO3CkX9G,Congeniality,The Shape Of Jazz To Come,1959,24,407840,,https://open.spotify.com/track/20cLrU1NlLJlOhPO3CkX9G
+47odibUtrN3lnWx0p0pk2P,09AXI44IaJq2aeIFpfueAF,The Blessing,Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters),1958,23,286266,,https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF
+47odibUtrN3lnWx0p0pk2P,2lwlScELPERmPJzsemoone,Invisible,Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters),1958,23,255600,,https://open.spotify.com/track/2lwlScELPERmPJzsemoone
+6rxxu32JCGDpKKMPHxnSJp,6e0eTAmoeqzrYqVG12cMFP,Stolen Moments,Essential Jazz Recordings 1950-1960,2012-06-01,16,527360,,https://open.spotify.com/track/6e0eTAmoeqzrYqVG12cMFP
+6rxxu32JCGDpKKMPHxnSJp,0VHjXOLALB3DtP8o0Kzcqq,Impressions (feat. Eric Dolphy) - Live,Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live),2023-07-14,19,612881,,https://open.spotify.com/track/0VHjXOLALB3DtP8o0Kzcqq
+6rxxu32JCGDpKKMPHxnSJp,2VzRmb0GCPDBv6FddHGu7s,Hat And Beard,Out To Lunch (The Rudy Van Gelder Edition),1964-09-01,31,504866,,https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s
+6rxxu32JCGDpKKMPHxnSJp,4nra2EcwWZpk9HCHNqrXlk,Yearnin',Essential Jazz Recordings 1950-1960,2012-06-01,8,384840,,https://open.spotify.com/track/4nra2EcwWZpk9HCHNqrXlk
+6rxxu32JCGDpKKMPHxnSJp,6G1gbYfbsQvyP1TxZ82PX3,Chasin' The Trane (2 Nov 1961),"The Complete 1961 Village Vanguard Recordings of John Coltrane with Eric Dolphy, Vol. Three",2011-09-06,8,968466,,https://open.spotify.com/track/6G1gbYfbsQvyP1TxZ82PX3
+6rxxu32JCGDpKKMPHxnSJp,35CyNIjuiOqxYDtxzsbK7a,Cascades,Essential Jazz Recordings 1950-1960,2012-06-01,6,331093,,https://open.spotify.com/track/35CyNIjuiOqxYDtxzsbK7a
+6rxxu32JCGDpKKMPHxnSJp,0mZipiWiYsPHcmXNcgv4WV,Butch and Butch,Essential Jazz Recordings 1950-1960,2012-06-01,8,276520,,https://open.spotify.com/track/0mZipiWiYsPHcmXNcgv4WV
+6rxxu32JCGDpKKMPHxnSJp,2ZoKeQmw9ssT66qncZYlYr,Spiritual ( 3 Nov 1961),"The Complete 1961 Village Vanguard Recordings of John Coltrane with Eric Dolphy, Vol. Three",2011-09-06,6,828706,,https://open.spotify.com/track/2ZoKeQmw9ssT66qncZYlYr
+6rxxu32JCGDpKKMPHxnSJp,3YIeklVyXzO5i1XrhcqV2S,Beyond The Blue Horizon,Complete Studio Sessions Chico Hamilton Quintent,2011-11-11,6,188493,,https://open.spotify.com/track/3YIeklVyXzO5i1XrhcqV2S
+6rxxu32JCGDpKKMPHxnSJp,59PMnQOm6taxjhP2QJ9AIo,"Something Sweet, Something Tender - Remastered 1998/Rudy Van Gelder Edition",Out To Lunch (The Rudy Van Gelder Edition),1964-09-01,22,363893,,https://open.spotify.com/track/59PMnQOm6taxjhP2QJ9AIo
+2wn2nqzITvJ1vcMRO8Wzv6,3NApFS9VemWMltaLDuDDUU,Summertime,"America, Vol. 7: Modern Jazz - Modern Times",2014-01-20,21,526880,,https://open.spotify.com/track/3NApFS9VemWMltaLDuDDUU
+2wn2nqzITvJ1vcMRO8Wzv6,7LpjmDw13OSsxiagJRisp7,Don's Dawn,New York Eye & Ear Control,2009-09-23,25,64680,,https://open.spotify.com/track/7LpjmDw13OSsxiagJRisp7
+2wn2nqzITvJ1vcMRO8Wzv6,07aNCHrzraq8ybkfOFlADE,Holy Family,Spirits Rejoice,2012-10-26,22,132826,,https://open.spotify.com/track/07aNCHrzraq8ybkfOFlADE
+2wn2nqzITvJ1vcMRO8Wzv6,4IfjnNG3AA8ZIlYBSWiHyt,Ghosts,Love Cry (Expanded Edition),1967-08-31,19,169173,,https://open.spotify.com/track/4IfjnNG3AA8ZIlYBSWiHyt
+2wn2nqzITvJ1vcMRO8Wzv6,4z6XwySH5fqkFUnE0D62HI,The Wizard,Spiritual Unity 50th Anniversary Expanded Edition,2014-08-26,17,442826,,https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI
+2wn2nqzITvJ1vcMRO8Wzv6,0ITd3WG4iRjstkTyVTypHq,Love Cry,Love Cry (Expanded Edition),1967-08-31,17,235826,,https://open.spotify.com/track/0ITd3WG4iRjstkTyVTypHq
+2wn2nqzITvJ1vcMRO8Wzv6,5s2AG3CgBFCDzTkAZyTKj2,Ghosts: First Variation,Spiritual Unity 50th Anniversary Expanded Edition,2014-08-26,15,314400,,https://open.spotify.com/track/5s2AG3CgBFCDzTkAZyTKj2
+2wn2nqzITvJ1vcMRO8Wzv6,0SvIDiWiX02bFNgJXkceLz,Dancing Flowers,Love Cry (Expanded Edition),1967-08-31,14,144533,,https://open.spotify.com/track/0SvIDiWiX02bFNgJXkceLz
+2wn2nqzITvJ1vcMRO8Wzv6,60axeMyzshCc7VUTqdOISI,Heart Love,New Grass,1968-01-01,12,333866,,https://open.spotify.com/track/60axeMyzshCc7VUTqdOISI
+2wn2nqzITvJ1vcMRO8Wzv6,5JfzsMDKQcJKde7SSwgiMv,New Ghosts,New Grass,1968-01-01,12,252213,,https://open.spotify.com/track/5JfzsMDKQcJKde7SSwgiMv
+3JLUCojZaHrX2LaUkSj7Ud,5i0EqAX50KcKNgMDMHZndM,Movement 6,Promises,2021-03-26,36,530894,,https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM
+3JLUCojZaHrX2LaUkSj7Ud,4IIxBK0L8uj7viwxhmuSc4,Love Is Everywhere,Wisdom Through Music,1973-01-01,41,318626,,https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4
+3JLUCojZaHrX2LaUkSj7Ud,1jKQvm9mE1O1LlMZibkx0U,Love Will Find a Way,Love Will Find a Way (Expanded Edition),1978-01-01,40,311240,,https://open.spotify.com/track/1jKQvm9mE1O1LlMZibkx0U
+3JLUCojZaHrX2LaUkSj7Ud,0QkT7SfXL9eR6tuQ7xb9ya,Movement 1,Promises,2021-03-26,34,384151,,https://open.spotify.com/track/0QkT7SfXL9eR6tuQ7xb9ya
+3JLUCojZaHrX2LaUkSj7Ud,2ZB1ms89d3xpy92gvTDQC5,Movement 3,Promises,2021-03-26,31,152088,,https://open.spotify.com/track/2ZB1ms89d3xpy92gvTDQC5
+3JLUCojZaHrX2LaUkSj7Ud,5KqceyQkpADmpVrGW6armI,Movement 2,Promises,2021-03-26,31,151327,,https://open.spotify.com/track/5KqceyQkpADmpVrGW6armI
+3JLUCojZaHrX2LaUkSj7Ud,4JNMmiYUmLQiv83k96qNdT,Movement 4,Promises,2021-03-26,31,151770,,https://open.spotify.com/track/4JNMmiYUmLQiv83k96qNdT
+3JLUCojZaHrX2LaUkSj7Ud,55X66sKArUevBeGD7buroR,Astral Traveling,Thembi,1971,36,350266,,https://open.spotify.com/track/55X66sKArUevBeGD7buroR
+3JLUCojZaHrX2LaUkSj7Ud,6lAsz2ai52QsfWX4f4PlqH,Movement 5,Promises,2021-03-26,30,265224,,https://open.spotify.com/track/6lAsz2ai52QsfWX4f4PlqH
+3JLUCojZaHrX2LaUkSj7Ud,5Zg3BH3Xipq3GQZCRyhAX8,Movement 7,Promises,2021-03-26,29,568933,,https://open.spotify.com/track/5Zg3BH3Xipq3GQZCRyhAX8
+0tIODqvzGUoEaK26rK4pvX,0EjtZmOLT6WLShJRHCFWVU,Tapestry from an Asteroid,We Travel the Spaceways,2014-04-28,46,127398,,https://open.spotify.com/track/0EjtZmOLT6WLShJRHCFWVU
+0tIODqvzGUoEaK26rK4pvX,3pJ3y2gEJ3KXHRvqWF4PRn,Hour of Parting,Sound Sun Pleasure,1959,38,287464,,https://open.spotify.com/track/3pJ3y2gEJ3KXHRvqWF4PRn
+0tIODqvzGUoEaK26rK4pvX,25w1nwtRPI5ozR13AH7E5O,Daddy's Gonna Tell You No Lie,Outer Spaceways Incorporated - Kronos Quartet & Friends Meet Sun Ra,2024-06-21,35,335186,,https://open.spotify.com/track/25w1nwtRPI5ozR13AH7E5O
+0tIODqvzGUoEaK26rK4pvX,3wXFZOXzoole2NXH3orG8I,Dreaming,The Early Albums Collection 1957-1963 [Disc 4],1963-01-01,19,164626,,https://open.spotify.com/track/3wXFZOXzoole2NXH3orG8I
+0tIODqvzGUoEaK26rK4pvX,327LlR40YKX406DOqCEQmR,Door To The Cosmos - Mixed,DJ-Kicks (Motor City Drum Ensemble) [DJ Mix],2011-07-04,33,85600,,https://open.spotify.com/track/327LlR40YKX406DOqCEQmR
+0tIODqvzGUoEaK26rK4pvX,0q4SJUYOp0Er9fvREdDyDv,Enlightenment,Sound Sun Pleasure,1959,32,305439,,https://open.spotify.com/track/0q4SJUYOp0Er9fvREdDyDv
+0tIODqvzGUoEaK26rK4pvX,5PnKZYaImcxIsvS8moS2ka,Back in Your Own Back Yard,The Space Age Is Here to Stay,2016-10-14,30,123813,,https://open.spotify.com/track/5PnKZYaImcxIsvS8moS2ka
+0tIODqvzGUoEaK26rK4pvX,03EswEfc8sYqEVAyjOfFFn,When There Is No Sun,New Steps,1978,30,275154,,https://open.spotify.com/track/03EswEfc8sYqEVAyjOfFFn
+0tIODqvzGUoEaK26rK4pvX,3Jf1Vkkkkw0oUpZexLwmKx,It's Christmas Time,The Early Albums Collection 1957-1963 [Disc 4],1963-01-01,12,164653,,https://open.spotify.com/track/3Jf1Vkkkkw0oUpZexLwmKx
+0tIODqvzGUoEaK26rK4pvX,0Iive2puwqbvs6EzVjC5gO,Love in Outer Space - Vocal,The Night of the Purple Moon,1970,28,230403,,https://open.spotify.com/track/0Iive2puwqbvs6EzVjC5gO
+5jtGuhEEDh07yaFfm8qHg7,24wWlgyDYy3qxgmVWNpopk,Port Of Call - Remastered,The World Of Cecil Taylor (Remastered),1961-01-01,28,260640,,https://open.spotify.com/track/24wWlgyDYy3qxgmVWNpopk
+5jtGuhEEDh07yaFfm8qHg7,4xkucAjM9wx5FZWuFO7bsl,Just Friends,Stereo Drive,2000-01-01,6,373306,,https://open.spotify.com/track/4xkucAjM9wx5FZWuFO7bsl
+5jtGuhEEDh07yaFfm8qHg7,31vDG4IJQUwOJaYyT3noi4,Steps,Unit Structures,1966,15,620893,,https://open.spotify.com/track/31vDG4IJQUwOJaYyT3noi4
+5jtGuhEEDh07yaFfm8qHg7,6NXRjtlIWstiuCEWjezV9h,Azure,Jazz Advice,2000-01-01,14,448720,,https://open.spotify.com/track/6NXRjtlIWstiuCEWjezV9h
+5jtGuhEEDh07yaFfm8qHg7,7vKWKRuHUnuQvJ25FJ5swM,Shifting Down,Stereo Drive,2000-01-01,2,639026,,https://open.spotify.com/track/7vKWKRuHUnuQvJ25FJ5swM
+5jtGuhEEDh07yaFfm8qHg7,3k3nVFLnWCkhuKQTZOnioK,Bemsha Swing,Jazz Advance,1991-01-01,12,447133,,https://open.spotify.com/track/3k3nVFLnWCkhuKQTZOnioK
+5jtGuhEEDh07yaFfm8qHg7,2NRDDqLrGG9FQSZrVuF1s3,Air - Remastered,The World Of Cecil Taylor (Remastered),1961-01-01,11,519373,,https://open.spotify.com/track/2NRDDqLrGG9FQSZrVuF1s3
+5jtGuhEEDh07yaFfm8qHg7,3c18D9QsxsVQEwxZvHx1Ch,Like Someone In Love,Stereo Drive,2000-01-01,2,488133,,https://open.spotify.com/track/3c18D9QsxsVQEwxZvHx1Ch
+5jtGuhEEDh07yaFfm8qHg7,3qQEUZI5aElHJFlng90REC,Conquistador - 2003 Remastered,Conquistador!,2004-01-01,11,1074920,,https://open.spotify.com/track/3qQEUZI5aElHJFlng90REC
+5jtGuhEEDh07yaFfm8qHg7,1QxBF7ModTt9Mw3GhKYbgw,T (Beautiful Young'n),Fly! Fly! Fly! Fly! Fly!,2014-03-25,10,52175,,https://open.spotify.com/track/1QxBF7ModTt9Mw3GhKYbgw
+7C2DSqaNkh0w77O5Jz1FKh,43nvSCEaxW5t26KEbDfmvg,Tulips,Tulips,2020-05-15,33,334374,,https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg
+7C2DSqaNkh0w77O5Jz1FKh,0MKeNeFMYuSCv3PAoAammD,"Dr. King, The Peaceful Warrior",Things Have Got To Change,1971-01-01,30,149693,,https://open.spotify.com/track/0MKeNeFMYuSCv3PAoAammD
+7C2DSqaNkh0w77O5Jz1FKh,6fwTmPDaRSRl5lscWHZknE,Professor Shepp's Agenda 3,Ocean Bridges,2020-05-22,27,97119,,https://open.spotify.com/track/6fwTmPDaRSRl5lscWHZknE
+7C2DSqaNkh0w77O5Jz1FKh,4EpEL1JgWSYlSHZmKu1et3,Calling to the Forest,Calling to the Forest,2022-02-25,9,144672,,https://open.spotify.com/track/4EpEL1JgWSYlSHZmKu1et3
+7C2DSqaNkh0w77O5Jz1FKh,6GGw7oDAQUbDWkhqkedR36,Goin' home,Goin' Home,1985,23,370600,,https://open.spotify.com/track/6GGw7oDAQUbDWkhqkedR36
+7C2DSqaNkh0w77O5Jz1FKh,7eTjFImEskxSeJeWVCls0U,Nobody knows the troubles I've seen,Goin' Home,1985,22,283226,,https://open.spotify.com/track/7eTjFImEskxSeJeWVCls0U
+7C2DSqaNkh0w77O5Jz1FKh,6VdtTwF9ZW5m9Lct4ep02s,Attica Blues,Attica Blues,1972-01-01,21,287866,,https://open.spotify.com/track/6VdtTwF9ZW5m9Lct4ep02s
+7C2DSqaNkh0w77O5Jz1FKh,24ZRVI5AXuSYxZgqXQa7ui,Contracts,Mama Rose,1985,20,557866,,https://open.spotify.com/track/24ZRVI5AXuSYxZgqXQa7ui
+7C2DSqaNkh0w77O5Jz1FKh,5IT8xiS70Ul7Zq0pKM8I0l,Quiet Dawn,Attica Blues,1972-01-01,20,372626,,https://open.spotify.com/track/5IT8xiS70Ul7Zq0pKM8I0l
+7C2DSqaNkh0w77O5Jz1FKh,6wqFXCEOVM2HFeYOyJiutw,Blues For Brother George Jackson,Attica Blues,1972-01-01,20,240506,,https://open.spotify.com/track/6wqFXCEOVM2HFeYOyJiutw
+0ZqhrTXYPA9DZR527ZnFdO,2JITVZu8o6ls9k8SoMRy7w,Footprints - Remastered,Adam's Apple (Rudy Van Gelder Edition),1967,48,449773,,https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w
+0ZqhrTXYPA9DZR527ZnFdO,1ylwBTCAZ1WlvvMnWm6U3c,Virgo - Remastered 2004 / Rudy Van Gelder Edition,Night Dreamer,1964-11-01,47,426800,,https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c
+0ZqhrTXYPA9DZR527ZnFdO,0IffIW3eyCx9aZ36IqOu5o,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,Speak No Evil (The Rudy Van Gelder Edition),1966-06-01,46,414240,,https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o
+0ZqhrTXYPA9DZR527ZnFdO,0qxiaagtTvTeNvzxHHc441,Speak No Evil - Remastered1998/Rudy Van Gelder Edition,Speak No Evil (The Rudy Van Gelder Edition),1966-06-01,43,503786,,https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441
+0ZqhrTXYPA9DZR527ZnFdO,2HbpOucCYcPyVEBpjTiJK8,Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition,Night Dreamer,1964-11-01,40,435440,,https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8
+0ZqhrTXYPA9DZR527ZnFdO,0QRcIGOrLvLNhIB9SLXW9F,Adam's Apple - Remastered,Adam's Apple (Rudy Van Gelder Edition),1967,39,409626,,https://open.spotify.com/track/0QRcIGOrLvLNhIB9SLXW9F
+0ZqhrTXYPA9DZR527ZnFdO,0F8xfPspwyXxRjsiW12mya,502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering,Adam's Apple (Rudy Van Gelder Edition),1967,39,394466,,https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya
+0ZqhrTXYPA9DZR527ZnFdO,6fw1b1bCVNY5EVurncxIss,Witch Hunt - Remastered1998/Rudy Van Gelder Edition,Speak No Evil (The Rudy Van Gelder Edition),1966-06-01,38,491493,,https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss
+0ZqhrTXYPA9DZR527ZnFdO,2PGjqrXgOBqP8G4R6EKmpR,Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster,JuJu,1965-07-01,37,399466,,https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR
+0ZqhrTXYPA9DZR527ZnFdO,2WSJsFFzxQGYFJlR57ddGI,Teru - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering,Adam's Apple (Rudy Van Gelder Edition),1967,35,372866,,https://open.spotify.com/track/2WSJsFFzxQGYFJlR57ddGI
+2EsmKkHsXK0WMNGOtIhbxr,1J9iVCaEriyoMXpj2XszhU,When Sunny Gets Blue,Today And Tomorrow,1964,59,282320,,https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU
+2EsmKkHsXK0WMNGOtIhbxr,46jzREqksE0h6wmTKw3WFD,We'll Be Together Again,Nights Of Ballads & Blues,1963,53,220333,,https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD
+2EsmKkHsXK0WMNGOtIhbxr,2mO0AFhyUJmNh7RlTDuxL9,Days Of Wine And Roses,Nights Of Ballads & Blues,1963,52,201173,,https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9
+2EsmKkHsXK0WMNGOtIhbxr,4qRJ7ZJyfzchEd2fjle7Bz,Search For Peace,The Real McCoy (Remastered / Rudy Van Gelder Edition),1967,44,392000,,https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz
+2EsmKkHsXK0WMNGOtIhbxr,08KRFHK8w57Js5GZZjamll,Satin Doll,Nights Of Ballads & Blues,1963,39,339866,,https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll
+2EsmKkHsXK0WMNGOtIhbxr,4hZ1oZezePDpNnNfYjoyqw,For Heaven's Sake,Nights Of Ballads & Blues,1963,36,228866,,https://open.spotify.com/track/4hZ1oZezePDpNnNfYjoyqw
+2EsmKkHsXK0WMNGOtIhbxr,56XCdW9tzLtnbtupTLoBVJ,Blue Monk,Nights Of Ballads & Blues,1963,35,322560,,https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ
+2EsmKkHsXK0WMNGOtIhbxr,4B57xOFBOEGJ3PDaiZApXn,Softly As In A Morning Sunrise (2 Nov 1961),"The Complete 1961 Village Vanguard Recordings of John Coltrane with Eric Dolphy, Vol. Two",2011-09-06,10,398466,,https://open.spotify.com/track/4B57xOFBOEGJ3PDaiZApXn
+2EsmKkHsXK0WMNGOtIhbxr,55GY76amiMF9wjAeto5vco,Contemplation,The Real McCoy (Remastered / Rudy Van Gelder Edition),1967,32,552493,,https://open.spotify.com/track/55GY76amiMF9wjAeto5vco
+2EsmKkHsXK0WMNGOtIhbxr,6DwQtgawdmr23OyrWlIAJC,Reaching Fourth,Reaching Fourth,2023-01-06,6,261306,,https://open.spotify.com/track/6DwQtgawdmr23OyrWlIAJC
+1W8TbFzNS15VwsempfY12H,3PJMsxg6rz9FOo6xNiASXz,Goodbye Pork Pie Hat,Mingus Ah Um,1959,52,342373,,https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz
+1W8TbFzNS15VwsempfY12H,16nJl8NnriCJxraco5Zssm,Better Git It in Your Soul,Mingus Ah Um,1959,45,440840,,https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm
+1W8TbFzNS15VwsempfY12H,2Z7ktNuO2YsY2wS5FC62k4,Mood Indigo,Mingus Mingus Mingus Mingus Mingus,1963,46,285933,,https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4
+1W8TbFzNS15VwsempfY12H,3rFzc8CLVDZ7OOtFa2jPYP,Moanin',Blues & Roots,1960-03,41,482959,,https://open.spotify.com/track/3rFzc8CLVDZ7OOtFa2jPYP
+1W8TbFzNS15VwsempfY12H,3XvcgEkQfjasB5NnY8P4QA,Track A- Solo Dancer,The Black Saint And The Sinner Lady,1963,37,398733,,https://open.spotify.com/track/3XvcgEkQfjasB5NnY8P4QA
+1W8TbFzNS15VwsempfY12H,11cHTwgw5L3qrNcv5Ugv0O,Boogie Stop Shuffle,Mingus Ah Um,1959,36,298960,,https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O
+1W8TbFzNS15VwsempfY12H,1wVqyP5MC3wJmOvEk9e6Ts,II B.S. - Edit,Mingus Mingus Mingus Mingus Mingus,1963,35,288666,,https://open.spotify.com/track/1wVqyP5MC3wJmOvEk9e6Ts
+1W8TbFzNS15VwsempfY12H,7K5NiBQk7QJ0qehZ4e6LmB,Track B- Duete Solo Dancers,The Black Saint And The Sinner Lady,1963,35,405266,,https://open.spotify.com/track/7K5NiBQk7QJ0qehZ4e6LmB
+1W8TbFzNS15VwsempfY12H,5RWzKLxXVzkJQ702yWfp1w,Fables of Faubus,Mingus Ah Um,1959,34,492760,,https://open.spotify.com/track/5RWzKLxXVzkJQ702yWfp1w
+1W8TbFzNS15VwsempfY12H,38C8v33eis3fa4hLf0dl8Z,Self-Portrait in Three Colors,Mingus Ah Um,1959,34,187866,,https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z
+162DCkd8aDKwvjBb74Gu8b,19vVghIuHm3IAfN4xpRF3q,Birdland,Heavy Weather,1977-03-01,44,356760,,https://open.spotify.com/track/19vVghIuHm3IAfN4xpRF3q
+162DCkd8aDKwvjBb74Gu8b,4OzXE9NnSdD9aEAwBcnYBI,Teen Town,Heavy Weather,1977-03-01,36,170826,,https://open.spotify.com/track/4OzXE9NnSdD9aEAwBcnYBI
+162DCkd8aDKwvjBb74Gu8b,0k4XkPxJMQKQa7Ali1qske,A Remark You Made,Heavy Weather,1977-03-01,36,410533,,https://open.spotify.com/track/0k4XkPxJMQKQa7Ali1qske
+162DCkd8aDKwvjBb74Gu8b,2AsjFgg7ImLpxySqCw0b0L,Black Market,Black Market,1976,26,388200,,https://open.spotify.com/track/2AsjFgg7ImLpxySqCw0b0L
+162DCkd8aDKwvjBb74Gu8b,3DiRtCH2QXIuDxcRTwtsiF,Havona,Heavy Weather,1977-03-01,29,361400,,https://open.spotify.com/track/3DiRtCH2QXIuDxcRTwtsiF
+162DCkd8aDKwvjBb74Gu8b,6I7TNJP6ZqPxGNUBeNiy14,Palladium,Heavy Weather,1977-03-01,31,285960,,https://open.spotify.com/track/6I7TNJP6ZqPxGNUBeNiy14
+162DCkd8aDKwvjBb74Gu8b,4AB1oc7TYPx68VSpcr7x7h,Harlequin,Heavy Weather,1977-03-01,30,239240,,https://open.spotify.com/track/4AB1oc7TYPx68VSpcr7x7h
+162DCkd8aDKwvjBb74Gu8b,33dzCF8R1qMzwmkdGGnm1j,Barbary Coast,Black Market,1976,24,187306,,https://open.spotify.com/track/33dzCF8R1qMzwmkdGGnm1j
+162DCkd8aDKwvjBb74Gu8b,7HVLRiHEzNYuNlbKYy3JVq,Cucumber Slumber,Mysterious Traveller,1974,30,500866,,https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq
+162DCkd8aDKwvjBb74Gu8b,4XepvletXubycW70DkWa8m,Cannon Ball,Black Market,1976,17,275493,,https://open.spotify.com/track/4XepvletXubycW70DkWa8m
+1txWOvvuItlRlkB4rM0cUK,5RrJCusmR1J54b5ivqdWIu,Spain,Light As A Feather,1973-01-01,43,590866,,https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu
+1txWOvvuItlRlkB4rM0cUK,1ezz4zLDNIrtjul2PnWf46,You're Everything,Light As A Feather,1973-01-01,33,314733,,https://open.spotify.com/track/1ezz4zLDNIrtjul2PnWf46
+1txWOvvuItlRlkB4rM0cUK,3sfkTYFCbRhJaIaO0Or0Za,Where Have I Known You Before,Where Have I Known You Before,1974-09-01,31,140146,,https://open.spotify.com/track/3sfkTYFCbRhJaIaO0Or0Za
+1txWOvvuItlRlkB4rM0cUK,5JrWS26keJ7AqXydk6g6ls,Sorceress - Instrumental,Romantic Warrior,1976,30,453693,,https://open.spotify.com/track/5JrWS26keJ7AqXydk6g6ls
+1txWOvvuItlRlkB4rM0cUK,1wt87z7ipHD4uhCJLA2p4N,Medieval Overture - Instrumental,Romantic Warrior,1976,30,313866,,https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N
+1txWOvvuItlRlkB4rM0cUK,2jfBy79KwTn8dhJWrhItep,Children's Song,Light As A Feather,1973-01-01,28,170733,,https://open.spotify.com/track/2jfBy79KwTn8dhJWrhItep
+1txWOvvuItlRlkB4rM0cUK,4gRLEuxCA3EKfZe3EUaONx,500 Miles High,Light As A Feather,1973-01-01,24,550906,,https://open.spotify.com/track/4gRLEuxCA3EKfZe3EUaONx
+1txWOvvuItlRlkB4rM0cUK,1dzET7BBRv2apibgAwkLls,The Romantic Warrior - Instrumental,Romantic Warrior,1976,29,651733,,https://open.spotify.com/track/1dzET7BBRv2apibgAwkLls
+1txWOvvuItlRlkB4rM0cUK,4dRO59yxAOl3XpouUwW9Kt,Where Have I Danced With You Before,Where Have I Known You Before,1974-09-01,28,74626,,https://open.spotify.com/track/4dRO59yxAOl3XpouUwW9Kt
+1txWOvvuItlRlkB4rM0cUK,41MD7Y6KZRblENN9fvmGpj,Light As A Feather,Light As A Feather,1973-01-01,24,660733,,https://open.spotify.com/track/41MD7Y6KZRblENN9fvmGpj
+3Ao7NH7lRyQAeKQg2mlTcO,29uRmlE49uQOweIR9FlRLy,"You Know, You Know (with John McLaughlin) - Remastered",The Essential Mahavishnu Orchestra with John McLaughlin (with John McLaughlin),2013-09-03,33,307973,,https://open.spotify.com/track/29uRmlE49uQOweIR9FlRLy
+3Ao7NH7lRyQAeKQg2mlTcO,3XPYMyW85vr0TxFcCu5fAj,Vital Transformation (with John McLaughlin) - Remastered,The Essential Mahavishnu Orchestra with John McLaughlin (with John McLaughlin),2013-09-03,22,375840,,https://open.spotify.com/track/3XPYMyW85vr0TxFcCu5fAj
+3Ao7NH7lRyQAeKQg2mlTcO,3zTPm7WbVCByG66AOqkMNZ,Meeting of the Spirits (with John McLaughlin) - Remastered,The Essential Mahavishnu Orchestra with John McLaughlin (with John McLaughlin),2013-09-03,19,411506,,https://open.spotify.com/track/3zTPm7WbVCByG66AOqkMNZ
+3Ao7NH7lRyQAeKQg2mlTcO,0dCbhZ6jVeSLJ0of5wf2hm,Birds of Fire,Birds Of Fire,1973-03-26,26,342800,,https://open.spotify.com/track/0dCbhZ6jVeSLJ0of5wf2hm
+3Ao7NH7lRyQAeKQg2mlTcO,7LblT8I1YJHhdFyaY8gUyI,"Eternity's Breath, Pt. 1",Visions of the Emerald Beyond,1975,27,190640,,https://open.spotify.com/track/7LblT8I1YJHhdFyaY8gUyI
+3Ao7NH7lRyQAeKQg2mlTcO,04HwlCn0y4hVOOdT4KUAEQ,Dawn,Inner Mounting Flame,1971-01-01,12,309866,,https://open.spotify.com/track/04HwlCn0y4hVOOdT4KUAEQ
+3Ao7NH7lRyQAeKQg2mlTcO,5I9gXWTR37SMqJsea5jhSM,Miles Beyond,Birds Of Fire,1973-03-26,24,280106,,https://open.spotify.com/track/5I9gXWTR37SMqJsea5jhSM
+3Ao7NH7lRyQAeKQg2mlTcO,6mf3kp59g4MiJGYgq4xCYW,The Noonward Race,Inner Mounting Flame,1971-01-01,11,387800,,https://open.spotify.com/track/6mf3kp59g4MiJGYgq4xCYW
+3Ao7NH7lRyQAeKQg2mlTcO,2MDgEQqPuCZbZ8njiCsKo0,Can't Stand Your Funk,Visions of the Emerald Beyond,1975,22,129013,,https://open.spotify.com/track/2MDgEQqPuCZbZ8njiCsKo0
+3Ao7NH7lRyQAeKQg2mlTcO,3ONB1jya749nr5vyPsbZjb,The Dance of Maya,The Essential John McLaughlin,2007-05-21,11,437426,,https://open.spotify.com/track/3ONB1jya749nr5vyPsbZjb
+2ZvrvbQNrHKwjT7qfGFFUW,0sCeNwt8xRCMR4NhKpMyBe,Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition,Empyrean Isles (Expanded Edition),1964-06-17,58,333946,,https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe
+2ZvrvbQNrHKwjT7qfGFFUW,38xcUjiTP1ivfb7ObwjyGA,Watermelon Man - Remastered 2007,Takin' Off (Expanded Edition),1962-05-28,52,429266,,https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA
+2ZvrvbQNrHKwjT7qfGFFUW,2zQl59dZMzwhrmeSBEgiXY,Watermelon Man,Head Hunters,1973-10-26,51,388960,,https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY
+2ZvrvbQNrHKwjT7qfGFFUW,4Ce66JznW8QbeyTdSzdGwR,Chameleon,Head Hunters,1973-10-26,50,941360,,https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR
+2ZvrvbQNrHKwjT7qfGFFUW,2nWHzbBWBOePUvAImQv2So,Rockit,Future Shock,1983,47,325133,,https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So
+2ZvrvbQNrHKwjT7qfGFFUW,0T1EaGm6b9eM7xBf4F1hlc,Maiden Voyage,Maiden Voyage,1965-05-17,46,477093,,https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc
+2ZvrvbQNrHKwjT7qfGFFUW,6eimz6jvlZaPwtflDWCTa0,Tell Me a Bedtime Story,Fat Albert Rotunda,1969-12-08,45,301866,,https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0
+2ZvrvbQNrHKwjT7qfGFFUW,4IXZjNVYILadTUH7AaF32o,Alone And I - Remastered 2007,Takin' Off (Expanded Edition),1962-05-28,42,389773,,https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o
+2ZvrvbQNrHKwjT7qfGFFUW,3qQVUOHJdgIFWJd0jrG9GE,Doin' It,Secrets,1976-08,42,482720,,https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE
+2ZvrvbQNrHKwjT7qfGFFUW,3i0meyRRCpIzyMmLdYssGw,Bring Down the Birds - Outtake,Blow-Up (Original Motion Picture Soundtrack),1967-02-24,41,106306,,https://open.spotify.com/track/3i0meyRRCpIzyMmLdYssGw
+5olDKSsFhhmwh8UCWwKtpq,0f6Fb3g0DRpCIbhljotYwO,Windows,"Now He Sings, Now He Sobs (Expanded Edition)",1968-12-01,45,192106,,https://open.spotify.com/track/0f6Fb3g0DRpCIbhljotYwO
+5olDKSsFhhmwh8UCWwKtpq,12uL43MR8byTEjtg241Z7m,My One And Only Love,"Now He Sings, Now He Sobs (Expanded Edition)",1968-12-01,47,214026,,https://open.spotify.com/track/12uL43MR8byTEjtg241Z7m
+5olDKSsFhhmwh8UCWwKtpq,5RrJCusmR1J54b5ivqdWIu,Spain,Light As A Feather,1973-01-01,43,590866,,https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu
+5olDKSsFhhmwh8UCWwKtpq,5F8rPLt2c52p0SK7kiH26b,Crystal Silence,Return To Forever,1972-07-01,45,415000,,https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b
+5olDKSsFhhmwh8UCWwKtpq,6linlPbVWEecMEMfNcul1e,Senor Mouse,Crystal Silence,1973-04-16,40,377706,,https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e
+5olDKSsFhhmwh8UCWwKtpq,4wpZadyjV07oPn5RyHqkRl,Armando's Rhumba,My Spanish Heart,1976-01-01,36,319066,,https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl
+5olDKSsFhhmwh8UCWwKtpq,5hqqPJuZVQkTtIos7zS6nD,Got A Match?,The Chick Corea Elektric Band,1986-01-01,34,339826,,https://open.spotify.com/track/5hqqPJuZVQkTtIos7zS6nD
+5olDKSsFhhmwh8UCWwKtpq,1ezz4zLDNIrtjul2PnWf46,You're Everything,Light As A Feather,1973-01-01,33,314733,,https://open.spotify.com/track/1ezz4zLDNIrtjul2PnWf46
+5olDKSsFhhmwh8UCWwKtpq,1XbLFuzB07x6G2a6NdUDrC,Children's Songs: No. 3,Children's Songs,1984-04-01,33,83466,,https://open.spotify.com/track/1XbLFuzB07x6G2a6NdUDrC
+5olDKSsFhhmwh8UCWwKtpq,0HVYKp4CqC2NbNzr48dUUa,Question and Answer,A Life in Time: The Roy Haynes Story,2013-01-28,18,383013,,https://open.spotify.com/track/0HVYKp4CqC2NbNzr48dUUa
+4uBSazM6snEc9wCG3jMlYt,1pFzHQNM9lv0Bq0X9MJjYC,This Is Not America (The theme from 'The Falcon And The Snowman' - 2018 Remaster,Loving the Alien (1983 - 1988),2018-10-12,32,231453,,https://open.spotify.com/track/1pFzHQNM9lv0Bq0X9MJjYC
+4uBSazM6snEc9wCG3jMlYt,0Rr5Lw09CzqcchhsH0Pmhs,Last Train Home,Still Life (Talking),1987-07-07,51,338186,,https://open.spotify.com/track/0Rr5Lw09CzqcchhsH0Pmhs
+4uBSazM6snEc9wCG3jMlYt,4gGbnyw4jztAZSIPYuabs5,Are You Going With Me?,Offramp,1982-05-03,40,527373,,https://open.spotify.com/track/4gGbnyw4jztAZSIPYuabs5
+4uBSazM6snEc9wCG3jMlYt,73XavwM8RbuKL60jswYOWb,Have You Heard,Letter from Home,1989,40,385866,,https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb
+4uBSazM6snEc9wCG3jMlYt,2Z7orizvXQNkPqmS38lf0T,Always and Forever,Secret Story,1992-07-08,39,324840,,https://open.spotify.com/track/2Z7orizvXQNkPqmS38lf0T
+4uBSazM6snEc9wCG3jMlYt,5E7hYtzDxeIsa5yEI597KO,James,Offramp,1982-05-03,38,401960,,https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO
+4uBSazM6snEc9wCG3jMlYt,6zB7STorHw7VOrSoxpzW9F,Letter From Home,Letter from Home,1989,38,153693,,https://open.spotify.com/track/6zB7STorHw7VOrSoxpzW9F
+4uBSazM6snEc9wCG3jMlYt,3Pqma55amN5tBg48eughXJ,Minuano (Six Eight),Still Life (Talking),1987-07-07,38,566426,,https://open.spotify.com/track/3Pqma55amN5tBg48eughXJ
+4uBSazM6snEc9wCG3jMlYt,4p0Ykbv7a8kZMf161a90Gn,So May It Secretly Begin,Still Life (Talking),1987-07-07,38,384893,,https://open.spotify.com/track/4p0Ykbv7a8kZMf161a90Gn
+4uBSazM6snEc9wCG3jMlYt,54wk2MJkrGecJuv5ES6O5H,As It Is,Speaking of Now,2002-02-12,36,460760,,https://open.spotify.com/track/54wk2MJkrGecJuv5ES6O5H
+4v0R1feRiuCDch7aAheVhY,0og2U8tsBAR7NJysRR6uBU,"Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 5, 1980",Friday Night in San Francisco,1981,44,691306,,https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU
+4v0R1feRiuCDch7aAheVhY,1RDkmgfjWsK7J9xlDS3PkX,Beyond The Mirage,"Paco De Lucia, Al Di Meola, John McLaughlin",1996-01-01,40,370000,,https://open.spotify.com/track/1RDkmgfjWsK7J9xlDS3PkX
+4v0R1feRiuCDch7aAheVhY,2o6YtXoEeJquw2YUpqSJnp,"You Know, You Know",Inner Mounting Flame,1971-01-01,12,307400,,https://open.spotify.com/track/2o6YtXoEeJquw2YUpqSJnp
+4v0R1feRiuCDch7aAheVhY,2T8p7MvybiHtfvvldFJ218,Manhã De Carnaval,"Paco De Lucia, Al Di Meola, John McLaughlin",1996-01-01,35,372160,,https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218
+4v0R1feRiuCDch7aAheVhY,7hU22gIgAdSqZwbDTIUYlR,"Short Tales of the Black Forest - Live at Warfield Theatre, San Francisco, CA - December 5, 1980",Friday Night in San Francisco,1981,31,522866,,https://open.spotify.com/track/7hU22gIgAdSqZwbDTIUYlR
+4v0R1feRiuCDch7aAheVhY,4X5dBfVflmlVb6SZfAwF47,Vital Transformation,Inner Mounting Flame,1971-01-01,10,375600,,https://open.spotify.com/track/4X5dBfVflmlVb6SZfAwF47
+4v0R1feRiuCDch7aAheVhY,48eJe7f890gJyxWnX7xQQY,Meeting of the Spirits,Inner Mounting Flame,1971-01-01,12,411506,,https://open.spotify.com/track/48eJe7f890gJyxWnX7xQQY
+4v0R1feRiuCDch7aAheVhY,1H8XCYzOyUz7nB6aRMUMtt,Letter From India,"Paco De Lucia, Al Di Meola, John McLaughlin",1996-01-01,29,233666,,https://open.spotify.com/track/1H8XCYzOyUz7nB6aRMUMtt
+4v0R1feRiuCDch7aAheVhY,50JnwwJDIktVvjSOfAbWOb,Zakir,Making Music,1987-05-01,29,382000,,https://open.spotify.com/track/50JnwwJDIktVvjSOfAbWOb
+4v0R1feRiuCDch7aAheVhY,6wxuKPdTIL5Q8Hzjr4VJu8,You And Me,Making Music,1987-05-01,28,129613,,https://open.spotify.com/track/6wxuKPdTIL5Q8Hzjr4VJu8
+3DkK9XA1CI1i7U7ovpAo1G,5qkWuyb6gtlW92LwZZRhKH,Bona Fortuna,World Tour,1998-06-30,20,62773,,https://open.spotify.com/track/5qkWuyb6gtlW92LwZZRhKH
+3DkK9XA1CI1i7U7ovpAo1G,1qC105p6vhT7k9zP4pKHcU,Trav'lin' Light,Soulmates,1963-01-01,23,370200,,https://open.spotify.com/track/1qC105p6vhT7k9zP4pKHcU
+3DkK9XA1CI1i7U7ovpAo1G,30MxQ1iuWu5nYiloScCEDP,In a Silent Way,Zawinul,1971,19,285920,,https://open.spotify.com/track/30MxQ1iuWu5nYiloScCEDP
+3DkK9XA1CI1i7U7ovpAo1G,1DcZ7ryXaPXVQrkcBmt12l,Money in the Pocket,The Rise & Fall of the Third Stream,1994-05-13,15,285066,,https://open.spotify.com/track/1DcZ7ryXaPXVQrkcBmt12l
+3DkK9XA1CI1i7U7ovpAo1G,57nZynGw1Uxo62OekRkqLo,Like Someone In Love,Soulmates,1963-01-01,16,226733,,https://open.spotify.com/track/57nZynGw1Uxo62OekRkqLo
+3DkK9XA1CI1i7U7ovpAo1G,3Xll7ZSi0TahqdrxcJa65O,Too Late Now,Soulmates,1963-01-01,14,386893,,https://open.spotify.com/track/3Xll7ZSi0TahqdrxcJa65O
+3DkK9XA1CI1i7U7ovpAo1G,1gKmRQgciGlvTt0FP8FiGy,"From Vienna, with Love",The Rise & Fall of the Third Stream,1994-05-13,14,267626,,https://open.spotify.com/track/1gKmRQgciGlvTt0FP8FiGy
+3DkK9XA1CI1i7U7ovpAo1G,7do7DOzHhOXKlu2G2vxnU3,My One and Only Love,The Rise & Fall of the Third Stream,1994-05-13,13,231533,,https://open.spotify.com/track/7do7DOzHhOXKlu2G2vxnU3
+3DkK9XA1CI1i7U7ovpAo1G,6R0WmIfT56otFlhQ5Tr3WP,Introduction to a Mighty Theme - Introduction to a mighty theme,The Esc Years,1959,13,112320,,https://open.spotify.com/track/6R0WmIfT56otFlhQ5Tr3WP
+3DkK9XA1CI1i7U7ovpAo1G,4cqhKoi0bzP93yPbgsttqJ,Indiscretions,World Tour,1998-06-30,11,729106,,https://open.spotify.com/track/4cqhKoi0bzP93yPbgsttqJ
+0F3Aew9DSd6fb6192K1K0Y,0Dt1B5dNfajRczQKZA87aL,So Tender,"Standards, Vol. 2",1983,51,435266,,https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL
+0F3Aew9DSd6fb6192K1K0Y,4FMI4Ln1LhyxGldkNXan5e,"Köln, January 24, 1975, Pt. II C - Live",The Köln Concert,1975-11-30,48,416840,,https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e
+0F3Aew9DSd6fb6192K1K0Y,0T4KV1pj8as2xvdHZAP5ae,"Köln, January 24, 1975, Pt. I - Live",The Köln Concert,1975-11-30,46,1561600,,https://open.spotify.com/track/0T4KV1pj8as2xvdHZAP5ae
+0F3Aew9DSd6fb6192K1K0Y,5z7deaTe21B7QVPhSDouL1,'Long As You Know You're Living Yours,Belonging,1974-10-01,42,370866,,https://open.spotify.com/track/5z7deaTe21B7QVPhSDouL1
+0F3Aew9DSd6fb6192K1K0Y,2gNUPv9Lbvd0adulPy47tS,"Württemberg Sonatas / Sonata No. 4 in B-Flat Major, H. 32: II. Andante",Carl Philipp Emanuel Bach,2023-06-30,42,180880,,https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS
+0F3Aew9DSd6fb6192K1K0Y,3hrt1fLgEZIZPONUbcDY0c,"Köln, January 24, 1975, Pt. II A - Live",The Köln Concert,1975-11-30,41,894733,,https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c
+0F3Aew9DSd6fb6192K1K0Y,1ChYuSIoOFDVY6fHSXF6zS,Questar,My Song,1978-06-01,41,550493,,https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS
+0F3Aew9DSd6fb6192K1K0Y,1xKMxT6PFOr4RJWhoisP0t,One For Majid - Live,After The Fall (Live),2018-03-02,40,407586,,https://open.spotify.com/track/1xKMxT6PFOr4RJWhoisP0t
+0F3Aew9DSd6fb6192K1K0Y,6f5c2TrHJxscSjX1CVFlfR,I Loves You Porgy,"The Melody At Night, With You",1999-10-04,39,344693,,https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR
+0F3Aew9DSd6fb6192K1K0Y,79QByJn6Hp4A677VMSJszm,Country,My Song,1978-06-01,39,300706,,https://open.spotify.com/track/79QByJn6Hp4A677VMSJszm
+1TW90GjShgkjySrxBxcwQe,2yj1dE8qFszO6OTdCN19wW,Geo Rose,Civilization,1987-01-01,29,446320,,https://open.spotify.com/track/2yj1dE8qFszO6OTdCN19wW
+1TW90GjShgkjySrxBxcwQe,415dIGsxo24JgyqmAun697,Snake Oil,Lifetime: The Collection,1975,24,386066,,https://open.spotify.com/track/415dIGsxo24JgyqmAun697
+1TW90GjShgkjySrxBxcwQe,7ufmM3OAhnj6a2nCDHhQMw,Touch Me,Angel Street,1988-01-01,25,83133,,https://open.spotify.com/track/7ufmM3OAhnj6a2nCDHhQMw
+1TW90GjShgkjySrxBxcwQe,3qfLV015NcpofyPCwAn9oJ,Fred,Lifetime: The Collection,1975,22,404533,,https://open.spotify.com/track/3qfLV015NcpofyPCwAn9oJ
+1TW90GjShgkjySrxBxcwQe,2k6sbNpI1TZzeV3FMbTZcZ,Proto-Cosmos,Lifetime: The Collection,1975,21,239626,,https://open.spotify.com/track/2k6sbNpI1TZzeV3FMbTZcZ
+1TW90GjShgkjySrxBxcwQe,6PtupmClwOImZT21sWnr1X,United Blues - Instrumental,Third Plane,1978-01-01,17,178640,,https://open.spotify.com/track/6PtupmClwOImZT21sWnr1X
+1TW90GjShgkjySrxBxcwQe,5zNTds2DI5dlgCMkDCqAzW,Red Alert,Lifetime: The Collection,1975,16,275973,,https://open.spotify.com/track/5zNTds2DI5dlgCMkDCqAzW
+1TW90GjShgkjySrxBxcwQe,5xXIA6WMvYPRuFefWVBTof,Wildlife,Lifetime: The Collection,1975,15,318826,,https://open.spotify.com/track/5xXIA6WMvYPRuFefWVBTof
+1TW90GjShgkjySrxBxcwQe,5aNHYdmiTCC2TwL5DRtcNW,Hittin' On 6,The Joy of Flying,1979-11-28,15,378320,,https://open.spotify.com/track/5aNHYdmiTCC2TwL5DRtcNW
+1TW90GjShgkjySrxBxcwQe,5ZfJvy6cVRiGcmYGqYZbjk,Love Song,BLUE NOTE MEETS UNIQLO,2011-02-25,1,505480,,https://open.spotify.com/track/5ZfJvy6cVRiGcmYGqYZbjk
+0ZqhrTXYPA9DZR527ZnFdO,2JITVZu8o6ls9k8SoMRy7w,Footprints - Remastered,Adam's Apple (Rudy Van Gelder Edition),1967,48,449773,,https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w
+0ZqhrTXYPA9DZR527ZnFdO,1ylwBTCAZ1WlvvMnWm6U3c,Virgo - Remastered 2004 / Rudy Van Gelder Edition,Night Dreamer,1964-11-01,47,426800,,https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c
+0ZqhrTXYPA9DZR527ZnFdO,0IffIW3eyCx9aZ36IqOu5o,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,Speak No Evil (The Rudy Van Gelder Edition),1966-06-01,46,414240,,https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o
+0ZqhrTXYPA9DZR527ZnFdO,0qxiaagtTvTeNvzxHHc441,Speak No Evil - Remastered1998/Rudy Van Gelder Edition,Speak No Evil (The Rudy Van Gelder Edition),1966-06-01,43,503786,,https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441
+0ZqhrTXYPA9DZR527ZnFdO,2HbpOucCYcPyVEBpjTiJK8,Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition,Night Dreamer,1964-11-01,40,435440,,https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8
+0ZqhrTXYPA9DZR527ZnFdO,0QRcIGOrLvLNhIB9SLXW9F,Adam's Apple - Remastered,Adam's Apple (Rudy Van Gelder Edition),1967,39,409626,,https://open.spotify.com/track/0QRcIGOrLvLNhIB9SLXW9F
+0ZqhrTXYPA9DZR527ZnFdO,0F8xfPspwyXxRjsiW12mya,502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering,Adam's Apple (Rudy Van Gelder Edition),1967,39,394466,,https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya
+0ZqhrTXYPA9DZR527ZnFdO,6fw1b1bCVNY5EVurncxIss,Witch Hunt - Remastered1998/Rudy Van Gelder Edition,Speak No Evil (The Rudy Van Gelder Edition),1966-06-01,38,491493,,https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss
+0ZqhrTXYPA9DZR527ZnFdO,2PGjqrXgOBqP8G4R6EKmpR,Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster,JuJu,1965-07-01,37,399466,,https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR
+0ZqhrTXYPA9DZR527ZnFdO,2WSJsFFzxQGYFJlR57ddGI,Teru - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering,Adam's Apple (Rudy Van Gelder Edition),1967,35,372866,,https://open.spotify.com/track/2WSJsFFzxQGYFJlR57ddGI
+375zxMmh2cSgUzFFnva0O7,4s6oQ7wdy7jOv53weBiPli,Carol Of The Bells,Crescent City Christmas Card,1989-10-03,52,292626,,https://open.spotify.com/track/4s6oQ7wdy7jOv53weBiPli
+375zxMmh2cSgUzFFnva0O7,4pHopDzHTDIkiNK8oLt0RX,Winter Wonderland,Crescent City Christmas Card,1989-10-03,51,172960,,https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX
+375zxMmh2cSgUzFFnva0O7,2JR1WeETsXmFR1kRC2oXXq,Where or When,Standard Time Vol. 3: The Resolution Of Romance,1990-05-15,46,168666,,https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq
+375zxMmh2cSgUzFFnva0O7,0xKTdKwBalLkjGh5wKfGaD,Hark! The Herald Angels Sing,Crescent City Christmas Card,1989-10-03,49,186000,,https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD
+375zxMmh2cSgUzFFnva0O7,4nzKd3HazmJY8S4R2Xl1oj,When It's Sleepytime Down South,Intimacy Calling - Standard Time Vol. 2,1991,23,309000,,https://open.spotify.com/track/4nzKd3HazmJY8S4R2Xl1oj
+375zxMmh2cSgUzFFnva0O7,6AcL0FtLcAwXQk8T6ZYJkr,White Christmas,Big Band Holidays,2015-10-30,40,316049,,https://open.spotify.com/track/6AcL0FtLcAwXQk8T6ZYJkr
+375zxMmh2cSgUzFFnva0O7,1K0VI2vWPR85jvGeeWPIjD,Jingle Bells,Big Band Holidays,2015-10-30,39,139258,,https://open.spotify.com/track/1K0VI2vWPR85jvGeeWPIjD
+375zxMmh2cSgUzFFnva0O7,7HX1x07eay5LlnrQdq7zh2,The Very Thought of You,Standard Time Vol. 3: The Resolution Of Romance,1990-05-15,37,336933,,https://open.spotify.com/track/7HX1x07eay5LlnrQdq7zh2
+375zxMmh2cSgUzFFnva0O7,7iQBflxrDWDvsIEDy8juLT,Pedro Navaja,Una Noche Con Rubén Blades,2018-10-19,36,491286,,https://open.spotify.com/track/7iQBflxrDWDvsIEDy8juLT
+375zxMmh2cSgUzFFnva0O7,4gBzl7sX7yTjZIzvs9VFpN,"Jingle Bells - Spotify Singles – Holiday, Recorded at Spotify Studios NYC",Jingle Bells,2017-11-29,36,155109,,https://open.spotify.com/track/4gBzl7sX7yTjZIzvs9VFpN
+2vI9KFm0fwSfPrpEgOeIbq,6PtZaHjsx2Pnk3x9O92bB2,Blackbird,"The Art of the Trio, Vol. 1",1997-01-28,43,299040,,https://open.spotify.com/track/6PtZaHjsx2Pnk3x9O92bB2
+2vI9KFm0fwSfPrpEgOeIbq,73ik3a517Lz2W7eLWejapJ,Exit Music,"Songs: The Art of the Trio, Vol. 3",1998-09-15,40,263933,,https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ
+2vI9KFm0fwSfPrpEgOeIbq,5afcaMvzTLwLTcBtUtMoXe,Alfie,Day Is Done,2005-09-26,36,218986,,https://open.spotify.com/track/5afcaMvzTLwLTcBtUtMoXe
+2vI9KFm0fwSfPrpEgOeIbq,67ZAqk0egv33NmEW0OpGHt,Your Mother Should Know,Your Mother Should Know: Brad Mehldau Plays The Beatles,2023-02-10,37,138213,,https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt
+2vI9KFm0fwSfPrpEgOeIbq,7kdPpPFzjLo8piKWbuQ0e4,I Fall in Love Too Easily,"The Art of the Trio, Vol. 1",1997-01-28,37,438426,,https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4
+2vI9KFm0fwSfPrpEgOeIbq,5mLHcZWjqgihLJHt5C6zKk,Solid Jackson,Solid Jackson,2024-11-29,37,490668,,https://open.spotify.com/track/5mLHcZWjqgihLJHt5C6zKk
+2vI9KFm0fwSfPrpEgOeIbq,5Jz6iIgLRx5huCdlM8QDts,Paranoid Android I,Mon chien Stupide (Bande originale du film),2019-10-28,36,101386,,https://open.spotify.com/track/5Jz6iIgLRx5huCdlM8QDts
+2vI9KFm0fwSfPrpEgOeIbq,7eYF1tAcKBvhJU4W9K0Uca,When It Rains,Largo,2002-08-13,36,396626,,https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca
+2vI9KFm0fwSfPrpEgOeIbq,69qGhVe4CbzDi5uBeWPPdO,Tabhair dom do Lámh,Chris Thile & Brad Mehldau,2017-01-20,34,261466,,https://open.spotify.com/track/69qGhVe4CbzDi5uBeWPPdO
+2vI9KFm0fwSfPrpEgOeIbq,5AN4uYKJbDAuL0efAodEbF,"Prelude No. 3 in C# Major from The Well-Tempered Clavier Book I, BWV 848",After Bach,2018-03-09,34,81493,,https://open.spotify.com/track/5AN4uYKJbDAuL0efAodEbF
+3uaHfXYx9Fh4HjqMbrWn5S,12Ykc8GW0kQJURPlxZgyXM,Body & Soul,Joshua Redman,1993,40,290466,,https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM
+3uaHfXYx9Fh4HjqMbrWn5S,4yJgdugXPQIzvWBwFUJbS4,Where Are You?,where are we,2023-09-15,36,310106,,https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4
+3uaHfXYx9Fh4HjqMbrWn5S,0cOpvX0oS7rQTfJg9Sipw8,Baltimore,where are we,2023-09-15,35,337573,,https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8
+3uaHfXYx9Fh4HjqMbrWn5S,6NlmRmhfmccg4mmmPP0Vyd,Tears in Heaven,Wish,1993-01-21,34,201933,,https://open.spotify.com/track/6NlmRmhfmccg4mmmPP0Vyd
+3uaHfXYx9Fh4HjqMbrWn5S,0yuUqVmERc7d4uevQj5Cj1,My One and Only Love,Songs of Joy & Peace,2008,29,247173,,https://open.spotify.com/track/0yuUqVmERc7d4uevQj5Cj1
+3uaHfXYx9Fh4HjqMbrWn5S,03GB3BpOhd8PiIug8UKQQy,Chicago Blues,where are we,2023-09-15,31,293973,,https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy
+3uaHfXYx9Fh4HjqMbrWn5S,5CcAkJMkqpx7vwyYq1CQQd,As This Moment Slips Away,The Bad Plus Joshua Redman,2015-05-26,30,412613,,https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd
+3uaHfXYx9Fh4HjqMbrWn5S,3MhWFpRMVEyZ9QXGIb5RJK,The Nearness of You,Nearness,2016-09-09,30,1004626,,https://open.spotify.com/track/3MhWFpRMVEyZ9QXGIb5RJK
+3uaHfXYx9Fh4HjqMbrWn5S,3Mc9PmuAGNevSiKMZsGKtA,You've Got A Friend In Me,Disney Jazz Volume I: Everybody Wants To Be A Cat,2011-01-01,29,235333,,https://open.spotify.com/track/3Mc9PmuAGNevSiKMZsGKtA
+3uaHfXYx9Fh4HjqMbrWn5S,0Snag7BFP5fx7SonfLcSsh,I Got You - I Feel Good,Joshua Redman,1993,29,279573,,https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh
+49zXTngyUTielHTbbH5YKs,46BCpYx2ERUE5Rjk9dB1qh,Ruby My Dear,Diamond In The Rough,1990-04-13,42,373413,,https://open.spotify.com/track/46BCpYx2ERUE5Rjk9dB1qh
+49zXTngyUTielHTbbH5YKs,62VWmsNoDmqT0Mj9oHHFVh,Strasbourg / St. Denis,Earfood,2008-01-01,47,278626,,https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh
+49zXTngyUTielHTbbH5YKs,1UceH3dNaxzKSG4qQ1kbp2,Trust,Nothing Serious,2006-01-01,43,325586,,https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2
+49zXTngyUTielHTbbH5YKs,2qnw6oYuN4NAkJtG6g8UdU,September in the Rain,Public Eye,1991-03-25,35,450666,,https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU
+49zXTngyUTielHTbbH5YKs,6GzguOrdTfs11VIgo271iZ,Frosty The Snowman,Jazz For Joy: A Verve Christmas Album,1996-01-01,38,234173,,https://open.spotify.com/track/6GzguOrdTfs11VIgo271iZ
+49zXTngyUTielHTbbH5YKs,3yQw5zU2b3MNH2h9ccYgyZ,Christmas Cheer,Jazz For Joy: A Verve Christmas Album,1996-01-01,34,291906,,https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ
+49zXTngyUTielHTbbH5YKs,2iJCVsNZAHFVaJhlLeXW00,Speak Low,Earfood,2008-01-01,34,316866,,https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00
+49zXTngyUTielHTbbH5YKs,1AZRzlMAaXFndLEvHO8Sf6,I'm Not So Sure,Earfood,2008-01-01,31,348973,,https://open.spotify.com/track/1AZRzlMAaXFndLEvHO8Sf6
+49zXTngyUTielHTbbH5YKs,1no5aBlOtuHcBeY6fWU0Oc,Joy Is Sorrow Unmasked,Earfood,2008-01-01,31,286600,,https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc
+49zXTngyUTielHTbbH5YKs,1eVXW0c6PT1iwP0HDN7vVF,Rumba Roy,Grande-Terre,2024-10-18,31,412626,,https://open.spotify.com/track/1eVXW0c6PT1iwP0HDN7vVF
+5z1VAFwT35EVvCp1XlZZuL,3CDHydgW0ssTh59f0jy1y3,The Look Of Love,The Look Of Love,2001-01-01,59,282000,,https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3
+5z1VAFwT35EVvCp1XlZZuL,4IVyX0UJzGyUk0MLiz1jVJ,Let's Fall In Love,When I Look In Your Eyes,1999-01-01,57,258959,,https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ
+5z1VAFwT35EVvCp1XlZZuL,0JCfVb2qlq79Q479BUb0jK,Alone Again (Naturally),Wallflower,2014-10-21,57,230680,,https://open.spotify.com/track/0JCfVb2qlq79Q479BUb0jK
+5z1VAFwT35EVvCp1XlZZuL,4ylXKnf5PQdCcOiXzKGysV,Jingle Bells,Christmas Songs,2005-10-13,56,205586,,https://open.spotify.com/track/4ylXKnf5PQdCcOiXzKGysV
+5z1VAFwT35EVvCp1XlZZuL,6zduorj53VssZG2WOsXq3G,Let It Snow,Christmas Songs,2005-10-13,56,241240,,https://open.spotify.com/track/6zduorj53VssZG2WOsXq3G
+5z1VAFwT35EVvCp1XlZZuL,3VZwP7d1U7tuQjb9JZrSRF,'S Wonderful,The Look Of Love,2001-01-01,54,268760,,https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF
+5z1VAFwT35EVvCp1XlZZuL,1f9WJ3jehvcxTK5OTTYiOO,Christmas Time Is Here,Christmas Songs,2005-10-13,55,214920,,https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO
+5z1VAFwT35EVvCp1XlZZuL,1GGK81j5LaThJjnJHhfGDq,Just The Way You Are,Live In Paris,2002-01-01,55,300520,,https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq
+5z1VAFwT35EVvCp1XlZZuL,4h74V26B574hSICB5MZs1c,You Don't Know Me,Genius Loves Company,2004-08-31,54,235401,,https://open.spotify.com/track/4h74V26B574hSICB5MZs1c
+5z1VAFwT35EVvCp1XlZZuL,5R9NaAk7bp624MbMyhcoBZ,I'll Be Home For Christmas,Christmas Songs,2005-10-13,54,187200,,https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ
+16R5esBHEkxTw1QO9dnWM5,5tu4L93jf26r7Nak71lcVs,Easy To Love,The Cole Porter Mix,2008-01-01,40,216320,,https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs
+16R5esBHEkxTw1QO9dnWM5,5nRYOuYInJeQWZR3r65wfJ,C'est Magnifique,The Cole Porter Mix,2008-01-01,29,217306,,https://open.spotify.com/track/5nRYOuYInJeQWZR3r65wfJ
+16R5esBHEkxTw1QO9dnWM5,3XlyZjmcYWKCntQyjYtmyn,My Girl,A Distortion Of Love,1992-01-01,27,221626,,https://open.spotify.com/track/3XlyZjmcYWKCntQyjYtmyn
+16R5esBHEkxTw1QO9dnWM5,3Qi287NM3Sasj7Gl3DGNcb,Summer Samba,Nightclub,2000-09-26,27,224826,,https://open.spotify.com/track/3Qi287NM3Sasj7Gl3DGNcb
+16R5esBHEkxTw1QO9dnWM5,37X75DeUAMvgG3YR6sthor,All in Love is Fair,Clique,2021-08-06,26,263452,,https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor
+16R5esBHEkxTw1QO9dnWM5,2ZFmNlinOMABynh5ai9DDf,The Beat Goes On,Companion,1999-09-01,26,324760,,https://open.spotify.com/track/2ZFmNlinOMABynh5ai9DDf
+16R5esBHEkxTw1QO9dnWM5,64633OJ2FutmLzqq81gVhE,Yesterdays,Nightclub,2000-09-26,22,400640,,https://open.spotify.com/track/64633OJ2FutmLzqq81gVhE
+16R5esBHEkxTw1QO9dnWM5,147G6D3C7ofHAAdwXc8XHf,A Taste of Honey,Cafe Blue,1994-09-01,21,268121,,https://open.spotify.com/track/147G6D3C7ofHAAdwXc8XHf
+16R5esBHEkxTw1QO9dnWM5,55CaMgl5pt0Ko4sDd0p7rN,You Don't Know Me,Nightclub,2000-09-26,21,226133,,https://open.spotify.com/track/55CaMgl5pt0Ko4sDd0p7rN
+16R5esBHEkxTw1QO9dnWM5,4FJ678ORMehOang0djwg9Y,You're The Top,The Cole Porter Mix,2008-01-01,19,219653,,https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y
+4hdVPbHhsWAn2XTXVRJoxB,5DuC2DifOdh5jPuM0MGy4z,Cloud Message,Eagle's Point,2024-03-08,22,425239,,https://open.spotify.com/track/5DuC2DifOdh5jPuM0MGy4z
+4hdVPbHhsWAn2XTXVRJoxB,4OOhvlp6VIRB6iqkxDIidf,Dream of Home,Eagle's Point,2024-03-08,21,339399,,https://open.spotify.com/track/4OOhvlp6VIRB6iqkxDIidf
+4hdVPbHhsWAn2XTXVRJoxB,7hX8zn1W6VWKHYHpzMGmV0,O Come All Ye Faithful - Instrumental,"A Concord Jazz Christmas, Vol. 2",1996-01-01,20,181346,,https://open.spotify.com/track/7hX8zn1W6VWKHYHpzMGmV0
+4hdVPbHhsWAn2XTXVRJoxB,7MrXwqdwwU57JqIOGtTbRe,The Source,Gratitude,2001-01-01,21,397600,,https://open.spotify.com/track/7MrXwqdwwU57JqIOGtTbRe
+4hdVPbHhsWAn2XTXVRJoxB,7E8qyylIUyODWUp9tGUwoQ,Ephemeral,Relations,2024-11-29,13,185866,,https://open.spotify.com/track/7E8qyylIUyODWUp9tGUwoQ
+4hdVPbHhsWAn2XTXVRJoxB,3kdM9XYbj6ynKyXDuG6aFI,Eagle's Point,Eagle's Point,2024-03-08,17,455959,,https://open.spotify.com/track/3kdM9XYbj6ynKyXDuG6aFI
+4hdVPbHhsWAn2XTXVRJoxB,3WHxN3ZV7Fdvz6iVghJ7yJ,Kalypso,The Sirens,2013-02-08,18,504266,,https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ
+4hdVPbHhsWAn2XTXVRJoxB,10zSiERQl6EEQFbS6IFUB6,Indigo Ildikó,Eagle's Point,2024-03-08,17,438681,,https://open.spotify.com/track/10zSiERQl6EEQFbS6IFUB6
+4hdVPbHhsWAn2XTXVRJoxB,4oW5TZR1ommlrPipe5R7g2,Sonic Anomaly,The Dreamer Is The Dream,2017-04-21,16,334746,,https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2
+4hdVPbHhsWAn2XTXVRJoxB,1KDcKCLVQOWUB4kgwrETVy,Aria for Anna,Eagle's Point,2024-03-08,15,374993,,https://open.spotify.com/track/1KDcKCLVQOWUB4kgwrETVy
+1bqaQBqbqbEXPxLF0v6AAH,7FI4GNCpplLLHihNZPOwKW,Opening Day,Blue Maqams,2017-10-13,34,421480,,https://open.spotify.com/track/7FI4GNCpplLLHihNZPOwKW
+1bqaQBqbqbEXPxLF0v6AAH,0HVYKp4CqC2NbNzr48dUUa,Question and Answer,A Life in Time: The Roy Haynes Story,2013-01-28,18,383013,,https://open.spotify.com/track/0HVYKp4CqC2NbNzr48dUUa
+1bqaQBqbqbEXPxLF0v6AAH,4hXCLt55j8I2NGm9nhhglr,Another Land,Another Land,2021-05-28,32,558720,,https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr
+1bqaQBqbqbEXPxLF0v6AAH,1uf8Nk1hT9pv35xuKGZc81,Bahia,Blue Maqams,2017-10-13,26,525586,,https://open.spotify.com/track/1uf8Nk1hT9pv35xuKGZc81
+1bqaQBqbqbEXPxLF0v6AAH,6h2eq614VlanRSPchkBKfk,Blue Maqams,Blue Maqams,2017-10-13,26,521573,,https://open.spotify.com/track/6h2eq614VlanRSPchkBKfk
+1bqaQBqbqbEXPxLF0v6AAH,2ADUGf2TirHsHkRFJObxey,Kashf,Thimar,1998-05-18,25,321866,,https://open.spotify.com/track/2ADUGf2TirHsHkRFJObxey
+1bqaQBqbqbEXPxLF0v6AAH,4XN2edAbK8xUw16QMdFZey,Essaouira,United,2024-11-08,25,304360,,https://open.spotify.com/track/4XN2edAbK8xUw16QMdFZey
+1bqaQBqbqbEXPxLF0v6AAH,4pOSZViNitIP2MXaczHxaK,Talwin,Thimar,1998-05-18,25,255826,,https://open.spotify.com/track/4pOSZViNitIP2MXaczHxaK
+1bqaQBqbqbEXPxLF0v6AAH,0d5CCcKEz7u10XXAUkskCS,La passante,Blue Maqams,2017-10-13,24,245853,,https://open.spotify.com/track/0d5CCcKEz7u10XXAUkskCS
+1bqaQBqbqbEXPxLF0v6AAH,0vFFJiV8NdpZdEq6BzEKVY,La nuit,Blue Maqams,2017-10-13,24,628800,,https://open.spotify.com/track/0vFFJiV8NdpZdEq6BzEKVY
+3gkJ7lXtLpE4KauFHpk2vK,2kru6bWT6F4ALf632D0nmo,The Seven Pillars,Ou Phrontis,2024-12-09,28,756953,,https://open.spotify.com/track/2kru6bWT6F4ALf632D0nmo
+3gkJ7lXtLpE4KauFHpk2vK,5NNBOBEmi0h5DCH9hlTmiL,Noumena,Ou Phrontis,2024-12-09,26,267400,,https://open.spotify.com/track/5NNBOBEmi0h5DCH9hlTmiL
+3gkJ7lXtLpE4KauFHpk2vK,3VAlaiAztmQZzsSLOexHYX,Paralipomena,Ou Phrontis,2024-12-09,24,263716,,https://open.spotify.com/track/3VAlaiAztmQZzsSLOexHYX
+3gkJ7lXtLpE4KauFHpk2vK,2McV4eIWyJFbMz0cxZtGAF,A Faithful Longing,Ou Phrontis,2024-12-09,23,355836,,https://open.spotify.com/track/2McV4eIWyJFbMz0cxZtGAF
+3gkJ7lXtLpE4KauFHpk2vK,6z2ORopjenM7qltQ23LQtj,Tautologies,Ou Phrontis,2024-12-09,23,217461,,https://open.spotify.com/track/6z2ORopjenM7qltQ23LQtj
+3gkJ7lXtLpE4KauFHpk2vK,6pPEupEhsougQ3Lj09HBmq,The Fourold Root,Ou Phrontis,2024-12-09,22,212409,,https://open.spotify.com/track/6pPEupEhsougQ3Lj09HBmq
+3gkJ7lXtLpE4KauFHpk2vK,3WjoPsuqR98yYPadFXNm61,Winter Wonderland,A Dreamers Christmas,2011-09-27,20,253146,,https://open.spotify.com/track/3WjoPsuqR98yYPadFXNm61
+3gkJ7lXtLpE4KauFHpk2vK,3dMdCmB3R5SJmQHkN1OWee,The Arrow of Time,Ou Phrontis,2024-12-09,19,361719,,https://open.spotify.com/track/3dMdCmB3R5SJmQHkN1OWee
+3gkJ7lXtLpE4KauFHpk2vK,5p8xAqgc0wvlAYXQMuYHyw,Snowfall,A Dreamers Christmas,2011-09-27,19,310120,,https://open.spotify.com/track/5p8xAqgc0wvlAYXQMuYHyw
+3gkJ7lXtLpE4KauFHpk2vK,48Ky39r2JNa0wDNj0JrXIH,Christmas Time Is Here,A Dreamers Christmas,2011-09-27,19,277960,,https://open.spotify.com/track/48Ky39r2JNa0wDNj0JrXIH
+61bWkkCyCh1jSBmAKdC7sg,5i905CIs4whDxffaFOH4eH,Walking by Flashlight - Thompson Fields Version,The Essential Maria Schneider,2019-05-10,28,301360,,https://open.spotify.com/track/5i905CIs4whDxffaFOH4eH
+61bWkkCyCh1jSBmAKdC7sg,5WZ3uud4Htf2fL6n4EGCys,Hang Gliding - Allegresse Version,The Essential Maria Schneider,2019-05-10,19,799826,,https://open.spotify.com/track/5WZ3uud4Htf2fL6n4EGCys
+61bWkkCyCh1jSBmAKdC7sg,6h8lKmj9ZM0Kr2j1NjAaIG,Choro Dancado - Concert in the Garden Version,The Essential Maria Schneider,2019-05-10,16,585960,,https://open.spotify.com/track/6h8lKmj9ZM0Kr2j1NjAaIG
+61bWkkCyCh1jSBmAKdC7sg,08D1aC37eNA4omPtAmMdbQ,Wyrgly - Evanescence Version,The Essential Maria Schneider,2019-05-10,15,628933,,https://open.spotify.com/track/08D1aC37eNA4omPtAmMdbQ
+61bWkkCyCh1jSBmAKdC7sg,5A0IwlVnQAsmklV5ynLXA9,Sputnik,Sputnik,2020-07-25,13,490703,,https://open.spotify.com/track/5A0IwlVnQAsmklV5ynLXA9
+61bWkkCyCh1jSBmAKdC7sg,0D7jMJrhqYr695Jt1j5dmO,Some Circles - Evanescence Version,The Essential Maria Schneider,2019-05-10,12,351840,,https://open.spotify.com/track/0D7jMJrhqYr695Jt1j5dmO
+0Vz0vgVrclNJlHBLrgjklY,4lj4cW45UP5tQ8AhRxnQi9,Before It's Time to Say Goodbye,Songbook,1997-05-16,35,317946,,https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9
+0Vz0vgVrclNJlHBLrgjklY,5tkioBRK2vVoinDRJbyUlp,Hargrove,Sounds from the Ancestors,2021-08-27,32,313720,,https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp
+0Vz0vgVrclNJlHBLrgjklY,1YuCTj9wRtIPtIYZesNFjN,Sing a Song of Song,Songbook,1997-05-16,31,442466,,https://open.spotify.com/track/1YuCTj9wRtIPtIYZesNFjN
+0Vz0vgVrclNJlHBLrgjklY,5mYyGnbGj5ccOA0R7u4rwI,Bossa,Do Your Dance!,2016-07-08,30,382200,,https://open.spotify.com/track/5mYyGnbGj5ccOA0R7u4rwI
+0Vz0vgVrclNJlHBLrgjklY,1kox7Hh8LnWXYt4Auf7Ucn,Ascendence,Who Killed AI?,2024-04-12,26,234026,,https://open.spotify.com/track/1kox7Hh8LnWXYt4Auf7Ucn
+0Vz0vgVrclNJlHBLrgjklY,3lKf9f5Ysrhb1mvdGtvnej,Happy People,Happy People,2002,25,312066,,https://open.spotify.com/track/3lKf9f5Ysrhb1mvdGtvnej
+0Vz0vgVrclNJlHBLrgjklY,1TGnqifzsTJsGhTZ0FHjzd,Sounds Like Winter,Simply Said,1999-06-18,16,244226,,https://open.spotify.com/track/1TGnqifzsTJsGhTZ0FHjzd
+0Vz0vgVrclNJlHBLrgjklY,5utnd69OazUzLkC6lQnKN2,Night and Day,Triology,1995-05-04,21,416653,,https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2
+0Vz0vgVrclNJlHBLrgjklY,2EIgNXJzo5vn8Gf4hV6lq7,Wayne's Thang,Triology,1995-05-04,20,410466,,https://open.spotify.com/track/2EIgNXJzo5vn8Gf4hV6lq7
+0Vz0vgVrclNJlHBLrgjklY,6KZKVgK5NmJtJ8hysKmGya,November 15,Songbook,1997-05-16,20,458666,,https://open.spotify.com/track/6KZKVgK5NmJtJ8hysKmGya
+5ACxPOI9gR3l0cyy2dvkHv,6vWkMerIb8fzLSeYQ7iCCi,Eleanor,West of 5th,2006-10-24,41,289693,,https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi
+5ACxPOI9gR3l0cyy2dvkHv,2qnw6oYuN4NAkJtG6g8UdU,September in the Rain,Public Eye,1991-03-25,35,450666,,https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU
+5ACxPOI9gR3l0cyy2dvkHv,6GzguOrdTfs11VIgo271iZ,Frosty The Snowman,Jazz For Joy: A Verve Christmas Album,1996-01-01,38,234173,,https://open.spotify.com/track/6GzguOrdTfs11VIgo271iZ
+5ACxPOI9gR3l0cyy2dvkHv,0chBHr9DJuSYwN5JuunfY5,This Christmas,Jazz For Joy: A Verve Christmas Album,1996-01-01,37,280933,,https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5
+5ACxPOI9gR3l0cyy2dvkHv,7515hXASklDD12qq3NEkFc,Double Decker (Deck The Halls),Jazz For Joy: A Verve Christmas Album,1996-01-01,28,202826,,https://open.spotify.com/track/7515hXASklDD12qq3NEkFc
+5ACxPOI9gR3l0cyy2dvkHv,2cLHTUI7oKC11uLHHi2TLk,But Beautiful - Live,Trilogy 2 (Live),2019-10-04,25,541866,,https://open.spotify.com/track/2cLHTUI7oKC11uLHHi2TLk
+5ACxPOI9gR3l0cyy2dvkHv,3o5ybQryQMrAG4NcT9UYth,Rumble in the Jungle,The Movement Revisited: A Musical Portrait of Four Icons,2020-02-07,22,359796,,https://open.spotify.com/track/3o5ybQryQMrAG4NcT9UYth
+5ACxPOI9gR3l0cyy2dvkHv,2dQH1IHSPZOcgckxG2ENSD,Consider Me Gone,Conversations with Christian,2011-11-08,21,259260,,https://open.spotify.com/track/2dQH1IHSPZOcgckxG2ENSD
+5ACxPOI9gR3l0cyy2dvkHv,7zvIuuU3OsVK6VsgJCBHL4,Philly Slop,But Who's Gonna Play the Melody?,2024-03-22,20,205897,,https://open.spotify.com/track/7zvIuuU3OsVK6VsgJCBHL4
+5ACxPOI9gR3l0cyy2dvkHv,5XFgYOGPQQ9PRchIYx9Wgj,I'll Write A Song For You,A Family Affair,1998,20,291773,,https://open.spotify.com/track/5XFgYOGPQQ9PRchIYx9Wgj
+5bepW5vcdRzheNc0F8lHJ5,3afeZ81GDy59tATovKyH6Z,I Know You Know,Esperanza,2008-01-01,48,225200,,https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z
+5bepW5vcdRzheNc0F8lHJ5,3ipFwADRp0cwbzQHUA7C3m,Saudade Dos Aviões Da Panair (Conversando No Bar),Milton + esperanza,2024-08-09,40,324520,,https://open.spotify.com/track/3ipFwADRp0cwbzQHUA7C3m
+5bepW5vcdRzheNc0F8lHJ5,26LFjnGEFsVB7J6iMecb1A,Dawn [ft. esperanza spalding],Odyssey,2024-09-20,41,292786,,https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A
+5bepW5vcdRzheNc0F8lHJ5,3bRBaAPIdMqP53D29w19d5,A Day in the Life,Milton + esperanza,2024-08-09,39,276906,,https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5
+5bepW5vcdRzheNc0F8lHJ5,2m4AKjV0OBfSft7YYh8y5x,Ponta De Areia,Esperanza,2008-01-01,38,336706,,https://open.spotify.com/track/2m4AKjV0OBfSft7YYh8y5x
+5bepW5vcdRzheNc0F8lHJ5,2CS0RcwxuawBHEs8n7gS3i,Precious,Esperanza,2008-01-01,37,263506,,https://open.spotify.com/track/2CS0RcwxuawBHEs8n7gS3i
+5bepW5vcdRzheNc0F8lHJ5,6k0lzN7Kxib0afD6cgPHsG,Fall In,Esperanza,2008-01-01,36,236786,,https://open.spotify.com/track/6k0lzN7Kxib0afD6cgPHsG
+5bepW5vcdRzheNc0F8lHJ5,4B8vve5fx3Uwr3a2be5hsJ,Outubro,Milton + esperanza,2024-08-09,32,317520,,https://open.spotify.com/track/4B8vve5fx3Uwr3a2be5hsJ
+5bepW5vcdRzheNc0F8lHJ5,7tQESAjUFNA4vi6xVOTjoQ,Why We Speak [Feat. Q-Tip & Esperanza Spalding],Black Radio III,2022-02-25,34,379213,,https://open.spotify.com/track/7tQESAjUFNA4vi6xVOTjoQ
+5bepW5vcdRzheNc0F8lHJ5,1cPqIlKo0WoN0hNE13lwIs,Cais,Milton + esperanza,2024-08-09,33,221160,,https://open.spotify.com/track/1cPqIlKo0WoN0hNE13lwIs
+5cM1PvItlR21WUyBnsdMcn,1G3T5V2s3fKF0jhSjr2ZjQ,From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix),Dinner Party: Dessert,2020-10-09,60,152113,,https://open.spotify.com/track/1G3T5V2s3fKF0jhSjr2ZjQ
+5cM1PvItlR21WUyBnsdMcn,47v4uUtj5AukJmCbMq4Kry,Freeze Tag (feat. Phoelix),Dinner Party,2020-07-10,53,191936,,https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry
+5cM1PvItlR21WUyBnsdMcn,1GmIFHYT3N2V3G0MoYhEil,Melt Session #1 [Feat. Robert Glasper],Melt My Eyez See Your Future,2022-03-25,52,241240,,https://open.spotify.com/track/1GmIFHYT3N2V3G0MoYhEil
+5cM1PvItlR21WUyBnsdMcn,59MIBKUD1FSQvettQGHpSz,Joy To The World (feat. Alex Isley),In December,2024-11-01,51,327906,,https://open.spotify.com/track/59MIBKUD1FSQvettQGHpSz
+5cM1PvItlR21WUyBnsdMcn,7e0j6jReCfN5KJkDNLHyHQ,Afro Blue,Black Radio,2012-02-24,49,307626,,https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ
+5cM1PvItlR21WUyBnsdMcn,3Czw867MbvBiyEd1QCvjmq,From My Heart and My Soul (feat. Phoelix),Dinner Party,2020-07-10,47,150496,,https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq
+5cM1PvItlR21WUyBnsdMcn,4i8AsLFPCFip6SbEDOFvYq,Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello],Black Radio III,2022-02-25,40,291613,,https://open.spotify.com/track/4i8AsLFPCFip6SbEDOFvYq
+5cM1PvItlR21WUyBnsdMcn,3B5ThZXjhniuy1dh92SUpV,Afro Blue - 9th Wonder's Blue Light Basement Remix,Black Radio (Deluxe Edition),2022-11-11,40,307440,,https://open.spotify.com/track/3B5ThZXjhniuy1dh92SUpV
+5cM1PvItlR21WUyBnsdMcn,6h7jn2jE2EqJadOkDXsDJh,Sleepless Nights (feat. Phoelix),Dinner Party,2020-07-10,45,179226,,https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh
+5cM1PvItlR21WUyBnsdMcn,3FKBmeJkKpyRrbXtZ6JBkZ,Therapy pt. 2 [Feat. Mac Miller],Black Radio III (Supreme Edition),2022-10-14,38,202225,,https://open.spotify.com/track/3FKBmeJkKpyRrbXtZ6JBkZ
+6HQYnRM4OzToCYPpVBInuU,1G3T5V2s3fKF0jhSjr2ZjQ,From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix),Dinner Party: Dessert,2020-10-09,60,152113,,https://open.spotify.com/track/1G3T5V2s3fKF0jhSjr2ZjQ
+6HQYnRM4OzToCYPpVBInuU,47v4uUtj5AukJmCbMq4Kry,Freeze Tag (feat. Phoelix),Dinner Party,2020-07-10,53,191936,,https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry
+6HQYnRM4OzToCYPpVBInuU,61wsDs3Dbb11h1m2tw9eMZ,No Excuses (feat. Ludwig Göransson & Kamasi Washington),Bando Stone and The New World,2024-07-19,51,443205,,https://open.spotify.com/track/61wsDs3Dbb11h1m2tw9eMZ
+6HQYnRM4OzToCYPpVBInuU,3Czw867MbvBiyEd1QCvjmq,From My Heart and My Soul (feat. Phoelix),Dinner Party,2020-07-10,47,150496,,https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq
+6HQYnRM4OzToCYPpVBInuU,6WzTc2F3x6kJ4jJC2Fasqt,Song For Fraser,Becoming (Music from the Netflix Original Documentary),2020-05-15,46,140004,,https://open.spotify.com/track/6WzTc2F3x6kJ4jJC2Fasqt
+6HQYnRM4OzToCYPpVBInuU,6h7jn2jE2EqJadOkDXsDJh,Sleepless Nights (feat. Phoelix),Dinner Party,2020-07-10,45,179226,,https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh
+6HQYnRM4OzToCYPpVBInuU,4bZ7AZNl13T2t5VI6Dzn1m,Love You Bad (feat. Malaya & Phoelix),Dinner Party: Dessert,2020-10-09,45,135160,,https://open.spotify.com/track/4bZ7AZNl13T2t5VI6Dzn1m
+6HQYnRM4OzToCYPpVBInuU,6lQyCgVnSxnOssgLIOZItN,wanted,ceremonial contrafact (empathogen deluxe),2024-09-27,44,159200,,https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN
+6HQYnRM4OzToCYPpVBInuU,1ux778Ljln0QEitz2fB4PH,First Responders,Dinner Party,2020-07-10,43,289583,,https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH
+6HQYnRM4OzToCYPpVBInuU,42HCaQAAihJZBY12wIZvyR,Street Fighter Mas,Heaven and Earth,2018-06-22,39,358151,,https://open.spotify.com/track/42HCaQAAihJZBY12wIZvyR
+2q37Nw8NND2z1T1KU5XVfn,7G9VsVr1m6YzaJgHyRgz4y,Isadora,Yesterday You Said Tomorrow,2010-01-01,35,373880,,https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y
+2q37Nw8NND2z1T1KU5XVfn,5ZXpqQEyGjhzy6n6wgzF7e,No Love,Diaspora,2017-06-23,30,370057,,https://open.spotify.com/track/5ZXpqQEyGjhzy6n6wgzF7e
+2q37Nw8NND2z1T1KU5XVfn,5UTIqKRaM1PaZ0K153R2I1,Phases,Ruler Rebel,2017-03-31,26,255179,,https://open.spotify.com/track/5UTIqKRaM1PaZ0K153R2I1
+2q37Nw8NND2z1T1KU5XVfn,71tQB5sKtc7bImFPxQTjz0,The Eraser,Yesterday You Said Tomorrow,2010-01-01,24,325866,,https://open.spotify.com/track/71tQB5sKtc7bImFPxQTjz0
+2q37Nw8NND2z1T1KU5XVfn,2vz8hdT8tywDdq4z8uBVi0,Ruler Rebel [X. aTunde Adjuah Remix],The Emancipation Procrastination,2017-10-20,24,353696,,https://open.spotify.com/track/2vz8hdT8tywDdq4z8uBVi0
+2q37Nw8NND2z1T1KU5XVfn,5LF246Vvt0uZgIcZ1Pj7mq,So What,Rewind That,2006-01-01,23,244933,,https://open.spotify.com/track/5LF246Vvt0uZgIcZ1Pj7mq
+2q37Nw8NND2z1T1KU5XVfn,55CTTZPeFsk2PDVs30R85b,New Orleanian Love Song,Ruler Rebel,2017-03-31,23,153472,,https://open.spotify.com/track/55CTTZPeFsk2PDVs30R85b
+2q37Nw8NND2z1T1KU5XVfn,6fW4xXsoUnUvm11CnqGHXu,The Reckoning,Ruler Rebel,2017-03-31,23,196314,,https://open.spotify.com/track/6fW4xXsoUnUvm11CnqGHXu
+2q37Nw8NND2z1T1KU5XVfn,0GdpNrAXxfPzO8bNVGBbBF,The Emancipation Procrastination,The Emancipation Procrastination,2017-10-20,23,385343,,https://open.spotify.com/track/0GdpNrAXxfPzO8bNVGBbBF
+2q37Nw8NND2z1T1KU5XVfn,3YbN2tZoOiQDimuoNI7Wj5,The Walk,Diaspora,2017-06-23,21,319352,,https://open.spotify.com/track/3YbN2tZoOiQDimuoNI7Wj5
+6PkSULcbxFKkxdgrmPGAvn,7HMUSp18RlaBFpBD2yVgel,Le Mal de Vivre,For One to Love,2015-09-04,45,374243,,https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel
+6PkSULcbxFKkxdgrmPGAvn,5FpmRoCduqD28smrRs6mdl,I Didn't Know What Time It Was,WomanChild,2013-05-28,40,367493,,https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl
+6PkSULcbxFKkxdgrmPGAvn,2wZTxjnKdOpgPLi85ItFlr,One Step Ahead,The Window,2018-09-28,40,129127,,https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr
+6PkSULcbxFKkxdgrmPGAvn,6iaE1tdPPx5KILayeCMOBl,Moon Song,Ghost Song,2022-03-04,38,184868,,https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl
+6PkSULcbxFKkxdgrmPGAvn,4FYmHTavxSVFUPyM2GUpPb,Monday,For One to Love,2015-09-04,36,121039,,https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb
+6PkSULcbxFKkxdgrmPGAvn,1fEwoRCXc2B5z8Qla4B2xs,Wuthering Heights - Kassa Overall Remix,Wuthering Heights (Kassa Overall Remix),2023-01-20,35,200240,,https://open.spotify.com/track/1fEwoRCXc2B5z8Qla4B2xs
+6PkSULcbxFKkxdgrmPGAvn,3YSyFPN4BpcKwE4Oy12vlD,Wuthering Heights,Ghost Song,2022-03-04,33,163997,,https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD
+6PkSULcbxFKkxdgrmPGAvn,4bRdpuO98x8kfmxsphWA9h,Siete Lágrimas,Siete Lágrimas,2023-12-12,18,161089,,https://open.spotify.com/track/4bRdpuO98x8kfmxsphWA9h
+6PkSULcbxFKkxdgrmPGAvn,1710r4hqXR33zvno2TtqFV,"Easy Come, Easy Go Blues","Easy Come, Easy Go Blues",2018,28,152654,,https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV
+6PkSULcbxFKkxdgrmPGAvn,4uskCkze8NPSFfYP8rsZ4T,Thunderclouds,Ghost Song,2022-03-04,27,216564,,https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T
+27DeRe5LjIt9ZPXUjF90h6,0BUQnIR6u8DFHClDlruO1u,Saaqi (feat. Vijay Iyer),Night Reign,2024-05-31,36,406831,,https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u
+27DeRe5LjIt9ZPXUjF90h6,1eFVNyH4oQNk2IUxQJkpJN,Compassion,Compassion,2024-02-02,28,290720,,https://open.spotify.com/track/1eFVNyH4oQNk2IUxQJkpJN
+27DeRe5LjIt9ZPXUjF90h6,1D42rwI1u5maD2UwlSPCJl,Prelude: Orison,Compassion,2024-02-02,26,223933,,https://open.spotify.com/track/1D42rwI1u5maD2UwlSPCJl
+27DeRe5LjIt9ZPXUjF90h6,6vT6GhO6th2JE3NBQRlhKL,Human Nature (Trio Extension),Accelerando,2012-02-24,23,579160,,https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL
+27DeRe5LjIt9ZPXUjF90h6,6RJsrmIhOVRyaXMztto2Hh,Arch,Compassion,2024-02-02,25,373546,,https://open.spotify.com/track/6RJsrmIhOVRyaXMztto2Hh
+27DeRe5LjIt9ZPXUjF90h6,6M3usJPYEhslEX2zpII94T,To Remain/To Return - Excerpt,Love In Exile,2023-03-24,24,199829,,https://open.spotify.com/track/6M3usJPYEhslEX2zpII94T
+27DeRe5LjIt9ZPXUjF90h6,7JBt1jGh7sYS1uCHt5kCxR,Overjoyed,Compassion,2024-02-02,24,472853,,https://open.spotify.com/track/7JBt1jGh7sYS1uCHt5kCxR
+27DeRe5LjIt9ZPXUjF90h6,2IsMmLgrMbFjfDFe2Beur5,Sajni,Love In Exile,2023-03-24,24,486598,,https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5
+27DeRe5LjIt9ZPXUjF90h6,6cLDvmIs9HFzFpdhxEaPRk,Maelstrom,Compassion,2024-02-02,23,276546,,https://open.spotify.com/track/6cLDvmIs9HFzFpdhxEaPRk
+27DeRe5LjIt9ZPXUjF90h6,4e8agQaMAW7fb6xZaL8eJ1,Haseen Thi,Love In Exile,2023-03-24,22,728064,,https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1
+06nevPmNVfWUXyZkccahL8,07dGxSNWODNv1cillZOpDw,Christmas Wish,Christmas Wish (Deluxe),2024-12-06,48,234341,,https://open.spotify.com/track/07dGxSNWODNv1cillZOpDw
+06nevPmNVfWUXyZkccahL8,5v6dX8dou6GXiJ2AnVdhMZ,Everything’s Not Lost,Christmas Wish (Deluxe),2024-12-06,49,248689,,https://open.spotify.com/track/5v6dX8dou6GXiJ2AnVdhMZ
+06nevPmNVfWUXyZkccahL8,6wp5tGVNQYpKJPo1s3WUEY,Liquid Spirit - Claptone Remix,Liquid Spirit (Claptone Remix),2015-07-17,56,383552,,https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY
+06nevPmNVfWUXyZkccahL8,3VFr9JYb6ppsl4yxwerUXq,Hey Laura,Liquid Spirit (Deluxe Version),2013-01-01,55,199426,,https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq
+06nevPmNVfWUXyZkccahL8,70gk9Y6aKEdWiASuu59T7Q,L-O-V-E,"Nat ""King"" Cole & Me (Deluxe)",2017-10-27,54,128520,,https://open.spotify.com/track/70gk9Y6aKEdWiASuu59T7Q
+06nevPmNVfWUXyZkccahL8,3Wd13tvf1jWp1EM8pTgixb,Christmas Waltz,Christmas Wish (Deluxe),2024-12-06,51,201885,,https://open.spotify.com/track/3Wd13tvf1jWp1EM8pTgixb
+06nevPmNVfWUXyZkccahL8,1PrA3DUESsafXvaYp9OZ3P,The Christmas Song,"Nat ""King"" Cole & Me (Deluxe)",2017-10-27,51,224906,,https://open.spotify.com/track/1PrA3DUESsafXvaYp9OZ3P
+06nevPmNVfWUXyZkccahL8,2N4D7yNBIS0DZu1vIIp4Yz,We Have All The Time In The World - Cam Blackwood & Swindle Version,Christmas Wish (Deluxe),2024-12-06,39,196178,,https://open.spotify.com/track/2N4D7yNBIS0DZu1vIIp4Yz
+06nevPmNVfWUXyZkccahL8,2DnnTFkreV0FtinIYGHDb9,Revival,All Rise (Deluxe),2020-08-28,44,186989,,https://open.spotify.com/track/2DnnTFkreV0FtinIYGHDb9
+06nevPmNVfWUXyZkccahL8,3qxV7ocCfNBZbtwfRNN8dL,Christmas Will Really Be Christmas,Christmas Wish (Deluxe),2024-12-06,50,236751,,https://open.spotify.com/track/3qxV7ocCfNBZbtwfRNN8dL
+19f2JXwlRU26376TCKmp6L,3Z3wyUUPcKyw4nJkW2PqBA,Hopopono,v2.0 (Deluxe Edition),2014-03-17,47,236591,,https://open.spotify.com/track/3Z3wyUUPcKyw4nJkW2PqBA
+19f2JXwlRU26376TCKmp6L,6DNWsuWuAXAlpmsad1sGfz,Murmuration,v2.0 (Deluxe Edition),2014-03-17,40,252754,,https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz
+19f2JXwlRU26376TCKmp6L,4IQuLra1KorSLrHtkE9llq,Saturnine,Everything Is Going to Be OK,2023-04-14,36,293298,,https://open.spotify.com/track/4IQuLra1KorSLrHtkE9llq
+19f2JXwlRU26376TCKmp6L,0pcxvYCWcYn4FOlRM5aoW9,Don’t Go,GoGo Penguin,2020-06-12,36,219285,,https://open.spotify.com/track/0pcxvYCWcYn4FOlRM5aoW9
+19f2JXwlRU26376TCKmp6L,045wxsluiQXkFHTHbASfQ8,You're Stronger Than You Think,Everything Is Going to Be OK,2023-04-14,35,76659,,https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8
+19f2JXwlRU26376TCKmp6L,1KvAc16nNqXGgOXABbV1sA,Branches Break,Man Made Object (Deluxe),2016-02-05,31,262653,,https://open.spotify.com/track/1KvAc16nNqXGgOXABbV1sA
+19f2JXwlRU26376TCKmp6L,2U0wADexY4yIqCPXLYvUn2,Friday Film Special,Everything Is Going to Be OK,2023-04-14,32,249675,,https://open.spotify.com/track/2U0wADexY4yIqCPXLYvUn2
+19f2JXwlRU26376TCKmp6L,4JPj5HzPn5sRfwzqH9HMgX,Everything Is Going to Be OK,Everything Is Going to Be OK,2023-04-14,32,287992,,https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX
+19f2JXwlRU26376TCKmp6L,7rE5bopDSCT6dltTT8WPH9,Wave Decay,From the North - GoGo Penguin Live in Manchester,2024-04-05,32,307674,,https://open.spotify.com/track/7rE5bopDSCT6dltTT8WPH9
+19f2JXwlRU26376TCKmp6L,7ajx2XVYVxRmJB0QBSjuqq,Ascent,From the North - GoGo Penguin Live in Manchester,2024-04-05,31,272291,,https://open.spotify.com/track/7ajx2XVYVxRmJB0QBSjuqq
+6ywMpa6AmGJpV5Sbyy58Js,3ixFx7kbMdBVSeMqfYagJN,To The Moon (feat. André 3000),To The Moon,2024-12-06,41,466480,,https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN
+6ywMpa6AmGJpV5Sbyy58Js,6DvZ7ovQvtMlvJ1twDF2Zr,End Of Innocence,"Perceive Its Beauty, Acknowledge Its Grace",2024-04-12,42,156933,,https://open.spotify.com/track/6DvZ7ovQvtMlvJ1twDF2Zr
+6ywMpa6AmGJpV5Sbyy58Js,3IiaROiVHOVkwfX1DCHM31,Insecurities (feat. Moses Sumney),"Perceive Its Beauty, Acknowledge Its Grace",2024-04-12,41,279240,,https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31
+6ywMpa6AmGJpV5Sbyy58Js,08DfXlU9bWDIlai62OJJIG,Kiss Me Before I Forget (feat. Lianne La Havas),"Perceive Its Beauty, Acknowledge Its Grace",2024-04-12,40,177133,,https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG
+6ywMpa6AmGJpV5Sbyy58Js,4rQuuNKKmV7K45aJoVqyIQ,"I’ll Do Whatever You Want (feat. Floating Points, Laraaji)","Perceive Its Beauty, Acknowledge Its Grace",2024-04-12,37,463080,,https://open.spotify.com/track/4rQuuNKKmV7K45aJoVqyIQ
+6ywMpa6AmGJpV5Sbyy58Js,3EN3dG3umzscCVexyyTSxw,Timepieces (feat. Billy Woods),Timepieces,2024-11-15,35,142066,,https://open.spotify.com/track/3EN3dG3umzscCVexyyTSxw
+6ywMpa6AmGJpV5Sbyy58Js,1lpVKWaSCwMi3WHZt3MPr7,"Managing My Breath, What Fear Had Become (feat. Saul Williams)","Perceive Its Beauty, Acknowledge Its Grace",2024-04-12,36,191480,,https://open.spotify.com/track/1lpVKWaSCwMi3WHZt3MPr7
+6ywMpa6AmGJpV5Sbyy58Js,3iHDIFbCyQujvZ5584bxKA,As The Planets And The Stars Collapse,"Perceive Its Beauty, Acknowledge Its Grace",2024-04-12,34,155786,,https://open.spotify.com/track/3iHDIFbCyQujvZ5584bxKA
+6ywMpa6AmGJpV5Sbyy58Js,0OK7oUUtjtUAVNxgXFtqsw,Black meditation,Afrikan Culture,2022-05-20,33,238560,,https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw
+6ywMpa6AmGJpV5Sbyy58Js,1nGsKa3LjiCzWKz6fJs8N9,Spiritual Sun,Big Majestic,2024-08-30,30,201970,,https://open.spotify.com/track/1nGsKa3LjiCzWKz6fJs8N9
+6O5k8LLRfDK8v9jj1GazAQ,26LFjnGEFsVB7J6iMecb1A,Dawn [ft. esperanza spalding],Odyssey,2024-09-20,41,292786,,https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A
+6O5k8LLRfDK8v9jj1GazAQ,4io6SoknlqXWcR30IphizL,Set It Free,Odyssey,2024-09-20,37,245413,,https://open.spotify.com/track/4io6SoknlqXWcR30IphizL
+6O5k8LLRfDK8v9jj1GazAQ,4Wt7ZGzelNDUZCCZxgLsuK,Together Is A Beautiful Place To Be - Nala Sinephro Remix,SOURCE ⧺ WE MOVE,2021-10-22,38,147000,,https://open.spotify.com/track/4Wt7ZGzelNDUZCCZxgLsuK
+6O5k8LLRfDK8v9jj1GazAQ,7IBZxHYKdngAq94qHqQNpY,Odyssey,Odyssey,2024-09-20,34,443493,,https://open.spotify.com/track/7IBZxHYKdngAq94qHqQNpY
+6O5k8LLRfDK8v9jj1GazAQ,1Iqf44ajQJicxR5rxdt3Qp,The Seer,Odyssey,2024-09-20,33,302960,,https://open.spotify.com/track/1Iqf44ajQJicxR5rxdt3Qp
+6O5k8LLRfDK8v9jj1GazAQ,2aF3B3INIApSl1r8YQrxfA,Triumphance,Odyssey,2024-09-20,34,354733,,https://open.spotify.com/track/2aF3B3INIApSl1r8YQrxfA
+6O5k8LLRfDK8v9jj1GazAQ,3gvSk09m7tUz3hUa8BCrqF,Clarity,Odyssey,2024-09-20,30,375293,,https://open.spotify.com/track/3gvSk09m7tUz3hUa8BCrqF
+6O5k8LLRfDK8v9jj1GazAQ,4cr8FyfxkPatU8ca7cCzmN,The Message Continues,SOURCE,2020-08-21,32,404773,,https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN
+6O5k8LLRfDK8v9jj1GazAQ,6eTT6SQgTfXiKXdvMe0ZID,Lost Kingdoms,Nubya's 5ive,2017-05-17,32,458605,,https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID
+6O5k8LLRfDK8v9jj1GazAQ,00KtAJO67furJLxsvgbEvr,Solstice,Odyssey,2024-09-20,32,289826,,https://open.spotify.com/track/00KtAJO67furJLxsvgbEvr
+0QWrMNukfcVOmgEU0FEDyD,4BxLl0Pc6wvDX7iHX1xrMV,I'll Be Home For Christmas,Three Christmas Songs – An Abbey Road Live To Vinyl Cut,2024-11-22,62,282536,,https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV
+0QWrMNukfcVOmgEU0FEDyD,275XKjLmQFuZnxTvvtJ6VZ,Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer),Djesse Vol. 4,2024-03-01,54,250200,,https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ
+0QWrMNukfcVOmgEU0FEDyD,3oTYv0yShT4sjuPncoUXfK,❤️,Music Of The Spheres,2021-10-15,55,188966,,https://open.spotify.com/track/3oTYv0yShT4sjuPncoUXfK
+0QWrMNukfcVOmgEU0FEDyD,4asa5agcZmibrmpTmb1q6m,Bridge Over Troubled Water (feat. John Legend & Tori Kelly),Djesse Vol. 4,2024-03-01,46,352106,,https://open.spotify.com/track/4asa5agcZmibrmpTmb1q6m
+0QWrMNukfcVOmgEU0FEDyD,0drXyxyFFvnaQxnYOszTo9,Little Blue (feat. Brandi Carlile),Djesse Vol. 4,2024-03-01,49,265333,,https://open.spotify.com/track/0drXyxyFFvnaQxnYOszTo9
+0QWrMNukfcVOmgEU0FEDyD,1G9EQgDHJpQngoQLYKZYmu,Wherever I Go (feat. Lawrence & Michael McDonald),Djesse Vol. 4,2024-03-01,49,165240,,https://open.spotify.com/track/1G9EQgDHJpQngoQLYKZYmu
+0QWrMNukfcVOmgEU0FEDyD,1iTiSQWPJNqthOMG8HG6gI,Time Alone With You (feat. Daniel Caesar),Djesse Vol. 3,2020-08-14,46,256239,,https://open.spotify.com/track/1iTiSQWPJNqthOMG8HG6gI
+0QWrMNukfcVOmgEU0FEDyD,164VgxTozx99XCinCB9ITR,All I Need (with Mahalia & Ty Dolla $ign),Djesse Vol. 3,2020-08-14,49,245200,,https://open.spotify.com/track/164VgxTozx99XCinCB9ITR
+0QWrMNukfcVOmgEU0FEDyD,32bIjXtZWUk21aC7fooG8g,"Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",Djesse Vol. 4,2024-03-01,43,222120,,https://open.spotify.com/track/32bIjXtZWUk21aC7fooG8g
+0QWrMNukfcVOmgEU0FEDyD,6BzQnbYMiASXdwTerVH3zy,The Sun Is In Your Eyes - Voice Memo,The Sun Is In Your Eyes (Voice Memo),2021-01-01,47,111875,,https://open.spotify.com/track/6BzQnbYMiASXdwTerVH3zy
+7ENzCHnmJUr20nUjoZ0zZ1,68d6ZfyMUYURol2y15Ta2Y,Lingus,We Like It Here,2014-02-25,46,645720,,https://open.spotify.com/track/68d6ZfyMUYURol2y15Ta2Y
+7ENzCHnmJUr20nUjoZ0zZ1,1BWsQm7kOBjK2aSFYg5HQZ,Shofukan,We Like It Here,2014-02-25,44,393053,,https://open.spotify.com/track/1BWsQm7kOBjK2aSFYg5HQZ
+7ENzCHnmJUr20nUjoZ0zZ1,1MglqgabKH4iSkw8xHJ0J9,What About Me?,We Like It Here,2014-02-25,42,402266,,https://open.spotify.com/track/1MglqgabKH4iSkw8xHJ0J9
+7ENzCHnmJUr20nUjoZ0zZ1,4ABDChCwUR9D600e1Me2Tt,Mean Green,Empire Central,2022-09-30,39,294959,,https://open.spotify.com/track/4ABDChCwUR9D600e1Me2Tt
+7ENzCHnmJUr20nUjoZ0zZ1,2hg38O0rPa8Ny1i3xQWV7N,Tarova,Culcha Vulcha,2016-04-26,38,219077,,https://open.spotify.com/track/2hg38O0rPa8Ny1i3xQWV7N
+7ENzCHnmJUr20nUjoZ0zZ1,0iCfsaRtCoL2CuoPAfLZlq,Gretel - Bonus Version,We Like It Here (Remixed + Remastered + Reimagined),2024-12-06,30,265744,,https://open.spotify.com/track/0iCfsaRtCoL2CuoPAfLZlq
+7ENzCHnmJUr20nUjoZ0zZ1,41fiRrzEqGo4pTVqXYrfnz,Sleeper,We Like It Here,2014-02-25,37,411573,,https://open.spotify.com/track/41fiRrzEqGo4pTVqXYrfnz
+7ENzCHnmJUr20nUjoZ0zZ1,2Jim49nxjnjcTdyCJO4mr6,Outlier,We Like It Here,2014-02-25,36,405306,,https://open.spotify.com/track/2Jim49nxjnjcTdyCJO4mr6
+7ENzCHnmJUr20nUjoZ0zZ1,4MIXgItmCtVLCnT4BvU5tU,Amour T'es La,Family Dinner - Vol. 1,2013-09-24,36,262693,,https://open.spotify.com/track/4MIXgItmCtVLCnT4BvU5tU
+7ENzCHnmJUr20nUjoZ0zZ1,7pnM9gB0aO7WrIYqjeZaPX,Bet,Empire Central,2022-09-30,34,333979,,https://open.spotify.com/track/7pnM9gB0aO7WrIYqjeZaPX
+3pvRbmrqOyFxB2Eext4Dki,0dPrF5uEHk2hqbBxaMOxsP,To Never Forget The Source,Black To The Future,2021-05-14,38,175440,,https://open.spotify.com/track/0dPrF5uEHk2hqbBxaMOxsP
+3pvRbmrqOyFxB2Eext4Dki,28uZjhU60BosFYSMJLJoQ3,My Queen Is Albertina Sisulu,Your Queen Is A Reptile,2018-03-30,39,314693,,https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3
+3pvRbmrqOyFxB2Eext4Dki,3XxUkSDs1q76SetgaioRKN,My Queen Is Nanny Of The Maroons,Your Queen Is A Reptile,2018-03-30,32,401693,,https://open.spotify.com/track/3XxUkSDs1q76SetgaioRKN
+3pvRbmrqOyFxB2Eext4Dki,2pKdE8YhzKRshWuQkolWlV,Hustle,Black To The Future,2021-05-14,29,318226,,https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV
+3pvRbmrqOyFxB2Eext4Dki,2iRy66b9oGfv2hg48EeaTt,My Queen Is Ada Eastman,Your Queen Is A Reptile,2018-03-30,30,399733,,https://open.spotify.com/track/2iRy66b9oGfv2hg48EeaTt
+3pvRbmrqOyFxB2Eext4Dki,1qe9hue6nh9KPHvRlA1hob,My Queen Is Harriet Tubman,Your Queen Is A Reptile,2018-03-30,28,338133,,https://open.spotify.com/track/1qe9hue6nh9KPHvRlA1hob
+3pvRbmrqOyFxB2Eext4Dki,3pnNgeNlquxQLB5OdC3FJh,Think Of Home,Black To The Future,2021-05-14,26,212066,,https://open.spotify.com/track/3pnNgeNlquxQLB5OdC3FJh
+3pvRbmrqOyFxB2Eext4Dki,6gDl3E9aHVipNzutEV4ZGz,My Queen Is Anna Julia Cooper,Your Queen Is A Reptile,2018-03-30,26,305120,,https://open.spotify.com/track/6gDl3E9aHVipNzutEV4ZGz
+3pvRbmrqOyFxB2Eext4Dki,62dE6YTkOeYZZHArIbajxr,My Queen Is Mamie Phipps Clark,Your Queen Is A Reptile,2018-03-30,25,329866,,https://open.spotify.com/track/62dE6YTkOeYZZHArIbajxr
+3pvRbmrqOyFxB2Eext4Dki,3yIHMyH6AeiaRRtAD7WgNQ,Play Mass,Lest We Forget What We Came Here to Do,2015-09-25,25,304068,,https://open.spotify.com/track/3yIHMyH6AeiaRRtAD7WgNQ
+65dGLGjkw3UbddUg2GKQoZ,1IqF5PUDUnaykHLs0RWbDO,Time Moves Slow,IV,2016-07-08,65,273864,,https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO
+65dGLGjkw3UbddUg2GKQoZ,5toKOQ86ydhA5UJ8DfENzy,Running Away,Running Away,2021-06-21,60,111786,,https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy
+65dGLGjkw3UbddUg2GKQoZ,4jmLj7bALZTQoe93dT623W,In Your Eyes,IV,2016-07-08,57,247054,,https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W
+65dGLGjkw3UbddUg2GKQoZ,6EbIz9W5NirugVL9muoqBQ,Running Away (Time),Running Away (Time),2021-11-22,57,92266,,https://open.spotify.com/track/6EbIz9W5NirugVL9muoqBQ
+65dGLGjkw3UbddUg2GKQoZ,5D7AFGloFpXtdT2PiKTEC3,Alien Love Call,New Heart Designs,2023-08-11,55,222741,,https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3
+65dGLGjkw3UbddUg2GKQoZ,2hFJkTkYuul6obJwUakb0v,One Last Dance,Slow Burn,2024-04-12,54,208741,,https://open.spotify.com/track/2hFJkTkYuul6obJwUakb0v
+65dGLGjkw3UbddUg2GKQoZ,5SqHQPdRnsypIJEJNTspWE,Caroline,Slow Burn,2024-04-12,51,246836,,https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE
+65dGLGjkw3UbddUg2GKQoZ,2enifRQ2CMEK8VPFhtX7cR,Poeira Cosmica,Poeira Cosmica,2024-11-07,50,253482,,https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR
+65dGLGjkw3UbddUg2GKQoZ,5UWJ898JHDe9Ong9Gnkdhd,Sleeper,Sleeper,2023-10-18,47,244271,,https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd
+65dGLGjkw3UbddUg2GKQoZ,37d6wINGgXhG8r95A13M4i,Marking My Time - BADBADNOTGOOD Edit,Marking My Time (BADBADNOTGOOD Edit),2023-11-10,47,252503,,https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i
+5FnpXrrMdJVZCK54oHWqUa,1fHjb4JsAuno8LTSWCV6i6,Butterscotch,In the Moment,2015-01-20,31,159092,,https://open.spotify.com/track/1fHjb4JsAuno8LTSWCV6i6
+5FnpXrrMdJVZCK54oHWqUa,2G6rigRT2zK9yV2Xkbopnn,Autumn In New York,Deciphering The Message,2021-11-19,34,355880,,https://open.spotify.com/track/2G6rigRT2zK9yV2Xkbopnn
+5FnpXrrMdJVZCK54oHWqUa,0uxgN97AvcTbJFZSflyoKa,Inner Flight,Universal Beings,2018-10-26,29,182946,,https://open.spotify.com/track/0uxgN97AvcTbJFZSflyoKa
+5FnpXrrMdJVZCK54oHWqUa,7kqt0dEjaIw3pdoqbDn3RF,Gnawa,In the Moment,2015-01-20,26,119315,,https://open.spotify.com/track/7kqt0dEjaIw3pdoqbDn3RF
+5FnpXrrMdJVZCK54oHWqUa,3FGtaWXYYsnxGjnlhDWwT7,The Jaunt,In the Moment,2015-01-20,25,162642,,https://open.spotify.com/track/3FGtaWXYYsnxGjnlhDWwT7
+5FnpXrrMdJVZCK54oHWqUa,6AS9fqmJHJinba1tremx4a,When Your Lover Has Gone,Deciphering The Message,2021-11-19,29,131160,,https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a
+5FnpXrrMdJVZCK54oHWqUa,0tYG6RjHYC3nrbyPtbhnQs,Never In My Short Sweet Life - Makaya McCraven Remix,Never In My Short Sweet Life (Makaya McCraven Remix),2024-08-06,29,278690,,https://open.spotify.com/track/0tYG6RjHYC3nrbyPtbhnQs
+5FnpXrrMdJVZCK54oHWqUa,4g5I3nH8en7B9P7RyOCWyk,I'm New Here,We're New Again - A Reimagining by Makaya McCraven,2020-02-07,24,253453,,https://open.spotify.com/track/4g5I3nH8en7B9P7RyOCWyk
+5FnpXrrMdJVZCK54oHWqUa,7vrUr4ik4xw8ukdGdQ1v9Q,Dream Another,In These Times,2022-09-23,23,192937,,https://open.spotify.com/track/7vrUr4ik4xw8ukdGdQ1v9Q
+5FnpXrrMdJVZCK54oHWqUa,3WHgOQumz1WxjuMJANYMFD,Black Rhythm Happening,Deciphering The Message,2021-11-19,17,214880,,https://open.spotify.com/track/3WHgOQumz1WxjuMJANYMFD
